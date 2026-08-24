@@ -28,3 +28,97 @@ dates:
   analyse_equipe_programme: 
   adoption_departement: 
   approbation_service_etudes: 
+
+competences:
+
+  - code: 00Q5
+    titre: "Effectuer le déploiement d'un réseau informatique local"
+    elements:
+      - "4 - Installer des services de partage de ressources"
+      - "5 - Mettre en service le réseau local"
+
+
+cible_formation: >-
+  À la fin du cours, l'élève sera capable de déployer un réseau
+  informatique et des services infonuagiques.
+
+notes_preliminaires: >-
+  Le cours 420-3D4-VI : Réseautique II fait partie de la formation menant au
+  diplôme d'études collégiales (DEC) dans le programme 420.B0 : Techniques
+  de l'informatique.
+
+  Il est offert en 3e session.
+
+  Une seule compétence est touchée par ce cours.
+
+  L'atteinte de la compétence 00Q5 : Effectuer le déploiement d'un réseau informatique 
+  local est complétée dans ce cours.
+
+  Son acquisition a débuté dans le cours 420-2C4-VI : Réseautique I
+  à la 2e session.
+
+  Le cours doit être dans le local de réseautique C-205.
+
+epreuve_finale:
+  ponderation: "50 %"
+  performance_finale_exigee: >-
+    À partir d'une mise en situation, l'élève aura à planifier et à implanter un réseau et des services infonuagiques.
+  contexte_realisation: >-
+    L'épreuve finale sera un examen individuel d'une durée de 2 heures qui
+    se déroulera dans une classe de portables avec le portable de
+    l'étudiant à la semaine 15. L'étudiant utilisera un compte Azure  
+    pour implanter un réseau et des services infonuagiques. 
+    Les notes de cours fournies par l'enseignant.e ainsi que les notes prises 
+    par l'étudiant.e seront permises. L'accès complet à internet est permis.
+  criteres_evaluation:
+    - "Compétence 00Q5 : Effectuer le déploiement d'un réseau informatique local"
+    - Interprétation juste de la demande
+    - Détermination correcte des services à installer
+    - Choix approprié des dispositifs de réseau infonuagique à installer
+    - Configuration correcte des services infonuagiques dans Azure
+
+
+demarche_pedagogique_suggeree: >-
+  Les étudiants travailleront sur and un environnement Azure.
+   Courtes périodes d'enseignement théorique suivies
+  d'application au fur et à mesure à l'aide d'exercices formatifs. Des
+  références de sites Web seront fournies par le professeur. L'élève devra
+  enrichir ces sources d'information par ses propres recherches. Des
+  activités seront proposées pour favoriser la coopération entre les
+  élèves, l'échange des connaissances et la prise en charge de son
+  apprentissage par l'élève.
+
+mediagraphie:
+  - ""
+
+materiel_requis: >-
+  Ordinateur portable
+
+elements_competence:
+  - code: 00Q5-4
+    titre: "Installer des services de partage de ressources"
+    duree_heures: 45
+    habiletes:
+      - "Appliquer la procédure d'installation de services"
+      - "Configurer les services"
+      - "Journaliser les configurations"
+    criteres_performance:
+      - "1 - Application rigoureuse de la procédure d'installation des services"
+      - "2 - Configuration correcte des services"
+      - "3 - Notation claire des configurations effectuées"
+    contenu_essentiel: >-
+      Services : Active Directory,  Microsoft Entra ID, Azure Backup;
+      Gestion de VM Azure pour déploiement de services divers 
+  - code: 00Q5-5
+    titre: "Mettre en service le réseau local"
+    duree_heures: 15
+    habiletes:
+      - "Appliquer des plans de tests"
+      - "Effectuer des correctifs"
+      - "Optimiser le fonctionnement du réseau"
+    criteres_performance:
+      - "1 - Application rigoureuse des plans de tests"
+      - "2 - Pertinence des correctifs"
+      - "3 - Fonctionnement optimal du réseau"
+    contenu_essentiel: >-
+      Azure Networking; 
