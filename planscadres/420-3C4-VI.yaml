@@ -1,0 +1,160 @@
+code: 420-3C4-VI
+titre: Piratage éthique
+programme:
+  numero: "420"
+  nom: Techniques de l'informatique
+profil: "B0 : Profil par défaut"
+departement_responsable: Informatique
+redacteurs:
+  - Carle, Shany
+  - Rivard, Étienne
+  - Tousignant, Simon
+prealables:
+  - cours: 420-2A4-VI
+    titre: Développement Web 1
+    type: Relatif
+  - cours: 420-2B4-VI
+    titre: Bases de données 1
+    type: Relatif
+  - cours: 420-2C4-VI
+    titre: Réseautique
+prealable_a: []
+note_prealable_a_absence: "Ce cours n'est préalable à aucun autre cours."
+note_prealables: >-
+  Ce cours pourrait être préalable aux cours qui ont un préalable spécial.
+duree_heures: 60
+ponderation: "2-2-1"
+unites: 1.67
+dates:
+  analyse_equipe_programme: 2020-02-19
+  adoption_departement: 2020-04-02
+  approbation_service_etudes: 2022-10-12
+
+competences:
+  - code: 00Q8
+    titre: "Effectuer des opérations de prévention en matière de sécurité de l'information"
+    elements:
+      - "1 - Analyser des risques en matière de sécurité de l'information"
+      - "2 - Appliquer des mesures de sécurité reconnues pour protéger le réseau"
+      - "3 - Appliquer des mesures de sécurité reconnues pour protéger une application"
+
+cible_formation: >-
+  À la fin du cours, l'élève sera capable d'effectuer des opérations de
+  prévention en matière de sécurité de l'information.
+
+notes_preliminaires: >-
+  Le cours 420-3C4-VI : Piratage éthique fait partie de la formation
+  menant au diplôme d'études collégiales (DEC) dans le programme 420.B0 :
+  Techniques de l'informatique.
+
+
+  Il est offert en 3e session.
+
+
+  Ce cours vise l'atteinte complète de la compétence 00Q8 : Effectuer des
+  opérations de prévention en matière de sécurité de l'information.
+
+
+  Le contenu du cours de piratage éthique se base essentiellement sur la
+  certification mondialement renommée Certified Ethical Hacker (CEH)
+  https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/
+
+epreuve_finale:
+  ponderation: "40 %"
+  performance_finale_exigee: >-
+    L'enseignante ou l'enseignant présentera aux élèves une mise en
+    contexte qui peut prendre plusieurs formes. Il peut s'agir d'une
+    simulation réseau, d'une machine virtuelle ou d'un système complet. À
+    l'aide des outils vus en classe, l'élève aura à analyser et à
+    identifier les vulnérabilités sur les différents périphériques. Par la
+    suite, il devra implanter des stratégies pour sécuriser les
+    vulnérabilités identifiées précédemment.
+  contexte_realisation: >-
+    L'épreuve finale sera un examen individuel à la semaine 15 et aura une
+    durée de 4 heures (2 périodes de 2 h). L'épreuve finale se déroulera
+    dans une classe de portables avec l'ordinateur de l'élève. L'élève
+    utilisera différents logiciels, scripts et outils pour identifier et
+    contrer les menaces. L'élève aura accès aux notes de cours et à la
+    recherche Internet.
+  criteres_evaluation:
+    - Inventaire précis de l'équipement informatique et des applications installés
+    - Inventaire adéquat des menaces potentielles et des vulnérabilités
+    - Configuration et personnalisation correctes des logiciels antivirus et coupe-feu
+    - Utilisation appropriée des utilitaires de cryptographie
+    - Détermination correcte des conséquences sur la sécurité
+    - Choix approprié des mesures de sécurité à appliquer
+    - Utilisation appropriée des stratégies de sécurisation des données entrées par l'utilisatrice et l'utilisateur
+    - Utilisation appropriée de mécanismes d'authentification et d'autorisation sécuritaires
+
+demarche_pedagogique_suggeree: >-
+  Pour simuler le comportement d'un pirate, l'élève aura à travailler sur
+  un système d'exploitation Linux qui démarre dans une machine virtuelle.
+  Courtes périodes d'enseignement théorique suivies d'application au fur
+  et à mesure à l'aide d'exercices formatifs. Des références de sites Web
+  seront fournies par le professeur. L'élève devra enrichir ces sources
+  d'information par ses propres recherches. Des activités seront proposées
+  pour favoriser la coopération entre les élèves, l'échange des
+  connaissances et la prise en charge de son apprentissage par l'élève.
+  Bien que certains travaux ne fassent pas l'objet d'évaluation sommative,
+  les élèves doivent absolument les compléter afin d'être prêts pour
+  l'épreuve finale.
+
+mediagraphie:
+  - "Le contenu du cours est inspiré du site : https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/"
+
+materiel_requis: >-
+  Clé USB 16Go et plus; ordinateur portable
+
+elements_competence:
+  - code: 00Q8-1
+    titre: "Analyser des risques en matière de sécurité de l'information"
+    duree_heures: 20
+    habiletes:
+      - "Répertorier un inventaire de l'équipement informatique et des applications installées."
+      - "Identifier les menaces potentielles et les vulnérabilités."
+      - "Déterminer les conséquences sur la sécurité."
+      - "Choisir les mesures de sécurité à appliquer."
+    criteres_performance:
+      - "1 - Inventaire précis de l'équipement informatique et des applications installés"
+      - "2 - Inventaire adéquat des menaces potentielles et des vulnérabilités"
+      - "3 - Détermination correcte des conséquences sur la sécurité"
+      - "4 - Choix approprié des mesures de sécurité à appliquer"
+    contenu_essentiel: >-
+      Reconnaissance; balayage d'un réseau; analyse des vulnérabilités;
+      analyse des serveurs; analyse du code source
+  - code: 00Q8-2
+    titre: "Appliquer des mesures de sécurité reconnues pour protéger le réseau"
+    duree_heures: 20
+    habiletes:
+      - "Utiliser des stratégies de sauvegarde"
+      - "Utiliser des stratégies d'attribution de droits d'accès"
+      - "Configurer et personnaliser un coupe-feu"
+      - "Reconnaitre un logiciel antivirus."
+      - "Utiliser des utilitaires de cryptographie"
+    criteres_performance:
+      - "1 - Utilisation appropriée des stratégies de sauvegarde"
+      - "2 - Utilisation appropriée des stratégies d'attribution des droits d'accès"
+      - "3 - Configuration et personnalisation correctes d'un coupe-feu."
+      - "4 - Reconnaissance de logiciels antivirus."
+      - "5 - Utilisation appropriée des utilitaires de cryptographie"
+    contenu_essentiel: >-
+      Les antivirus; les coupe-feu; les VPN; les systèmes de prévention et
+      de détection d'intrusions; les pare-feu physiques nouvelle génération
+      (ex: Cisco ASA); les menaces réseau; les types d'attaques réseau; les
+      tests de pénétration
+  - code: 00Q8-3
+    titre: "Appliquer des mesures de sécurité reconnues pour protéger une application"
+    duree_heures: 20
+    habiletes:
+      - "Utiliser des stratégies de sécurisation des données entrées par l'utilisatrice et l'utilisateur"
+      - "Utiliser des techniques de contrôle d'erreurs et des exceptions"
+      - "Utiliser des mécanismes d'authentification et d'autorisation sécuritaires"
+      - "Utiliser des bibliothèques de cryptographie"
+    criteres_performance:
+      - "1 - Utilisation appropriée des stratégies de sécurisation des données entrées par l'utilisatrice et l'utilisateur"
+      - "2 - Utilisation appropriée des techniques de contrôle des erreurs et des exceptions"
+      - "3 - Utilisation appropriée de mécanismes d'authentification et d'autorisation sécuritaires"
+      - "4 - Utilisation appropriée des bibliothèques de cryptographie"
+    contenu_essentiel: >-
+      Les serveurs Web; les applications Web; les injections SQL; les
+      objets connectés; les types d'attaques logicielles

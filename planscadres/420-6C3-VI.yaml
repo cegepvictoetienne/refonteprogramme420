@@ -1,0 +1,178 @@
+code: 420-6C3-VI
+titre: Projet personnel
+programme:
+  numero: "420"
+  nom: Techniques de l'informatique
+profil: "B0 : Profil par défaut"
+departement_responsable: Informatique
+redacteurs:
+  - Lagacé, Christiane
+  - Rivard, Étienne
+prealables: []
+note_prealables_absence: "Ce cours n'a aucun préalable."
+prealables_speciaux: >-
+  L'élève doit avoir réussi 25 des 27 cours de formation spécifique des
+  sessions 1 à 5 dont 420-5B5-VI ainsi que 8 cours de formation générale.
+prealable_a: []
+note_prealable_a_absence: "Ce cours n'est préalable à aucun autre cours."
+note_prealables: >-
+  Ce cours pourrait être préalable aux cours qui ont un préalable spécial.
+duree_heures: 45
+ponderation: "1-2-1"
+unites: 1.33
+avertissement: >-
+  La pondération de l'épreuve finale de ce plan-cadre est supérieure à 85%.
+  Ceci nécessite une demande d'ajustement.
+dates:
+  analyse_equipe_programme: 2021-09-22
+  adoption_departement: 2021-12-22
+  approbation_service_etudes: 2022-10-12
+
+competences:
+  - code: "0000"
+    titre: "Traiter l'information relative aux réalités du milieu du travail en informatique"
+    elements:
+      - "3 - Analyser l'information sur la profession de technicienne et technicien en informatique"
+  - code: 00SH
+    titre: "S'adapter à des technologies informatiques"
+    elements:
+      - "1 - Effectuer une veille technologique"
+      - "2 - Expérimenter une technologie matérielle ou logicielle"
+      - "3 - Formuler des avis sur la technologie"
+
+cible_formation: >-
+  À la fin du cours, l'élève sera en mesure de s'adapter à des technologies
+  informatiques notamment en s'appropriant une facette non couverte d'une
+  technologie étudiée dans les cours de sa formation.
+
+notes_preliminaires: >-
+  Le cours 420-6C3-VI : Projet personnel fait partie de la formation menant
+  au diplôme d'études collégiales (DEC) dans le programme 420.B0 :
+  Techniques de l'informatique.
+
+
+  Il est offert en 6e session.
+
+
+  Plusieurs compétences sont touchées par ce cours.
+
+
+  L'atteinte de la compétence 0000 : Traiter l'information relative aux
+  réalités du milieu du travail en informatique est complétée dans ce
+  cours.
+
+
+  Son acquisition a débuté dans les cours suivants : 420-1C4-VI : Outils
+  informatiques à la 1re session (profil B0 : Profil par défaut); 420-5A3-VI
+  : Technologies émergentes à la 5e session (profil B0 : Profil par défaut).
+
+
+  L'atteinte de la compétence 00SH : S'adapter à des technologies
+  informatiques est complétée dans ce cours.
+
+
+  Son acquisition a débuté dans le cours 420-5A3-VI : Technologies
+  émergentes à la 5e session.
+
+
+  Ce cours est donné de façon intensive sur deux semaines après le dernier
+  stage prévu à la séquence régulière.
+
+epreuve_finale:
+  ponderation: "100 %"
+  performance_finale_exigee: >-
+    L'élève produira un prototype fonctionnel d'une application qui utilise
+    la technologie choisie.
+
+
+    Le prototype sera accompagné d'un journal d'expérimentation qui indique
+    notamment les problèmes rencontrés, les solutions proposées et le
+    potentiel de la technologie.
+  contexte_realisation: >-
+    L'épreuve finale sera un travail long réalisé seul. Le développement du
+    prototype se déroulera sur deux semaines pendant du temps en classe et
+    hors classe.
+
+
+    Le travail sera remis à la fin du jour 7 de 8.
+  criteres_evaluation:
+    - Installation correcte des applications ou des outils de développement nécessaires
+    - Mise à l'essai adéquate de la technologie
+    - Manifestation d'attitudes et de comportements démontrant l'autonomie et l'ouverture d'esprit
+    - Justification adéquate du potentiel de la technologie
+    - Notation claire des problèmes rencontrés et des solutions proposées
+
+demarche_pedagogique_suggeree: >-
+  L'autonomie de l'élève est la pierre angulaire de ce cours. L'enseignante
+  ou l'enseignant jouera un rôle de chargé de projet.
+
+
+  La coopération entre les élèves est encouragée.
+
+
+  Les premières heures du premier cours seront consacrées à un tour de
+  table formatif sur les expériences de stage des élèves concernés.
+
+
+  Le cours sera agrémenté de plusieurs tours de table et discussions
+  relatives aux expérimentations en cours.
+
+mediagraphie:
+  - "Information à venir"
+
+materiel_requis: >-
+  Ordinateur portable
+
+elements_competence:
+  - code: "0000-3"
+    titre: "Analyser l'information sur la profession de technicienne et technicien en informatique"
+    duree_heures: 2
+    habiletes:
+      - "Faire ressortir l'essentiel sur les expériences de stage :"
+      - "Examiner des tâches et des responsabilités liées à la profession"
+      - "Distinguer les connaissances, des comportements, des attitudes et des habiletés nécessaires à l'exercice de la profession"
+      - "Distinguer les limites d'intervention propres à la profession"
+    criteres_performance:
+      - "1 - Examen détaillé des tâches et des responsabilités liées à la profession"
+      - "2 - Distinction juste des connaissances, des comportements, des attitudes et des habiletés nécessaires à l'exercice de la profession"
+      - "3 - Distinction juste des limites d'intervention propres à la profession"
+    contenu_essentiel: >-
+      Expériences vécues en stage
+  - code: 00SH-1
+    titre: "Effectuer une veille technologique"
+    duree_heures: 5
+    habiletes:
+      - "Rechercher des sources d'information"
+      - "Analyser l'information recueillie"
+    criteres_performance:
+      - "Recherche efficace de sources d'information"
+      - "Analyse juste de l'information recueillie"
+    contenu_essentiel: >-
+      Journal d'expérimentation
+  - code: 00SH-2
+    titre: "Expérimenter une technologie matérielle ou logicielle"
+    duree_heures: 35
+    habiletes:
+      - "Raccorder l'équipement informatique et les périphériques nécessaires"
+      - "Installer les applications ou les outils de développement nécessaires"
+      - "Mettre à l'essai la technologie"
+      - "Manifester des attitudes et des comportements démontrant l'autonomie et l'ouverture d'esprit"
+    criteres_performance:
+      - "1 - Raccordement correct de l'équipement informatique et des périphériques nécessaires"
+      - "2 - Installation correcte des applications ou des outils de développement nécessaires"
+      - "3 - Mise à l'essai adéquate de la technologie"
+      - "4 - Manifestation d'attitudes et de comportements démontrant l'autonomie et l'ouverture d'esprit"
+    contenu_essentiel: >-
+      Journal d'expérimentation; informations relatives à la technologie
+      expérimentée
+  - code: 00SH-3
+    titre: "Formuler des avis sur la technologie"
+    duree_heures: 3
+    habiletes:
+      - "Participer aux discussions"
+      - "Justifier le potentiel de la technologie"
+    criteres_performance:
+      - "1 - Participation active aux discussions"
+      - "2 - Justification adéquate du potentiel de la technologie"
+    contenu_essentiel: >-
+      Tours de table

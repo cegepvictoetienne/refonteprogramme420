@@ -1,0 +1,213 @@
+code: 420-3B3-VI
+titre: Jeux 2D
+programme:
+  numero: "420"
+  nom: Techniques de l'informatique
+profil: "B0 : Profil par défaut"
+departement_responsable: Informatique
+redacteurs:
+  - Taleb, Frédérik
+prealables:
+  - cours: 420-2A6-VI
+    titre: Programmation 2
+prealable_a: []
+note_prealable_a_absence: "Ce cours n'est préalable à aucun autre cours."
+note_prealables: >-
+  Ce cours pourrait être préalable aux cours qui ont un préalable spécial.
+duree_heures: 45
+ponderation: "1-2-1"
+unites: 1.33
+dates:
+  analyse_equipe_programme: 2020-02-19
+  adoption_departement: 2020-04-02
+  approbation_service_etudes: 2022-06-15
+
+competences:
+  - code: 00SW
+    titre: "Effectuer le développement d'applications de jeu ou de simulation"
+    elements:
+      - "1 - Analyser le projet de développement de l'application"
+      - "2 - Préparer l'environnement de développement informatique"
+      - "3 - Générer des représentations de mondes réels ou imaginaires"
+      - "4 - Programmer la logique du jeu ou de la simulation"
+      - "5 - Contrôler la qualité de l'application"
+      - "6 - Participer à la mise en service de l'application"
+      - "7 - Rédiger la documentation"
+
+cible_formation: >-
+  À la fin du cours l'élève sera en mesure de développer un jeu ou une
+  simulation en 2 dimensions.
+
+notes_preliminaires: >-
+  Le cours 420-3B3-VI : Jeux 2D fait partie de la formation menant au
+  diplôme d'études collégiales (DEC) dans le programme 420.B0 : Techniques
+  de l'informatique.
+
+
+  Il est offert en 3e session.
+
+
+  La compétence 00SW : Effectuer le développement d'applications de jeu ou
+  de simulation est vue partiellement.
+
+
+  Son atteinte sera complétée dans les cours suivants : 420-5A4-VI : Jeux
+  3D à la 5e session (profil B0 : Profil par défaut); 420-6B3-VI :
+  Environnements immersifs à la 6e session (profil B0 : Profil par défaut).
+
+epreuve_finale:
+  ponderation: "50 %"
+  performance_finale_exigee: >-
+    L'élève produira un jeu en 2 dimensions répondant à des critères
+    spécifiques. À partir d'un choix de documents de conception de jeu,
+    l'élève devra produire : le document d'analyse; le modèle; le dossier
+    de production incluant le code, les ressources audio et visuelles; le
+    fichier de déploiement ou d'installation.
+  contexte_realisation: >-
+    L'épreuve finale est un travail long réalisé seul. Le développement se
+    déroulera pendant les 4 dernières semaines de la session, en classe et
+    hors classe. La remise sera à la semaine 15.
+  criteres_evaluation:
+    - Analyse juste des documents de conception
+    - Modélisation correcte du jeu
+    - Choix et utilisation appropriés des éléments graphiques pour l'affichage et la saisie
+    - Intégration correcte des images 2D
+    - Adaptation des représentations en fonction du format d'affichage et de la résolution
+    - Programmation correcte des comportements des éléments graphiques et des périphériques
+    - Programmation correcte des effets visuels
+    - Intégration précise des sons
+    - Programmation correcte des interactions
+    - Application correcte des techniques d'internationalisation
+    - Utilisation appropriée des moteurs de jeu ou de simulation
+    - Déploiement, exportation ou installation corrects de l'application
+    - Détermination correcte de l'information à rédiger
+
+demarche_pedagogique_suggeree: >-
+  Courtes périodes d'enseignement théorique suivies d'application au fur et
+  à mesure à l'aide d'exercices formatifs. Des références de sites Web
+  seront fournies par le professeur. L'élève devra enrichir ces sources
+  d'information par ses propres recherches. Des activités seront proposées
+  pour favoriser la coopération entre les élèves, l'échange des
+  connaissances et la prise en charge de son apprentissage par l'élève.
+  Certaines évaluations formatives peuvent être auto-corrigées par l'élève
+  ou encore co-corrigées par un collègue de la classe. Bien que certains
+  travaux ne fassent pas l'objet d'évaluation sommative, les élèves doivent
+  absolument les compléter afin d'être prêts pour l'épreuve finale.
+
+mediagraphie:
+  - "https://docs.godotengine.org/en/3.2/"
+
+materiel_requis: >-
+  Ordinateur portable
+
+elements_competence:
+  - code: 00SW-1
+    titre: "Analyser le projet de développement de l'application"
+    duree_heures: 8
+    habiletes:
+      - "Comprendre le mécanisme de simulation en temps réel"
+      - "Décortiquer les éléments du jeu à réaliser"
+      - "Modéliser les éléments et leurs relations"
+    criteres_performance:
+      - "1 - Analyse juste des documents de conception"
+      - "2 - Détermination correcte des tâches à effectuer"
+    contenu_essentiel: >-
+      La boucle de jeu (initialisation, calcul, rendu); les types de jeux
+      en 2 dimensions (écran simple, défilement, exploration/aventure,
+      plateformes); caractéristiques générales et spécifiques à chaque
+      type (actions permises/interdites, déplacements, collisions,
+      physique bidimensionnelle)
+  - code: 00SW-2
+    titre: "Préparer l'environnement de développement informatique"
+    duree_heures: 2
+    habiletes:
+      - "Installer le logiciel et les bibliothèques"
+      - "Configurer le système de gestion de versions"
+      - "Importer le code source"
+    criteres_performance:
+      - "1 - Installation correcte des logiciels et des bibliothèques"
+      - "2 - Configuration appropriée du système de gestion de versions"
+      - "3 - Importation correcte du code source"
+    contenu_essentiel: >-
+      Environnement de développement; moteur de jeu Godot; logiciel de
+      traitement d'image; extension de modélisation (UML); extension de
+      gestion de version
+  - code: 00SW-3
+    titre: "Générer des représentations de mondes réels ou imaginaires"
+    duree_heures: 8
+    habiletes:
+      - "Choisir et utiliser les éléments graphiques pour l'affichage et la saisie"
+      - "Intégrer les images"
+      - "Adapter les représentations en fonction du format d'affichage et de résolution"
+    criteres_performance:
+      - "1 - Choix et utilisation appropriés des éléments graphiques pour l'affichage et la saisie"
+      - "2 - Intégration correcte des images 2D"
+      - "3 - Adaptation des représentations en fonction du format d'affichage et de la résolution"
+    contenu_essentiel: >-
+      Textures; sprites; tile, tileset, tilemap; format d'écran; menus;
+      résolutions multiples
+  - code: 00SW-4
+    titre: "Programmer la logique du jeu ou de la simulation"
+    duree_heures: 24
+    habiletes:
+      - "Programmer les comportements des éléments graphiques et des périphériques"
+      - "Programmer les effets visuels"
+      - "Intégrer les sons"
+      - "Programmer les interactions"
+      - "Appliquer les techniques d'internationalisation"
+      - "Appliquer les techniques de programmation sécurisée"
+      - "Utiliser les moteurs de jeu ou de simulation"
+    criteres_performance:
+      - "1 - Programmation correcte des comportements des éléments graphiques et des périphériques"
+      - "2 - Programmation correcte des effets visuels"
+      - "3 - Intégration précise des sons"
+      - "4 - Programmation correcte des interactions"
+      - "5 - Application correcte des techniques d'internationalisation"
+      - "6 - Application rigoureuse des techniques de programmation sécurisée"
+      - "7 - Utilisation appropriée des moteurs de jeu ou de simulation"
+    contenu_essentiel: >-
+      Cartographie du clavier, de la souris et d'une manette; couches
+      graphiques ("Layers"), masque, parallaxe et système de particules;
+      déclencheurs d'animation et de son; détection des collisions;
+      simulation de physique (Rigidbody, KinematicBody, StaticBody);
+      éclairage ambiant, lumières, ombres; fichier de chaînes
+      d'internationalisation
+  - code: 00SW-5
+    titre: "Contrôler la qualité de l'application"
+    duree_heures: 1
+    habiletes:
+      - "Appliquer les plans de tests"
+      - "Réviser le code et la sécurité"
+      - "Apporter les correctifs"
+      - "Respecter les procédures de suivi des problèmes et de gestion des versions"
+      - "Respecter les documents de conception"
+    criteres_performance:
+      - "1 - Application rigoureuse des plans de tests"
+      - "2 - Revues de code et de sécurité rigoureuses"
+      - "3 - Pertinence des correctifs"
+      - "4 - Respect des procédures de suivi des problèmes et de gestion des versions"
+      - "5 - Respect des documents de conception"
+    contenu_essentiel: >-
+      Gestion de versions collaborative et intégrée au moteur de jeu
+  - code: 00SW-6
+    titre: "Participer à la mise en service de l'application"
+    duree_heures: 1
+    habiletes:
+      - "Préparer l'application en vue de son déploiement, de son exportation ou de son installation"
+      - "Déployer, exporter ou installer l'application"
+    criteres_performance:
+      - "1 - Préparation appropriée de l'application en vue de son déploiement, de son exportation ou de son installation"
+      - "2 - Déploiement, exportation ou installation corrects de l'application"
+    contenu_essentiel: >-
+      Exportation aux formats : Android; Windows; iOS; Linux & MacOS
+  - code: 00SW-7
+    titre: "Rédiger la documentation"
+    duree_heures: 1
+    habiletes:
+      - "Déterminer l'information à rédiger"
+      - "Effectuer le suivi des modifications"
+    criteres_performance:
+      - "1 - Détermination correcte de l'information à rédiger"
+      - "2 - Notation claire du travail effectué"
+    contenu_essentiel: >-
+      Manuel de l'utilisateur; tutoriel vidéo ou intégré au jeu

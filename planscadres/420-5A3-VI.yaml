@@ -1,0 +1,229 @@
+code: 420-5A3-VI
+titre: Technologies émergentes
+programme:
+  numero: "420"
+  nom: Techniques de l'informatique
+profil: "B0 : Profil par défaut"
+departement_responsable: Informatique
+redacteurs:
+  - Rivard, Étienne
+  - Taleb, Frédérik
+prealables: []
+note_prealables_absence: "Ce cours n'a aucun préalable."
+prealables_speciaux: >-
+  L'élève doit avoir réussi 21 des 22 cours de formation spécifique des
+  sessions 1 à 4 dont 420-4B4-VI et 420-4A6-VI ainsi que 6 cours de
+  formation générale.
+prealable_a: []
+note_prealable_a_absence: "Ce cours n'est préalable à aucun autre cours."
+note_prealables: >-
+  Ce cours pourrait être préalable aux cours qui ont un préalable spécial.
+duree_heures: 45
+ponderation: "1-2-1"
+unites: 1.33
+dates:
+  analyse_equipe_programme: 2021-03-10
+  adoption_departement: 2021-08-26
+  approbation_service_etudes: 2024-08-22
+
+competences:
+  - code: "0000"
+    titre: "Traiter l'information relative aux réalités du milieu du travail en informatique"
+    elements:
+      - "3 - Analyser l'information sur la profession de technicienne et technicien en informatique"
+  - code: 00SF
+    titre: "Évaluer des composants logiciels et matériels"
+    elements:
+      - "1 - Cerner les exigences techniques d'un projet de développement ou de déploiement"
+      - "2 - Rechercher des composants logiciels et matériels"
+      - "3 - Formuler des avis sur les composants logiciels et matériels"
+  - code: 00SH
+    titre: "S'adapter à des technologies informatiques"
+    elements:
+      - "1 - Effectuer une veille technologique"
+
+cible_formation: >-
+  À la fin du cours, l'élève sera en mesure d'effectuer une veille
+  technologique pour recommander des composantes matérielles et
+  logicielles.
+
+notes_preliminaires: >-
+  Le cours 420-5A3-VI : Technologies émergentes fait partie de la formation
+  menant au diplôme d'études collégiales (DEC) dans le programme 420.B0 :
+  Techniques de l'informatique.
+
+
+  Il est offert en 5e session.
+
+
+  Plusieurs compétences sont touchées par ce cours.
+
+
+  La compétence 0000 : Traiter l'information relative aux réalités du
+  milieu du travail en informatique est vue partiellement.
+
+
+  Son acquisition a débuté dans le cours 420-1C4-VI : Outils informatiques
+  à la 1re session.
+
+
+  Son acquisition sera complétée dans le cours 420-6C3-VI : Projet
+  personnel à la 6e session.
+
+
+  Ce cours vise l'atteinte complète de la compétence 00SF : Évaluer des
+  composants logiciels et matériels.
+
+
+  La compétence 00SH : S'adapter à des technologies informatiques est vue
+  partiellement.
+
+
+  Son acquisition sera complétée dans le cours 420-6C3-VI : Projet
+  personnel à la 6e session.
+
+epreuve_finale:
+  ponderation: "70 %"
+  performance_finale_exigee: >-
+    L'épreuve finale est composée de deux parties.
+
+
+    1. Un rapport de recherche, entamé à la 5e semaine de cours et qui
+    s'étend sur toute la session. L'élève produira un travail écrit d'une
+    quinzaine de pages couvrant : le plan de développement d'un prototype
+    fonctionnel lié à la technologie choisie; les concepts explorés et
+    leur utilisation; la modélisation du prototype; la comparaison avec la
+    ou les autres technologies similaires; la justification du choix de
+    technologie; des informations entourant le métier de technicien.ne en
+    informatique utilisant la technologie; les sources d'information; le
+    journal hebdomadaire de recherche.
+
+
+    2. L'élève produira également le prototype fonctionnel décrit dans le
+    rapport de recherche. Cette preuve de concept sera déposée avec le
+    rapport, à la fin de la session.
+  contexte_realisation: >-
+    Individuellement. À partir du cahier de charge fonctionnel. À partir
+    d'une technologie spécifique. Le développement du travail se déroulera
+    sur toute la session pendant du temps en classe et hors classe. Le
+    travail est remis et présenté à la semaine 15.
+  criteres_evaluation:
+    - "Travail de recherche :"
+    - Analyse juste du cahier des charges fonctionnel
+    - Relevé complet des exigences techniques du projet
+    - Inventaire précis des composantes logicielles et matérielles disponibles
+    - Analyse juste des caractéristiques des composantes logicielles et matérielles
+    - Recherche efficace de sources d'information
+    - Analyse juste de l'information recueillie
+    - Choix approprié des sources d'information
+    - "Prototype :"
+    - Pertinence des avis sur la compatibilité des composants
+    - Pertinence des avis sur la longévité, la stabilité, l'efficacité et la maintenabilité des composants
+
+demarche_pedagogique_suggeree: >-
+  Évaluation formative des acquis en milieu de travail pour les élèves
+  ayant eu un stage, les stages étant optionnels. Courtes périodes
+  d'enseignement théorique suivies d'application au fur et à mesure à
+  l'aide d'exercices formatifs. Des références de sites Web seront
+  fournies par le professeur. L'élève devra enrichir ces sources
+  d'information par ses propres recherches. Des activités seront proposées
+  pour favoriser la coopération entre les élèves, l'échange des
+  connaissances et la prise en charge de son apprentissage par l'élève.
+  Certaines évaluations formatives peuvent être auto-corrigées par l'élève
+  ou encore co-corrigées par un collègue de la classe. Bien que certains
+  travaux ne fassent pas l'objet d'évaluation sommative, les élèves doivent
+  absolument les compléter afin d'être prêts pour l'épreuve finale. La
+  présentation du rapport de stage, par les étudiants en ayant eu un, est
+  une activité essentielle à l'acquisition de la compétence d'analyse
+  d'information sur la profession de technicienne et technicien en
+  informatique.
+
+mediagraphie:
+  - "LAGACÉ, Christiane, dir. Apical, Ma plateforme d'apprentissage — https://apical.xyz/fiches/veille_technologique_002/Les_sources_d_information-002 (Page consultée le 03 mars 2021)"
+
+materiel_requis: >-
+  Ordinateur portable
+
+elements_competence:
+  - code: "0000-3"
+    titre: "Analyser l'information sur la profession de technicienne et technicien en informatique"
+    duree_heures: 6
+    habiletes:
+      - "1 - Examiner les tâches et les responsabilités liées à la profession"
+      - "2 - Distinguer les connaissances, des comportements, des attitudes et des habiletés nécessaires à l'exercice de la profession"
+      - "3 - Distinguer les limites d'intervention propres à la profession"
+    criteres_performance:
+      - "1 - Examen détaillé des tâches et des responsabilités liées à la profession"
+      - "2 - Distinction juste des connaissances, des comportements, des attitudes et des habiletés nécessaires à l'exercice de la profession"
+      - "3 - Distinction juste des limites d'intervention propres à la profession"
+    contenu_essentiel: >-
+      Tâches et responsabilités liées à la profession; connaissances,
+      comportements, attitudes et habiletés nécessaires à l'exercice de la
+      profession; limites d'intervention professionnelle
+  - code: 00SF-1
+    titre: "Cerner les exigences techniques d'un projet de développement ou de déploiement"
+    duree_heures: 6
+    habiletes:
+      - "1 - Analyser le cahier des charges fonctionnel"
+      - "2 - Analyser l'architecture logicielle et de l'architecture du réseau informatique"
+      - "3 - Faire le relevé des exigences techniques du projet"
+    criteres_performance:
+      - "1 - Analyse juste du cahier des charges fonctionnel"
+      - "2 - Analyse juste de l'architecture logicielle et de l'architecture du réseau informatique"
+      - "3 - Relevé complet des exigences techniques du projet"
+    contenu_essentiel: >-
+      Cahier de charges fonctionnel; architectures des systèmes; exigences
+      techniques (besoins matériels, besoins documentaires, besoins
+      applicatifs)
+  - code: 00SF-2
+    titre: "Rechercher des composants logiciels et matériels"
+    duree_heures: 6
+    habiletes:
+      - "1 - Choisir les sources d'information"
+      - "2 - Faire l'inventaire des composants logiciels et matériels disponibles"
+    criteres_performance:
+      - "1 - Choix approprié des sources d'information"
+      - "2 - Inventaire précis des composants logiciels et matériels disponibles"
+    contenu_essentiel: >-
+      Sources d'information (sites spécialisés de programmation et de
+      composantes, sections spécifiques à la technologie des médias
+      traditionnels et sociaux); documentation officielle des composants
+      logiciels et matériels
+  - code: 00SF-3
+    titre: "Formuler des avis sur les composants logiciels et matériels"
+    duree_heures: 15
+    habiletes:
+      - "1 - Analyser les caractéristiques des plateformes, des applications et des outils de développement"
+      - "2 - Analyser les caractéristiques des ordinateurs, des dispositifs d'interconnexion et des périphériques"
+      - "3 - Analyser les caractéristiques des protocoles de communication filaires et sans fil"
+      - "4 - Évaluer la pertinence des avis sur la compatibilité des composants"
+      - "5 - Évaluer la pertinence des avis sur la longévité, la stabilité, l'efficacité et la maintenabilité des composants"
+    criteres_performance:
+      - "1 - Analyse juste des caractéristiques des plateformes, des applications et des outils de développement"
+      - "2 - Analyse juste des caractéristiques des ordinateurs, des dispositifs d'interconnexion et des périphériques"
+      - "3 - Analyse juste des caractéristiques des protocoles de communication filaires et sans fil"
+      - "4 - Pertinence des avis sur la compatibilité des composants"
+      - "5 - Pertinence des avis sur la longévité, la stabilité, l'efficacité et la maintenabilité des composants"
+    contenu_essentiel: >-
+      Critères de sélection des composantes (matérielles, logicielles);
+      matrice de décision; prototype et preuve de concept
+  - code: 00SH-1
+    titre: "Effectuer une veille technologique"
+    duree_heures: 12
+    habiletes:
+      - "1 - Rechercher les sources d'information"
+      - "2 - Utiliser les outils de veille"
+      - "3 - Analyser l'information recueillie"
+      - "4 - Déterminer les technologies à expérimenter"
+    criteres_performance:
+      - "1 - Recherche efficace de sources d'information"
+      - "2 - Utilisation appropriée des outils de veille"
+      - "3 - Analyse juste de l'information recueillie"
+      - "4 - Détermination judicieuse des technologies à expérimenter"
+    contenu_essentiel: >-
+      Méthodologie de recherche et d'intégration de l'information; outils
+      de veille (automatisation de la cueillette d'information); techniques
+      d'analyse de l'information (données qualitatives vs données
+      quantitatives, principe de l'entonnoir); outils d'aide au choix
+      technologique (grille comparative des propriétés et des
+      fonctionnalités des composantes, matrice d'Eisenhower)

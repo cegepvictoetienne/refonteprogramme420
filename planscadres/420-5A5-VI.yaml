@@ -1,0 +1,255 @@
+code: 420-5A5-VI
+titre: Développement Web 3
+programme:
+  numero: "420"
+  nom: Techniques de l'informatique
+profil: "B0 : Profil par défaut"
+departement_responsable: Informatique
+redacteurs:
+  - Croteau, Carine
+  - Lagacé, Christiane
+prealables:
+  - cours: 420-4A4-VI
+    titre: Services Web
+  - cours: 420-4C4-VI
+    titre: Mégadonnées
+prealable_a: []
+note_prealable_a_absence: "Ce cours n'est préalable à aucun autre cours."
+note_prealables: >-
+  Ce cours pourrait être préalable aux cours qui ont un préalable spécial.
+duree_heures: 75
+ponderation: "2-3-3"
+unites: 2.67
+dates:
+  analyse_equipe_programme: 2021-03-10
+  adoption_departement: 2021-05-11
+  approbation_service_etudes: "Date à venir"
+
+competences:
+  - code: 00SU
+    titre: "Effectuer le développement d'applications Web transactionnelles"
+    elements:
+      - "1 - Analyser le projet de développement de l'application"
+      - "2 - Préparer l'environnement de développement informatique"
+      - "3 - Préparer la base de données"
+      - "4 - Programmer l'interface Web"
+      - "5 - Programmer la logique applicative du côté serveur"
+      - "6 - Programmer la logique applicative du côté client"
+      - "7 - Contrôler la qualité de l'application"
+      - "8 - Participer au déploiement de l'application chez un hébergeur Web"
+
+cible_formation: >-
+  À la fin de ce cours, l'élève sera capable d'effectuer le développement
+  d'applications Web transactionnelles à l'aide de technologies Web
+  modernes.
+
+notes_preliminaires: >-
+  Le cours 420-5A5-VI : Développement Web 3 fait partie de la formation
+  menant au diplôme d'études collégiales (DEC) dans le programme 420.B0 :
+  Techniques de l'informatique.
+
+
+  Il est offert en 5e session.
+
+
+  L'atteinte de la compétence 00SU : Effectuer le développement
+  d'applications Web transactionnelles est complétée dans ce cours.
+
+
+  Son acquisition a débuté dans les cours suivants : 420-2A4-VI :
+  Développement Web 1 à la 2e session (profil B0 : Profil par défaut);
+  420-3A5-VI : Développement Web 2 à la 3e session (profil B0 : Profil par
+  défaut).
+
+
+  Le cours Développement Web 3 permettra à l'élève d'apprendre les
+  technologies Web modernes. Parmi celles-ci : Node.js, React, Next.js,
+  Angular, Vue.js, Sass, Less, etc. Le choix des technologies est à la
+  discrétion de l'enseignante ou de l'enseignant mais doit être approuvé en
+  département au début de la session.
+
+epreuve_finale:
+  ponderation: "40 %"
+  performance_finale_exigee: >-
+    L'épreuve finale sera une évaluation écrite individuelle. L'élève aura
+    à expliquer les concepts clés du cadre logiciel et du langage utilisé
+    durant la session et à justifier certains choix technologiques de son
+    projet.
+  contexte_realisation: >-
+    L'épreuve finale sera une évaluation écrite individuelle, sans accès à
+    des dispositifs électroniques. L'examen aura une durée de 120 minutes,
+    durant la semaine d'examen, pour répondre à une série de questions à
+    développement.
+  criteres_evaluation:
+    - Justification adéquate des choix technologiques
+    - Explication correcte des mécaniques du cadriciel utilisé
+    - Explication correcte des concepts clés du langage utilisé
+    - Explication correcte du mécanisme d'appels asynchrones
+
+demarche_pedagogique_suggeree: >-
+  Courtes périodes d'enseignement théorique suivies d'application au fur et
+  à mesure à l'aide d'exercices formatifs. Des références de sites Web
+  seront fournies par le professeur. L'élève devra enrichir ces sources
+  d'information par ses propres recherches. Des activités en classe seront
+  proposées pour favoriser la coopération entre les élèves, l'échange des
+  connaissances et la prise en charge de son apprentissage par l'élève.
+  Certaines évaluations formatives peuvent être auto-corrigées par l'élève
+  ou encore co-corrigées par un collègue de la classe. Bien que certains
+  travaux ne fassent pas l'objet d'évaluation sommative, les élèves doivent
+  absolument les compléter afin d'être prêts pour l'épreuve finale.
+
+mediagraphie:
+  - "Technologies pour Web Services faciles : REST, JSON — https://2009.jres.org/soumission/papers/render/pdf/92.pdf (Page consultée le 16 avril 2021)"
+  - "Framework — https://fr.wikipedia.org/wiki/Framework (Page consultée le 16 avril 2021)"
+  - "Bibliothèque logicielle — https://fr.wikipedia.org/wiki/Bibliothèque_logicielle (Page consultée le 16 avril 2021)"
+  - "TypeScript — https://www.typescriptlang.org/ (Page consultée le 16 avril 2021)"
+  - "JavaScript — https://www.javascript.com/ (Page consultée le 16 avril 2021)"
+  - "Microservice Architecture — https://microservices.io/ (Page consultée le 16 avril 2021)"
+
+materiel_requis: >-
+  Ordinateur portable
+
+elements_competence:
+  - code: 00SU-1
+    titre: "Analyser le projet de développement de l'application"
+    duree_heures: 1
+    habiletes:
+      - "Choisir un environnement de développement."
+      - "Sélectionner la technologie Web appropriée au contexte du projet."
+    criteres_performance:
+      - "1 - Sélection juste de l'environnement de développement"
+      - "2 - Sélection appropriée des technologies à utiliser"
+    contenu_essentiel: >-
+      Cadres d'application (Frameworks) et bibliothèques; base de données;
+      interface de programmation (API)
+  - code: 00SU-2
+    titre: "Préparer l'environnement de développement informatique"
+    duree_heures: 1
+    habiletes:
+      - "Installer la plateforme de développement Web et le système de gestion de base de données de développement"
+      - "Installer les logiciels et les bibliothèques"
+      - "Configurer le système de gestion de versions"
+      - "Importer du code source"
+    criteres_performance:
+      - "1 - Installation correcte de la plateforme de développement Web et du système de gestion de base de données de développement"
+      - "2 - Installation correcte des logiciels et des bibliothèques"
+      - "3 - Configuration appropriée du système de gestion de versions"
+      - "4 - Importation correcte du code source"
+    contenu_essentiel: >-
+      Procédures d'installation de cadres d'application (Frameworks) et de
+      bibliothèques; gestion des modules (ex: npm, homebrew, rpm, yam,
+      composer, etc.); choix sécuritaire des modules
+  - code: 00SU-3
+    titre: "Préparer la base de données"
+    duree_heures: 1
+    habiletes:
+      - "Sélectionner le ou les systèmes de gestion de bases de données (SGBD) en fonction du modèle de données"
+      - "Créer la base de données"
+      - "Insérer les données initiales ou les données de tests"
+    criteres_performance:
+      - "1 - Création ou adaptation correctes de la base de données"
+      - "2 - Insertion correcte des données initiales ou des données de tests"
+      - "3 - Respect du modèle de données"
+    contenu_essentiel: >-
+      Stockage de données local; base de données distante; outils de
+      déploiement de projets Web (ex: Heroku)
+  - code: 00SU-4
+    titre: "Programmer l'interface Web"
+    duree_heures: 24
+    habiletes:
+      - "Reconnaître les avantages et désavantages des principaux cadriciels et bibliothèques Web."
+      - "Utiliser la syntaxe propre au cadriciel ou la bibliothèque"
+      - "Structurer le projet"
+      - "Utiliser des feuilles de style dynamiques"
+      - "Créer des formulaires Web"
+      - "Adapter l'interface au format d'image demandé"
+    criteres_performance:
+      - "1 - Distinction juste des cadriciels et bibliothèques Web"
+      - "2 - Utilisation appropriée de la syntaxe proposée par le langage utilisé"
+      - "3 - Organisation correcte du projet"
+      - "4 - Création et utilisation appropriées des feuilles de styles"
+      - "5 - Création appropriée des formulaires Web"
+      - "6 - Adaptation de l'interface en fonction du format d'affichage et de la résolution"
+    contenu_essentiel: >-
+      TypeScript vs JavaScript; cadres d'application; bibliothèques;
+      variables d'état; gestion des événements; affichages conditionnels
+      et itératifs; formulaires; stockage local; applications progressives
+      (PWA)
+  - code: 00SU-5
+    titre: "Programmer la logique applicative du côté serveur"
+    duree_heures: 30
+    habiletes:
+      - "Programmer les interactions entre l'interface Web et l'utilisatrice ou l'utilisateur"
+      - "Manipuler les données"
+      - "Programmer des composants"
+      - "Utiliser un service"
+      - "Internationaliser un site Web"
+      - "Appliquer des techniques de programmation sécurisée d'échange de données"
+    criteres_performance:
+      - "1 - Programmation correcte des interactions entre l'interface Web et l'utilisatrice ou l'utilisateur"
+      - "2 - Choix approprié des clauses, des opérateurs, des commandes ou des paramètres dans les requêtes à la base de données"
+      - "3 - Découpage adéquat d'une interface Web en composants"
+      - "4 - Utilisation appropriée des services d'échange de données"
+      - "5 - Application correcte des techniques d'internationalisation"
+      - "6 - Application rigoureuse des techniques de programmation sécurisée"
+    contenu_essentiel: >-
+      Microservices; mécanisme d'accès aux données propre au cadre
+      d'application ou à la bibliothèque; squelette d'un composant;
+      dangers liés à l'utilisation d'un cadre d'application ou une
+      bibliothèque; cryptage des mots de passe; sécurisation des appels
+      aux services Web; authentification; mise en place d'un journal
+      d'erreurs; utilisation d'un service Web RESTful; mécanisme
+      d'internationalisation
+  - code: 00SU-6
+    titre: "Programmer la logique applicative du côté client"
+    duree_heures: 10
+    habiletes:
+      - "Manipuler des objets du modèle DOM"
+      - "Programmer des interactions entre l'interface Web et l'utilisatrice ou l'utilisateur"
+      - "Utiliser des techniques de validation de données des formulaires Web"
+      - "Assurer l'utilisabilité des formulaires Web"
+    criteres_performance:
+      - "1 - Manipulation adéquate des objets du modèle DOM"
+      - "2 - Programmation correcte des interactions entre l'interface Web et l'utilisatrice ou l'utilisateur"
+      - "3 - Utilisation systématique des techniques de validation de données des formulaires Web"
+      - "4 - Formulaires Web conformes aux exigences d'utilisabilité"
+    contenu_essentiel: >-
+      Validations intégrées au cadre d'application ou à la bibliothèque;
+      appels asynchrones; validations côté client et côté serveur
+      cohérentes
+  - code: 00SU-7
+    titre: "Contrôler la qualité de l'application"
+    duree_heures: 4
+    habiletes:
+      - "Appliquer les plans de tests"
+      - "Effectuer des revues de code et de sécurité"
+      - "Effectuer le suivi des problèmes"
+      - "Effectuer le suivi des versions"
+    criteres_performance:
+      - "1 - Application rigoureuse des plans de tests"
+      - "2 - Revues de code et de sécurité rigoureuses"
+      - "3 - Pertinence des correctifs"
+      - "4 - Respect des procédures de suivi des problèmes et de gestion des versions"
+    contenu_essentiel: >-
+      Élaboration et application d'un plan de tests; revues de code;
+      revues de sécurité
+  - code: 00SU-8
+    titre: "Participer au déploiement de l'application chez un hébergeur Web"
+    duree_heures: 4
+    habiletes:
+      - "Choisir un hébergeur en fonction des besoins technologiques du projet"
+      - "Effectuer un déploiement sur un serveur de tests (ex: Heroku)"
+      - "Configurer l'application chez l'hébergeur Web"
+      - "Migrer l'application chez l'hébergeur Web"
+      - "Appliquer des mesures de sécurité"
+      - "Respecter les exigences de référencement"
+    criteres_performance:
+      - "1 - Détermination judicieuse du service d'hébergement"
+      - "2 - Détermination judicieuse du nom de domaine"
+      - "3 - Configuration appropriée de l'application chez l'hébergeur Web"
+      - "4 - Application correcte de la procédure de migration de l'application chez l'hébergeur Web"
+      - "5 - Application rigoureuse des mesures de sécurité"
+      - "6 - Respect des exigences de référencement"
+    contenu_essentiel: >-
+      Outils de déploiement de tests (ex: Heroku); particularités de la
+      mise en ligne; configuration du site

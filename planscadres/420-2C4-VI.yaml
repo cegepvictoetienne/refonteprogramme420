@@ -1,0 +1,217 @@
+code: 420-2C4-VI
+titre: Réseautique
+programme:
+  numero: "420"
+  nom: Techniques de l'informatique
+profil: "B0 : Profil par défaut"
+departement_responsable: Informatique
+redacteurs:
+  - Carle, Shany
+  - Tousignant, Simon
+prealables:
+  - cours: 201-1A3-VI
+    titre: Mathématiques de l'ordinateur
+prealable_a:
+  - cours: 420-3C4-VI
+    titre: Piratage éthique
+note_prealables: >-
+  Ce cours pourrait également être préalable aux cours qui ont un préalable
+  spécial.
+duree_heures: 60
+ponderation: "2-2-1"
+unites: 1.67
+dates:
+  analyse_equipe_programme: 2019-10-09
+  adoption_departement: 2019-10-02
+  approbation_service_etudes: 2026-01-14
+
+competences:
+  - code: 00Q4
+    titre: "Exploiter des logiciels de bureautique"
+    elements:
+      - "3 - Produire des diagrammes ou des plans"
+  - code: 00Q5
+    titre: "Effectuer le déploiement d'un réseau informatique local"
+    elements:
+      - "1 - Définir les caractéristiques du réseau informatique local"
+      - "2 - Installer les dispositifs d'interconnexion du réseau local"
+      - "3 - Connecter les ordinateurs au réseau local"
+      - "4 - Installer des services de partage de ressources"
+      - "5 - Mettre en service le réseau local"
+
+cible_formation: >-
+  À la fin du cours, l'élève sera capable de déployer un réseau
+  informatique local.
+
+notes_preliminaires: >-
+  Le cours 420-2C4-VI : Réseautique fait partie de la formation menant au
+  diplôme d'études collégiales (DEC) dans le programme 420.B0 : Techniques
+  de l'informatique.
+
+
+  Il est offert en 2e session.
+
+
+  Plusieurs compétences sont touchées par ce cours.
+
+
+  La compétence 00Q4 : Exploiter des logiciels de bureautique est vue
+  partiellement.
+
+
+  Son acquisition a débuté dans le cours 420-1C4-VI : Outils informatiques
+  à la 1re session.
+
+
+  Son acquisition sera complétée dans le cours 420-2D4-VI : Support
+  technique à la 2e session.
+
+
+  Ce cours vise l'atteinte complète de la compétence 00Q5 : Effectuer le
+  déploiement d'un réseau informatique local.
+
+
+  Le cours doit être dans le local de réseautique C-205.
+
+epreuve_finale:
+  ponderation: "50 %"
+  performance_finale_exigee: >-
+    À partir d'une mise en situation, l'élève aura à planifier, à compléter
+    un diagramme de réseau et à l'implanter dans un logiciel de simulation.
+  contexte_realisation: >-
+    L'épreuve finale sera un examen individuel d'une durée de 2 heures qui
+    se déroulera dans une classe de portables avec le portable de
+    l'étudiant à la semaine 15. L'étudiant utilisera un logiciel de
+    simulation réseau (ex: Packet Tracer ou GNS3) pour produire le
+    diagramme et l'implanter. Les notes de cours fournies par
+    l'enseignant.e ainsi que les notes prises par l'étudiant.e seront
+    permises. L'accès complet à internet est permis.
+  criteres_evaluation:
+    - "Compétence 00Q4 : produire des diagrammes et des plans"
+    - Choix de l'échelle et du format en fonction des exigences de représentation
+    - Utilisation d'une banque de symboles en fonction des exigences de représentation
+    - Rédaction correcte et claire des annotations et du cartouche
+    - Respect des normes de présentation
+    - "Compétence 00Q5 : Effectuer le déploiement d'un réseau informatique local"
+    - Interprétation juste de la demande
+    - Détermination correcte des services à installer
+    - Choix approprié des dispositifs d'interconnexion à installer
+    - Diagramme d'architecture du réseau informatique local conforme au besoin
+    - Positionnement et raccordement corrects des dispositifs d'interconnexion
+    - Configuration correcte des dispositifs d'interconnexion
+    - Configuration correcte de l'accès au réseau
+    - Configuration correcte des services
+    - Fonctionnement optimal du réseau
+
+demarche_pedagogique_suggeree: >-
+  Les étudiants travailleront sur le matériel physique ainsi que dans un
+  logiciel de simulation. Courtes périodes d'enseignement théorique suivies
+  d'application au fur et à mesure à l'aide d'exercices formatifs. Des
+  références de sites Web seront fournies par le professeur. L'élève devra
+  enrichir ces sources d'information par ses propres recherches. Des
+  activités seront proposées pour favoriser la coopération entre les
+  élèves, l'échange des connaissances et la prise en charge de son
+  apprentissage par l'élève.
+
+mediagraphie:
+  - "Le cours utilisera une partie des notes de la certification CCNA de l'académie Cisco : https://netacad.com"
+
+materiel_requis: >-
+  Ordinateur portable
+
+elements_competence:
+  - code: 00Q4-3
+    titre: "Produire des diagrammes ou des plans"
+    duree_heures: 5
+    habiletes:
+      - "Personnaliser l'interface du logiciel de dessin."
+      - "Choisir l'échelle du format."
+      - "Représenter les éléments géométriques."
+      - "Utiliser une banque de symboles."
+      - "Rédiger les annotations."
+      - "Respecter les normes de présentation."
+    criteres_performance:
+      - "1 - Personnalisation correcte de l'interface du logiciel de dessin"
+      - "2 - Choix de l'échelle et du format en fonction des exigences de représentation"
+      - "3 - Représentation correcte d'éléments géométriques"
+      - "4 - Utilisation d'une banque de symboles en fonction des exigences de représentation"
+      - "5 - Rédaction correcte et claire des annotations et du cartouche"
+      - "6 - Respect des normes de présentation"
+    contenu_essentiel: >-
+      Diagrammes de réseau; symboles de l'industrie.
+  - code: 00Q5-1
+    titre: "Définir les caractéristiques du réseau informatique local"
+    duree_heures: 10
+    habiletes:
+      - "Interpréter la demande"
+      - "Déterminer les services à installer"
+      - "Choisir les dispositifs"
+      - "Définir un diagramme d'architecture répondant aux besoins"
+    criteres_performance:
+      - "1 - Interprétation juste de la demande"
+      - "2 - Détermination correcte des services à installer"
+      - "3 - Choix approprié des dispositifs d'interconnexion à installer"
+      - "4 - Diagramme d'architecture du réseau informatique local conforme au besoin"
+    contenu_essentiel: >-
+      Variable Length Subnet Mask (VLSM); services (HTTP, SMTP, POP, IMAP,
+      DNS, (S)FTP, SSH, SMB); périphériques intermédiaires; périphériques
+      finaux; types de connexions
+  - code: 00Q5-2
+    titre: "Installer les dispositifs d'interconnexion du réseau local"
+    duree_heures: 15
+    habiletes:
+      - "Positionner et raccorder des dispositifs d'interconnexion"
+      - "Configurer les dispositifs d'interconnexion"
+      - "Journaliser les configurations"
+    criteres_performance:
+      - "1 - Positionnement et raccordement corrects des dispositifs d'interconnexion"
+      - "2 - Configuration correcte des dispositifs d'interconnexion"
+      - "3 - Notation claire des configurations effectuées"
+    contenu_essentiel: >-
+      Nom des périphériques; sécurité des lignes; messages et
+      avertissements; routage statique; routage dynamique; Dynamic Host
+      Configuration Protocol (DHCP); réseaux locaux virtuels (VLan);
+      fichiers textes de sauvegardes de périphériques
+  - code: 00Q5-3
+    titre: "Connecter les ordinateurs au réseau local"
+    duree_heures: 10
+    habiletes:
+      - "Raccorder les ordinateurs au réseau"
+      - "Configurer l'accès au réseau"
+      - "Journaliser les configurations"
+    criteres_performance:
+      - "1 - Raccordement des ordinateurs au réseau informatique selon le diagramme d'architecture"
+      - "2 - Configuration correcte de l'accès au réseau"
+      - "3 - Notation claire des configurations effectuées"
+    contenu_essentiel: >-
+      Adressage IPV4 et IPV6; masque de sous-réseau; passerelle par défaut;
+      adressage statique et dynamique; commandes pratiques de configuration
+      (ping, netstat, nslookup, traceroute, etc); fichiers de configurations
+  - code: 00Q5-4
+    titre: "Installer des services de partage de ressources"
+    duree_heures: 10
+    habiletes:
+      - "Appliquer la procédure d'installation de services"
+      - "Configurer les services"
+      - "Journaliser les configurations"
+    criteres_performance:
+      - "1 - Application rigoureuse de la procédure d'installation des services"
+      - "2 - Configuration correcte des services"
+      - "3 - Notation claire des configurations effectuées"
+    contenu_essentiel: >-
+      Services : DHCP, DNS, HTTP, SMTP, POP, IMAP, SMB, (S)FTP, SSH, etc.;
+      serveur de partage multimédia (Plex, Kodi, etc); objets connectés
+      (caméras, assistants intelligents, etc)
+  - code: 00Q5-5
+    titre: "Mettre en service le réseau local"
+    duree_heures: 10
+    habiletes:
+      - "Appliquer des plans de tests"
+      - "Effectuer des correctifs"
+      - "Optimiser le fonctionnement du réseau"
+    criteres_performance:
+      - "1 - Application rigoureuse des plans de tests"
+      - "2 - Pertinence des correctifs"
+      - "3 - Fonctionnement optimal du réseau"
+    contenu_essentiel: >-
+      Jeux de tests; journalisation des périphériques

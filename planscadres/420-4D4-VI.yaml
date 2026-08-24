@@ -1,0 +1,216 @@
+code: 420-4D4-VI
+titre: Applications mobiles 1
+programme:
+  numero: "420"
+  nom: Techniques de l'informatique
+profil: "B0 : Profil par défaut"
+departement_responsable: Informatique
+redacteurs:
+  - Croteau, Carine
+  - Lagacé, Christiane
+prealables:
+  - cours: 420-2A6-VI
+    titre: Programmation 2
+prealable_a:
+  - cours: 420-6A3-VI
+    titre: Objets connectés 2
+note_prealables: >-
+  Ce cours pourrait également être préalable aux cours qui ont un préalable
+  spécial.
+duree_heures: 60
+ponderation: "2-2-1"
+unites: 1.67
+dates:
+  analyse_equipe_programme: 2024-06-14
+  adoption_departement: 2024-06-11
+  approbation_service_etudes: 2024-06-14
+
+competences:
+  - code: 00SS
+    titre: "Effectuer le développement d'applications natives avec base de données"
+    elements:
+      - "1 - Analyser le projet de développement de l'application"
+      - "2 - Préparer l'environnement de développement informatique"
+      - "3 - Préparer la ou les bases de données"
+      - "4 - Générer ou programmer l'interface graphique"
+      - "5 - Programmer la logique applicative"
+      - "6 - Contrôler la qualité de l'application"
+      - "7 - Participer à la mise en service de l'application"
+      - "8 - Rédiger la documentation"
+
+cible_formation: >-
+  À la fin de ce cours, l'élève sera capable d'effectuer le développement
+  d'applications natives pour appareils mobiles avec bases de données dans
+  l'environnement Mac avec le langage Swift.
+
+notes_preliminaires: >-
+  Le cours 420-4D4-VI : Applications mobiles 1 fait partie de la formation
+  menant au diplôme d'études collégiales (DEC) dans le programme 420.B0 :
+  Techniques de l'informatique.
+
+
+  Il est offert en 4e session.
+
+
+  La compétence 00SS : Effectuer le développement d'applications natives
+  avec base de données est vue partiellement.
+
+
+  Son acquisition sera complétée dans le cours 420-5B4-VI : Applications
+  mobiles 2 à la 5e session.
+
+epreuve_finale:
+  ponderation: "50 %"
+  performance_finale_exigee: >-
+    L'épreuve finale sera un projet réalisé seul. L'élève produira une
+    application mobile répondant à un devis. L'application mobile aura une
+    quantité définie d'écrans à réaliser et interagira avec une base de
+    données.
+  contexte_realisation: >-
+    Le développement du projet se déroulera sur les 3 à 5 dernières
+    semaines de la session, individuellement, en classe et hors classe. Il
+    sera à remettre à la semaine 15.
+  criteres_evaluation:
+    - Création ou adaptation correctes de la base de données
+    - Choix et utilisation appropriés des éléments graphiques pour l'affichage et la saisie
+    - Programmation correcte de l'application
+    - Manipulation correcte des données de la ou des bases de données
+    - Application rigoureuse des techniques de programmation sécurisée
+
+demarche_pedagogique_suggeree: >-
+  Courtes périodes d'enseignement théorique suivies d'application au fur et
+  à mesure à l'aide d'exercices formatifs. Des références de sites Web
+  seront fournies par le professeur. L'élève devra enrichir ces sources
+  d'information par ses propres recherches. Des activités seront proposées
+  pour favoriser la coopération entre les élèves, l'échange des
+  connaissances et la prise en charge de son apprentissage par l'élève.
+  Certaines évaluations formatives peuvent être auto-corrigées par l'élève
+  ou encore co-corrigées par un collègue de la classe. Bien que certains
+  travaux ne fassent pas l'objet d'évaluation sommative, les élèves doivent
+  absolument les compléter afin d'être prêts pour l'épreuve finale.
+
+mediagraphie:
+  - "Swift, The powerful programming language that is also easy to learn — https://developer.apple.com/swift"
+  - "Build beautiful, usable products using Material Components for iOS, Material Design — https://material.io/develop/ios"
+  - "Welcome to Codelabs!, Codelabs — https://codelabs.developers.google.com"
+
+materiel_requis: >-
+  MacBook Pro fourni par le département; au moins un appareil mobile
+  iPhone fourni par le département, partagé par les élèves.
+
+elements_competence:
+  - code: 00SS-1
+    titre: "Analyser le projet de développement de l'application"
+    duree_heures: 2
+    habiletes:
+      - "Connaître les langages disponibles pour programmer sur MacOS"
+      - "Choisir un environnement de développement"
+      - "Comprendre les mécanismes de gestion de données locales vs distantes vs les deux"
+    criteres_performance:
+      - "1 - Analyse juste des documents de conception"
+      - "2 - Détermination correcte des tâches à effectuer"
+    contenu_essentiel: >-
+      Objective C vs Swift (avantages et inconvénients); environnements de
+      développement XCode, VS Code, etc. (avantages et inconvénients);
+      mécanismes d'enregistrement de données locales et distantes
+  - code: 00SS-2
+    titre: "Préparer l'environnement de développement informatique"
+    duree_heures: 1
+    habiletes:
+      - "Installer les logiciels et les bibliothèques"
+      - "Configurer le système de gestion de versions"
+      - "Importer du code source"
+    criteres_performance:
+      - "1 - Installation correcte des logiciels et des bibliothèques sur la plateforme hôte"
+      - "2 - Configuration appropriée de la plateforme cible"
+      - "3 - Configuration appropriée du système de gestion de versions"
+      - "4 - Importation correcte du code source"
+    contenu_essentiel: >-
+      Procédures d'installation; environnement réel (iOS, MacOS, WatchOS)
+      vs environnement simulé dans l'IDE
+  - code: 00SS-3
+    titre: "Préparer la ou les bases de données"
+    duree_heures: 4
+    habiletes:
+      - "Créer et adapter la base de données à partir d'un modèle de données"
+      - "Insérer les données initiales ou les données de tests"
+    criteres_performance:
+      - "1 - Création ou adaptation correctes de la base de données locale ou de la base de données distante"
+      - "2 - Insertion correcte des données initiales ou des données de tests"
+      - "3 - Respect du modèle de données"
+    contenu_essentiel: >-
+      Création et manipulation d'une base de données locale; création et
+      manipulation d'une base de données distante
+  - code: 00SS-4
+    titre: "Générer ou programmer l'interface graphique"
+    duree_heures: 6
+    habiletes:
+      - "Prendre connaissance de l'existence d'outils pour créer les interfaces"
+      - "Intégrer des composants"
+      - "Appliquer les principes de mise en page et de disposition"
+    criteres_performance:
+      - "1 - Choix et utilisation appropriés des éléments graphiques pour l'affichage et la saisie"
+      - "2 - Intégration correcte des images"
+      - "3 - Adaptation de l'interface en fonction du format d'affichage et de la résolution"
+    contenu_essentiel: >-
+      SwiftUI, Material Design (avantages et inconvénients); composants
+      disponibles (Text field, Button, Navigation, etc.); composants de
+      type Grid, Stack, etc.; adaptation selon l'orientation et la taille
+      de l'appareil
+  - code: 00SS-5
+    titre: "Programmer la logique applicative"
+    duree_heures: 40
+    habiletes:
+      - "Programmer l'application dans l'environnement Mac"
+    criteres_performance:
+      - "1 - Programmation ou intégration correctes de mécanismes d'authentification et d'autorisation"
+      - "2 - Programmation correcte des interactions entre l'interface graphique et l'utilisatrice ou l'utilisateur"
+      - "3 - Choix approprié des clauses, des opérateurs, des commandes ou des paramètres dans les requêtes à la base de données"
+      - "4 - Manipulation correcte des données de la base de données"
+      - "5 - Programmation correcte de la synchronisation des données"
+      - "6 - Utilisation appropriée des services d'échange de données"
+      - "7 - Application correcte des techniques d'internationalisation"
+      - "8 - Application rigoureuse des techniques de programmation sécurisée"
+    contenu_essentiel: >-
+      Langage Swift; mécanismes d'authentification sur un serveur distant;
+      mécanismes d'autorisation pour accéder aux périphériques de
+      l'appareil; utilisation des capteurs; opérations CRUD sur les
+      données; synchronisation des bases de données locale et distante;
+      techniques d'internationalisation; techniques de programmation
+      sécurisée
+  - code: 00SS-6
+    titre: "Contrôler la qualité de l'application"
+    duree_heures: 4
+    habiletes:
+      - "Appliquer les plans de tests"
+      - "Effectuer le suivi des versions"
+    criteres_performance:
+      - "1 - Application rigoureuse des plans de tests sur l'émulateur et sur la plateforme cible"
+      - "2 - Revues de code et de sécurité rigoureuses"
+      - "3 - Pertinence des correctifs"
+      - "4 - Respect des procédures de suivi des problèmes et de gestion des versions"
+      - "5 - Respect des documents de conception"
+    contenu_essentiel: >-
+      Tests fonctionnels; suivi des versions
+  - code: 00SS-7
+    titre: "Participer à la mise en service de l'application"
+    duree_heures: 2
+    habiletes:
+      - "Déployer l'application directement sur un appareil mobile"
+      - "Expliquer les concepts de publication d'une application sur l'App Store"
+    criteres_performance:
+      - "1 - Préparation appropriée de l'application en vue de son déploiement ou de son installation"
+      - "2 - Déploiement ou installation corrects de l'application"
+    contenu_essentiel: >-
+      Processus de déploiement direct sur l'appareil; processus de
+      publication sur l'App Store
+  - code: 00SS-8
+    titre: "Rédiger la documentation"
+    duree_heures: 1
+    habiletes:
+      - "Rédiger la documentation"
+    criteres_performance:
+      - "1 - Détermination correcte de l'information à rédiger"
+      - "2 - Notation claire du travail effectué"
+    contenu_essentiel: >-
+      Générateurs de documentation

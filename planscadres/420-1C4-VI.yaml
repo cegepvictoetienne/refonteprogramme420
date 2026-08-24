@@ -1,0 +1,239 @@
+code: 420-1C4-VI
+titre: Outils informatiques
+programme:
+  numero: "420"
+  nom: Techniques de l'informatique
+profil: "B0 : Profil par défaut"
+departement_responsable: Informatique
+redacteurs:
+  - Croteau, Carine
+  - Mercier, François
+  - Rivard, Étienne
+prealables: []
+note_prealables_absence: "Ce cours n'a aucun préalable."
+prealable_a: []
+note_prealable_a_absence: "Ce cours n'est préalable à aucun autre cours."
+note_prealables: >-
+  Ce cours pourrait être préalable aux cours qui ont un préalable spécial.
+duree_heures: 60
+ponderation: "2-2-2"
+unites: 2
+dates:
+  analyse_equipe_programme: 2024-06-14
+  adoption_departement: 2023-12-18
+  approbation_service_etudes: 2024-06-17
+
+competences:
+  - code: "0000"
+    titre: "Traiter l'information relative aux réalités du milieu du travail en informatique"
+    elements:
+      - "1 - Rechercher de l'information sur les professions et les milieux de travail en informatique"
+      - "2 - Analyser l'information sur les entreprises et les établissements embauchant des techniciennes et techniciens en informatique"
+      - "3 - Analyser l'information sur la profession de technicienne et technicien en informatique"
+  - code: 00Q1
+    titre: "Effectuer l'installation et la gestion d'ordinateurs"
+    elements:
+      - "3 - Installer des applications"
+      - "4 - Effectuer des tâches de gestion du système d'exploitation"
+  - code: 00Q4
+    titre: "Exploiter des logiciels de bureautique"
+    elements:
+      - "5 - Partager et synchroniser des documents"
+
+cible_formation: >-
+  À la fin du cours, l'élève sera capable de traiter l'information relative
+  aux réalités du milieu du travail en informatique en utilisant le système
+  d'exploitation macOS et les logiciels de bureautique infonuagiques.
+
+notes_preliminaires: >-
+  Le cours 420-1C4-VI : Outils informatiques fait partie de la formation
+  menant au diplôme d'études collégiales (DEC) dans le programme 420.B0 :
+  Techniques de l'informatique.
+
+
+  Il est offert en 1re session.
+
+
+  Plusieurs compétences sont touchées par ce cours.
+
+
+  La compétence 0000 : Traiter l'information relative aux réalités du
+  milieu du travail en informatique est vue partiellement.
+
+
+  Son atteinte sera complétée dans les cours suivants : 420-5A3-VI :
+  Technologies émergentes à la 5e session (profil B0 : Profil par défaut);
+  420-6C3-VI : Projet personnel à la 6e session (profil B0 : Profil par
+  défaut).
+
+
+  La compétence 00Q1 : Effectuer l'installation et la gestion d'ordinateurs
+  est vue partiellement.
+
+
+  Son atteinte sera complétée dans les cours suivants : 420-1B4-VI :
+  Fonctionnement de l'ordinateur à la 1re session (profil B0 : Profil par
+  défaut); 420-3A3-VI : Nano-ordinateurs à la 3e session (profil B0 :
+  Profil par défaut).
+
+
+  La compétence 00Q4 : Exploiter des logiciels de bureautique est vue
+  partiellement.
+
+
+  Son atteinte sera complétée dans les cours suivants : 420-2C4-VI :
+  Réseautique à la 2e session (profil B0 : Profil par défaut); 420-2D4-VI :
+  Support technique à la 2e session (profil B0 : Profil par défaut).
+
+
+  Ce cours de première session est important pour préparer les élèves au
+  premier stage ATE.
+
+epreuve_finale:
+  ponderation: "60 %"
+  performance_finale_exigee: >-
+    À l'aide d'outils informatiques, élaboration d'un portfolio
+    professionnel contenant les éléments suivants : dossier de recherche
+    d'entreprises ciblées; au moins 2 lettres de présentation
+    personnalisées et un CV; profil sur un réseau social professionnel;
+    recherche sur les normes du travail (en équipe).
+  contexte_realisation: >-
+    Individuellement, avec une partie en équipe. Dans un laboratoire de Mac
+    et, accessoirement, sur son ordinateur personnel donc en classe et hors
+    classe. Tout au long de la session. À remettre à la semaine 15.
+  criteres_evaluation:
+    - Choix judicieux des entreprises ciblées
+    - Mise en valeur de la candidature en fonction des tâches et du domaine visés
+    - Utilisation appropriée d'une suite bureautique infonuagique
+    - Cohérence du portfolio
+    - Organisation des documents
+    - Uniformité et clarté des noms de documents
+    - Remise des documents en format éditable et PDF
+    - Remise du portfolio dans un dossier compressé partagé.
+
+demarche_pedagogique_suggeree: >-
+  Les outils infonuagiques sont utilisés autant que possible sous macOS et
+  ils sont utilisés pour effectuer une démarche de recherche de stage.
+
+
+  De nombreuses conférences alimentent l'élève dans sa démarche.
+
+
+  Ce cours sera aussi l'occasion d'encadrer l'élève dans son insertion dans
+  sa vie collégiale (organisation du travail, services aux étudiants,
+  association étudiante, etc.).
+
+
+  La classe inversée est suggérée afin que les élèves passent un maximum de
+  temps sur macOS durant les cours.
+
+mediagraphie:
+  - "Information à venir"
+
+elements_competence:
+  - code: "0000-1"
+    titre: "Rechercher de l'information sur les professions et les milieux de travail en informatique"
+    duree_heures: 10
+    habiletes:
+      - "Déterminer les sources d'information"
+      - "Utiliser les outils de recherche en ligne"
+      - "Utiliser les outils disponibles à la bibliothèque"
+    criteres_performance:
+      - "1 - Choix approprié des sources d'information"
+      - "2 - Fiabilité et diversité de l'information recueillie"
+      - "3 - Utilisation appropriée des outils de recherche"
+    contenu_essentiel: >-
+      Méthodes de recherche; moteurs de recherche (générique (ex: Google),
+      lié au secteur de l'emploi, lié à la profession); bibliothèque;
+      entrepreneuriat
+  - code: "0000-2"
+    titre: "Analyser l'information sur les entreprises et les établissements embauchant des techniciennes et techniciens en informatique"
+    duree_heures: 10
+    habiletes:
+      - "Reconnaître les principaux métiers reliés à l'informatique"
+      - "Distinguer les produits et services offerts"
+      - "Reconnaître les sources et niveaux de risque pour la santé et la sécurité au travail"
+    criteres_performance:
+      - "1 - Distinction juste des principales caractéristiques des domaines du développement des applications et de l'administration des réseaux informatiques"
+      - "2 - Distinction juste des caractéristiques des produits et des services offerts par les entreprises et les établissements"
+      - "3 - Distinction juste des différentes professions"
+      - "4 - Reconnaissance adéquate des associations professionnelles et syndicales présentes"
+      - "5 - Reconnaissance adéquate des sources et des niveaux de risque pour la santé et la sécurité au travail"
+    contenu_essentiel: >-
+      Conférences de différents intervenants du marché du travail;
+      entreprises locales; entreprises à l'extérieur de la région;
+      distinctions entre les divers métiers liés à l'informatique
+  - code: "0000-3"
+    titre: "Analyser l'information sur la profession de technicienne et technicien en informatique"
+    duree_heures: 17
+    habiletes:
+      - "Examiner les tâches et responsabilités liées à la profession"
+      - "Distinguer les connaissances, comportements, attitudes et habiletés nécessaires à l'exercice de la profession"
+      - "Distinguer les limites d'intervention propres à la profession"
+      - "Appliquer une méthode de travail similaire à la profession dans un cadre scolaire : planification des livrables et échéanciers; répartition de la charge de travail dans les temps prescrits."
+      - "Effectuer une démarche de recherche d'emploi"
+    criteres_performance:
+      - "1 - Examen détaillé des tâches et des responsabilités liées à la profession"
+      - "2 - Distinction juste des connaissances, des comportements, des attitudes et des habiletés nécessaires à l'exercice de la profession"
+      - "3 - Distinction juste des limites d'intervention propres à la profession"
+    contenu_essentiel: >-
+      Conférences de différents intervenants du marché du travail;
+      caractéristiques de la profession (tâches, responsabilités,
+      connaissances disciplinaires, attitudes et habiletés); ATE; CV;
+      lettre de présentation; réseaux sociaux professionnels (exemples :
+      Ordre des technologues du Québec, AQIII); procédures et politiques
+      liées à la profession; procédures et politiques étudiantes du Cégep
+      de Victoriaville; services étudiants du Cégep de Victoriaville
+  - code: 00Q1-3
+    titre: "Installer des applications"
+    duree_heures: 4
+    habiletes:
+      - "Installer et configurer une applications dans l'environnement macOS"
+    criteres_performance:
+      - "1 - Application correcte de la procédure d'installation des applications et des modules d'extension"
+      - "2 - Configuration correcte des applications et des modules d'extension"
+      - "3 - Personnalisation des applications en fonction des besoins des utilisatrices et des utilisateurs"
+      - "4 - Fonctionnement correct des applications"
+    contenu_essentiel: >-
+      Installation d'applications sous macOS
+  - code: 00Q1-4
+    titre: "Effectuer des tâches de gestion du système d'exploitation"
+    duree_heures: 7
+    habiletes:
+      - "Utiliser une gestionnaire de fichiers"
+      - "Compresser et décompresser des fichiers et dossiers"
+      - "Utiliser les principaux outils d'administration"
+    criteres_performance:
+      - "1- Identification des particularités de MacOS"
+      - "2 - Organisation fonctionnelle de la structure des fichiers et des répertoires"
+      - "3 - Utilisation appropriée des utilitaires d'archivage et de compression"
+      - "4 - Gestion appropriée des processus, de la mémoire et de l'espace disque"
+    contenu_essentiel: >-
+      macOS (clavier Mac et trackpad, gestion de l'espace de travail: dock,
+      LaunchPad, Mission Control, barre Spaces, fenêtre Terminal, Finder,
+      compression Zip, moniteur d'activités, nettoyage du disque); mots de
+      passes sécuritaires et gestion des mots de passe
+  - code: 00Q4-5
+    titre: "Partager et synchroniser des documents"
+    duree_heures: 12
+    habiletes:
+      - "Personnaliser l'interface du logiciel de travail collaboratif"
+      - "Convertir des documents d'une suite bureautique à d'autres"
+      - "Préparer des documents pour l'impression (PDF)"
+      - "Imprimer au Cégep de Victoriaville"
+      - "Organiser ses dossiers et fichiers"
+      - "Gérer le partage de dossiers et documents"
+      - "Utiliser l'historique des versions"
+    criteres_performance:
+      - "1 - Personnalisation correcte de l'interface du logiciel de travail collaboratif"
+      - "2 - Conversion appropriée des formats de fichiers"
+      - "3 - Classification adéquate des documents"
+      - "4 - Attribution correcte des accès aux documents partagés"
+      - "5 - Gestion efficace des conflits de versions"
+    contenu_essentiel: >-
+      Compression (zip); FTP; éditeurs de texte (ex: Geany); infonuagique
+      (Office 365, Suite G, transfert de fichiers volumineux (ex.:
+      WeTransfer), contrôle de bureau à distance (ex.: TeamViewer), autres
+      (ex.: Pastebin)); étapes de conversion de différents formats de
+      documents; format d'impression PDF; procédure d'impression sans fil
+      au Cégep de Victoriaville

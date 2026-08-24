@@ -1,0 +1,217 @@
+code: 420-4C4-VI
+titre: Mégadonnées
+programme:
+  numero: "420"
+  nom: Techniques de l'informatique
+profil: "B0 : Profil par défaut"
+departement_responsable: Informatique
+redacteurs:
+  - Croteau, Carine
+  - Taleb, Frédérik
+prealables:
+  - cours: 420-3B4-VI
+    titre: Bases de données 2
+prealable_a:
+  - cours: 420-5A5-VI
+    titre: Développement Web 3
+note_prealables: >-
+  Ce cours pourrait également être préalable aux cours qui ont un préalable
+  spécial.
+duree_heures: 60
+ponderation: "2-2-2"
+unites: 2
+dates:
+  analyse_equipe_programme: 2020-10-07
+  adoption_departement: 2020-11-25
+  approbation_service_etudes: "Date à venir"
+
+competences:
+  - code: 00Q7
+    titre: "Exploiter un système de gestion de base de données"
+    elements:
+      - "1 - Créer la base de données"
+      - "2 - Formuler des requêtes de lecture, d'insertion, de modification et de suppression de données"
+      - "3 - Assurer la confidentialité et la cohérence des données"
+      - "4 - Programmer des traitements de données automatisés"
+      - "5 - Sauvegarder et restaurer la base de données"
+
+cible_formation: >-
+  À la fin du cours, l'élève sera capable de sélectionner et d'exploiter un
+  système de gestion de bases de données non relationnel (NoSQL) en
+  fonction du contexte de réalisation d'un projet de mégadonnées.
+
+notes_preliminaires: >-
+  Le cours 420-4C4-VI : Mégadonnées fait partie de la formation menant au
+  diplôme d'études collégiales (DEC) dans le programme 420.B0 : Techniques
+  de l'informatique.
+
+
+  Il est offert en 4e session.
+
+
+  L'atteinte de la compétence 00Q7 : Exploiter un système de gestion de
+  base de données est complétée dans ce cours.
+
+
+  Son acquisition a débuté dans les cours suivants : 420-2B4-VI : Bases de
+  données 1 à la 2e session (profil B0 : Profil par défaut); 420-3B4-VI :
+  Bases de données 2 à la 3e session (profil B0 : Profil par défaut).
+
+
+  Le cours a pour but d'approfondir un système de gestion de bases de
+  données (SGBD) non relationnelles (NoSQL). Il a aussi comme objectif de
+  comprendre les différences entre les structures de bases de données non
+  relationnelles. Un minimum de 2 SGBD NoSQL de types différents (document,
+  clé-valeur, colonnes, graphe, etc.) doivent être intégrés à la formation.
+
+epreuve_finale:
+  ponderation: "50 %"
+  performance_finale_exigee: >-
+    L'épreuve finale consiste à concevoir une base de données et effectuer
+    les traitements en respectant les critères donnés en classe. À partir
+    d'une mise en situation l'élève devra : sélectionner le système de
+    gestion de base de données approprié; concevoir le modèle de données;
+    transformer et acquérir ou importer les données dans le modèle;
+    assurer la confidentialité et la cohérence des données; déterminer les
+    requêtes à effectuer; optimiser la base de données; programmer les
+    traitements d'analyse des données.
+  contexte_realisation: >-
+    Projet individuel réalisé en classe et hors classe pendant les trois
+    dernières semaines de la session. Pour la semaine 15, l'élève doit
+    planifier une rencontre individuelle d'une durée de 30 minutes pour
+    présenter son projet. Lors de cette rencontre, l'élève présente les
+    forces et les faiblesses de la base de données conçue et des
+    traitements proposés, en s'appuyant sur les acquis effectués tout au
+    long de la session. Un élève participant à un séjour pédagogique doit
+    planifier cette rencontre dans les 5 jours ouvrables suivant la date de
+    retour. Lors de sa présentation, l'élève doit en plus établir un
+    minimum de 2 liens entre son projet et les discussions entretenues
+    avec les partenaires rencontrés pendant le séjour.
+  criteres_evaluation:
+    - Sélection appropriée du SGBD
+    - Conception et création juste de la base de données
+    - Détermination judicieuse des types de requêtes à formuler
+    - Utilisation appropriée des clauses, des opérateurs, des commandes ou des paramètres
+    - Utilisation appropriée des expressions régulières
+    - Fonctionnement correct des requêtes
+    - Détermination judicieuse des techniques à utiliser
+    - Gestion correcte des autorisations
+    - Cryptage approprié des données
+    - Détermination judicieuse des traitements de données à automatiser
+    - Documentation précise, bien présentée et contenant tous les éléments demandés
+    - Choix judicieux des techniques de sauvegarde et de restauration à utiliser
+    - Utilisation appropriée de techniques de sauvegarde et de restauration de la base de données
+
+demarche_pedagogique_suggeree: >-
+  Le choix des deux SGBD à mettre au plan de cours pour ce cours devra
+  faire l'objet d'une discussion départementale au début de chaque
+  session. Il est suggéré d'arrimer les notions d'acquisition, de
+  traitement et d'analyse des données massives aux notions statistiques
+  qui en découlent (regroupement, fonctions statistiques, calcul de marge
+  d'erreur et traitements automatisés) et répondent aux besoins émergeant
+  dans notre société. En ce sens, les notions ciblées sauront être
+  réinvesties dans des activités pédagogiques portant abondamment, mais
+  non exclusivement, sur le traitement des données massives issues, autant
+  que faire se peut, de besoins réels de notre communauté. L'arrimage
+  souhaité des activités pédagogiques des cours Big Data et Géométrie et
+  Statistiques saura mettre en valeur la couleur geek propre à la
+  formation du programme. Courtes périodes d'enseignement théorique
+  suivies d'application au fur et à mesure à l'aide d'exercices formatifs.
+  Des références de sites Web seront fournies par le professeur. L'élève
+  devra enrichir ces sources d'information par ses propres recherches. Des
+  activités seront proposées pour favoriser la coopération entre les
+  élèves, l'échange des connaissances et la prise en charge de son
+  apprentissage par l'élève. Certaines évaluations formatives peuvent être
+  auto-corrigées par l'élève ou encore co-corrigées par un collègue de la
+  classe. Bien que certains travaux ne fassent pas l'objet d'évaluation
+  sommative, les élèves doivent absolument les compléter afin d'être prêts
+  pour l'épreuve finale.
+
+mediagraphie:
+  - "Notes de cours fournies en format numérique"
+
+materiel_requis: >-
+  Ordinateur portable; technologie au choix de l'élève pour effectuer une
+  copie de sécurité sur une base régulière
+
+elements_competence:
+  - code: 00Q7-1
+    titre: "Créer la base de données"
+    duree_heures: 8
+    habiletes:
+      - "Analyser un modèle de données."
+      - "Analyser les spécifications du système de gestion de base de données"
+      - "Formuler les instructions de création de la base de données"
+    criteres_performance:
+      - "1 - Analyse juste du modèle de données"
+      - "2 - Analyse juste des spécifications du système de gestion de base de données"
+      - "3 - Formulation appropriée des instructions de création de la base de données"
+    contenu_essentiel: >-
+      Les 5V du Big Data; types de bases de données NoSQL; organisation des
+      données; intégrité vs performances; choix approprié du système de
+      gestion de base de données en fonction du besoin; approfondissement
+      de 2 SGBD noSQL
+  - code: 00Q7-2
+    titre: "Formuler des requêtes de lecture, d'insertion, de modification et de suppression de données"
+    duree_heures: 24
+    habiletes:
+      - "Déterminer les types de requêtes à formuler"
+      - "Utiliser les clauses, les opérateurs, les commandes ou les paramètres"
+      - "Utiliser les expressions régulières"
+      - "Formuler les requêtes en fonction du SGBD et du besoin"
+    criteres_performance:
+      - "1 - Détermination judicieuse des types de requêtes à formuler"
+      - "2 - Utilisation appropriée des clauses, des opérateurs, des commandes ou des paramètres"
+      - "3 - Utilisation appropriée des expressions régulières"
+      - "4 - Fonctionnement correct des requêtes"
+    contenu_essentiel: >-
+      CRUD; filtres; expressions régulières; tris; limites; regroupement
+      simples; regroupement de plusieurs niveaux; fonctions statistiques
+      (Min, Max, Somme, Moyenne, Médiane, Écart type)
+  - code: 00Q7-3
+    titre: "Assurer la confidentialité et la cohérence des données"
+    duree_heures: 8
+    habiletes:
+      - "Déterminer les techniques à utiliser"
+      - "Gérer les autorisations"
+      - "Crypter les données"
+      - "Mettre en place des mécanismes visant à maximiser la cohérence des données"
+      - "Évaluer la marge d'erreur des données"
+    criteres_performance:
+      - "1 - Détermination judicieuse des techniques à utiliser"
+      - "2 - Gestion correcte des autorisations"
+      - "3 - Cryptage approprié des données"
+      - "4 - Utilisation appropriée des contraintes d'intégrité référentielle, de l'optimisation par Index."
+    contenu_essentiel: >-
+      Intégrité référentielle vs données non structurées; calcul de la
+      marge d'erreur; gestion des utilisateurs et de leurs accès;
+      encryption des données; optimisation des Index
+  - code: 00Q7-4
+    titre: "Programmer des traitements de données automatisés"
+    duree_heures: 16
+    habiletes:
+      - "Déterminer les traitements de données à automatiser"
+      - "Déterminer et créer les scripts nécessaires au traitement des données"
+      - "Annoter la documentation d'aide à la programmation"
+    criteres_performance:
+      - "1 - Détermination judicieuse des traitements de données à automatiser"
+      - "2 - Création appropriée de procédures stockées ou de scripts"
+      - "3 - Notation claire de la documentation d'aide à la programmation"
+    contenu_essentiel: >-
+      Fonctions intégrées au système de gestion de base de données (DATE,
+      TIME, IF, …); création de fonctions; scripts (ex: Node, Python,
+      etc.); déclencheurs
+  - code: 00Q7-5
+    titre: "Sauvegarder et restaurer la base de données"
+    duree_heures: 4
+    habiletes:
+      - "Choisir les techniques de sauvegarde et de restauration à utiliser"
+      - "Utiliser les techniques de sauvegarde et de restauration de la base de données"
+      - "Respecter la procédure et la fréquence de sauvegarde"
+    criteres_performance:
+      - "1 - Choix judicieux des techniques de sauvegarde et de restauration à utiliser"
+      - "2 - Utilisation appropriée de techniques de sauvegarde et de restauration de la base de données"
+      - "3 - Respect de la procédure et de la fréquence de sauvegarde"
+    contenu_essentiel: >-
+      Sharding et clustering; importation et exportation d'une base de
+      données

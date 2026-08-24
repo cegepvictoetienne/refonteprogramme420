@@ -1,0 +1,221 @@
+code: 420-5B4-VI
+titre: Applications mobiles 2
+programme:
+  numero: "420"
+  nom: Techniques de l'informatique
+profil: "B0 : Profil par défaut"
+departement_responsable: Informatique
+redacteurs:
+  - Fréchette, Mathieu
+  - Lagacé, Christiane
+prealables:
+  - cours: 420-2A6-VI
+    titre: Programmation 2
+prealable_a: []
+note_prealable_a_absence: "Ce cours n'est préalable à aucun autre cours."
+note_prealables: >-
+  Ce cours pourrait être préalable aux cours qui ont un préalable spécial.
+duree_heures: 60
+ponderation: "2-2-2"
+unites: 2
+dates:
+  analyse_equipe_programme: 2024-06-14
+  adoption_departement: 2024-06-11
+  approbation_service_etudes: 2024-06-14
+
+competences:
+  - code: 00SS
+    titre: "Effectuer le développement d'applications natives avec base de données"
+    elements:
+      - "1 - Analyser le projet de développement de l'application"
+      - "2 - Préparer l'environnement de développement informatique"
+      - "3 - Préparer la ou les bases de données"
+      - "4 - Générer ou programmer l'interface graphique"
+      - "5 - Programmer la logique applicative"
+      - "6 - Contrôler la qualité de l'application"
+      - "7 - Participer à la mise en service de l'application"
+      - "8 - Rédiger la documentation"
+
+cible_formation: >-
+  À la fin de ce cours, l'élève sera capable d'effectuer le développement
+  d'applications mobiles avec bases de données dans l'environnement
+  Android. Le développement sera réalisé à l'aide de programmation native
+  et à l'aide de programmation multi-plateformes.
+
+notes_preliminaires: >-
+  Le cours 420-5B4-VI : Applications mobiles 2 fait partie de la formation
+  menant au diplôme d'études collégiales (DEC) dans le programme 420.B0 :
+  Techniques de l'informatique.
+
+
+  Il est offert en 5e session.
+
+
+  L'atteinte de la compétence 00SS : Effectuer le développement
+  d'applications natives avec base de données est complétée dans ce cours.
+
+
+  Son acquisition a débuté dans le cours 420-4D4-VI : Applications mobiles
+  1 à la 4e session.
+
+
+  Le choix des technologies est à la discrétion de l'enseignante ou de
+  l'enseignant mais doit être approuvé en département au début de la
+  session.
+
+epreuve_finale:
+  ponderation: "40 %"
+  performance_finale_exigee: >-
+    L'élève produira une application mobile répondant à un devis.
+    L'application mobile aura une quantité définie d'écrans à réaliser et
+    interagira avec une base de données.
+  contexte_realisation: >-
+    Sous forme d'examen pratique individuel à la semaine 15. À l'aide
+    d'outils de programmation native ou multi-plateformes, au choix de
+    l'enseignante ou de l'enseignant. À partir du devis fourni par
+    l'enseignante ou l'enseignant. À l'aide de la documentation existante :
+    notes de cours, sites Web, etc. Sur ordinateur. En présence de
+    l'enseignante ou de l'enseignant. D'une durée de 2 heures.
+  criteres_evaluation:
+    - Création ou adaptation correctes de la base de données
+    - Choix et utilisation appropriés des éléments graphiques pour l'affichage et la saisie
+    - Programmation correcte de l'application
+    - Manipulation correcte des données de la ou des bases de données
+    - Application rigoureuse des techniques de programmation sécurisée
+
+demarche_pedagogique_suggeree: >-
+  Courtes périodes d'enseignement théorique suivies d'application au fur et
+  à mesure à l'aide d'exercices formatifs. Des références de sites Web
+  seront fournies par le professeur. L'élève devra enrichir ces sources
+  d'information par ses propres recherches. Des activités en classe seront
+  proposées pour favoriser la coopération entre les élèves, l'échange des
+  connaissances et la prise en charge de son apprentissage par l'élève.
+  Certaines évaluations formatives peuvent être auto-corrigées par l'élève
+  ou encore co-corrigées par un collègue de la classe. Bien que certains
+  travaux ne fassent pas l'objet d'évaluation sommative, les élèves doivent
+  absolument les compléter afin d'être prêts pour l'épreuve finale.
+
+mediagraphie:
+  - "Android Jetpack — https://developer.android.com/jetpack (Page consultée le 7 juillet 2021)"
+  - "React Native — https://reactnative.dev/ (Page consultée le 29 avril 2024)"
+
+materiel_requis: >-
+  Ordinateur portable; au moins un appareil mobile Android fourni par le
+  département, partagé par les élèves.
+
+elements_competence:
+  - code: 00SS-1
+    titre: "Analyser le projet de développement de l'application"
+    duree_heures: 2
+    habiletes:
+      - "Choisir un environnement de développement"
+      - "Choisir entre base de données locale, base de données distante ou les deux"
+    criteres_performance:
+      - "1 - Analyse juste des documents de conception"
+      - "2 - Détermination correcte des tâches à effectuer"
+    contenu_essentiel: >-
+      Programmation native vs multi-plateformes; environnements de
+      développement Android Studio, VS Code, IntelliJ etc.; mécanismes
+      d'enregistrement de données locales et distantes
+  - code: 00SS-2
+    titre: "Préparer l'environnement de développement informatique"
+    duree_heures: 1
+    habiletes:
+      - "Installer les logiciels et les bibliothèques"
+      - "Configurer le système de gestion de versions"
+      - "Importer du code source"
+    criteres_performance:
+      - "1 - Installation correcte des logiciels et des bibliothèques sur la plateforme hôte"
+      - "2 - Configuration appropriée de la plateforme cible"
+      - "3 - Configuration appropriée du système de gestion de versions"
+      - "4 - Importation correcte du code source"
+    contenu_essentiel: >-
+      Procédures d'installation; environnement réel vs environnement
+      simulé dans l'IDE
+  - code: 00SS-3
+    titre: "Préparer la ou les bases de données"
+    duree_heures: 4
+    habiletes:
+      - "Créer et adapter la base de données à partir d'un modèle de données"
+      - "Insérer les données initiales ou les données de tests"
+    criteres_performance:
+      - "1 - Création ou adaptation correctes de la base de données locale ou de la base de données distante"
+      - "2 - Insertion correcte des données initiales ou des données de tests"
+      - "3 - Respect du modèle de données"
+    contenu_essentiel: >-
+      Création et manipulation d'une base de données locale; création et
+      manipulation d'une base de données distante
+  - code: 00SS-4
+    titre: "Générer ou programmer l'interface graphique"
+    duree_heures: 6
+    habiletes:
+      - "Prendre connaissance de l'existence d'outils pour créer les interfaces"
+      - "Intégrer des composants"
+      - "Appliquer les principes de mise en page et de disposition"
+    criteres_performance:
+      - "1 - Choix et utilisation appropriés des éléments graphiques pour l'affichage et la saisie"
+      - "2 - Intégration correcte des images"
+      - "3 - Adaptation de l'interface en fonction du format d'affichage et de la résolution"
+    contenu_essentiel: >-
+      En programmation native ET en programmation multi-plateforme :
+      composants disponibles; adaptation selon l'orientation et la taille
+      de l'appareil
+  - code: 00SS-5
+    titre: "Programmer la logique applicative"
+    duree_heures: 40
+    habiletes:
+      - "Programmer l'application"
+    criteres_performance:
+      - "1 - Programmation ou intégration correctes de mécanismes d'authentification et d'autorisation"
+      - "2 - Programmation correcte des interactions entre l'interface graphique et l'utilisatrice ou l'utilisateur"
+      - "3 - Choix approprié des clauses, des opérateurs, des commandes ou des paramètres dans les requêtes à la base de données"
+      - "4 - Manipulation correcte des données de la base de données"
+      - "5 - Programmation correcte de la synchronisation des données"
+      - "6 - Utilisation appropriée des services d'échange de données"
+      - "7 - Application correcte des techniques d'internationalisation"
+      - "8 - Application rigoureuse des techniques de programmation sécurisée"
+    contenu_essentiel: >-
+      En programmation native ET en programmation multi-plateforme :
+      mécanismes d'authentification sur un serveur distant; mécanismes
+      d'autorisation pour accéder aux périphériques de l'appareil;
+      utilisation des capteurs; opérations CRUD sur les données;
+      synchronisation des bases de données locale et distante; techniques
+      d'internationalisation; techniques de programmation sécurisée
+  - code: 00SS-6
+    titre: "Contrôler la qualité de l'application"
+    duree_heures: 4
+    habiletes:
+      - "Appliquer les plans de tests"
+      - "Effectuer le suivi des versions"
+    criteres_performance:
+      - "1 - Application rigoureuse des plans de tests sur l'émulateur et sur la plateforme cible"
+      - "2 - Revues de code et de sécurité rigoureuses"
+      - "3 - Pertinence des correctifs"
+      - "4 - Respect des procédures de suivi des problèmes et de gestion des versions"
+      - "5 - Respect des documents de conception"
+    contenu_essentiel: >-
+      En programmation native ET en programmation multi-plateforme : tests
+      fonctionnels; suivi des versions
+  - code: 00SS-7
+    titre: "Participer à la mise en service de l'application"
+    duree_heures: 2
+    habiletes:
+      - "Déployer l'application directement sur un appareil mobile"
+      - "Expliquer les concepts de publication d'une application sur Google Play"
+    criteres_performance:
+      - "1 - Préparation appropriée de l'application en vue de son déploiement ou de son installation"
+      - "2 - Déploiement ou installation corrects de l'application"
+    contenu_essentiel: >-
+      En programmation native ET en programmation multi-plateforme :
+      processus de déploiement direct sur l'appareil; processus de
+      publication sur Google Play
+  - code: 00SS-8
+    titre: "Rédiger la documentation"
+    duree_heures: 1
+    habiletes:
+      - "Rédiger la documentation"
+    criteres_performance:
+      - "1 - Détermination correcte de l'information à rédiger"
+      - "2 - Notation claire du travail effectué"
+    contenu_essentiel: >-
+      Générateurs de documentation

@@ -1,0 +1,295 @@
+code: 350-6A3-VI
+titre: Interrelations professionnelles
+programme:
+  numero: "420"
+  nom: Techniques de l'informatique
+profil: "B0 : Profil par défaut"
+departement_responsable: Sciences humaines
+redacteurs:
+  - Beaulieu, Geneviève
+  - Boissonneault, Catherine
+  - Foster, Marie-Ève
+  - Lévesque, Jean-François
+prealables: []
+note_prealables_absence: "Ce cours n'a aucun préalable."
+prealables_speciaux: >-
+  L'élève doit avoir réussi 25 des 27 cours de formation spécifique des
+  sessions 1 à 5 dont 420-5B5-VI ainsi que 8 cours de formation générale
+  pour être inscrit aux cours 350-6A3-VI et 420-6A7-VI.
+prealable_a: []
+note_prealable_a_absence: "Ce cours n'est préalable à aucun autre cours."
+note_prealables: >-
+  Ce cours pourrait être préalable aux cours qui ont un préalable spécial.
+duree_heures: 45
+ponderation: "1-2-2"
+unites: 1.67
+dates:
+  analyse_equipe_programme: 2022-02-16
+  adoption_departement: 2022-01-19
+  approbation_service_etudes: 2024-06-14
+
+competences:
+  - code: 00SE
+    titre: "Interagir dans un contexte professionnel"
+    elements:
+      - "1 - Établir des relations professionnelles avec des utilisatrices ou utilisateurs, ainsi que des clientes ou clients"
+      - "2 - Travailler au sein d'une équipe multidisciplinaire"
+      - "3 - Se situer au regard des obligations légales et des règles d'éthique professionnelle"
+
+cible_formation: >-
+  À la fin de ce cours, l'élève sera capable d'interagir dans des situations
+  de travail variées.
+
+notes_preliminaires: >-
+  Le cours 350-6A3-VI : Interrelations professionnelles fait partie de la
+  formation menant au diplôme d'études collégiales (DEC) dans le programme
+  420.B0 : Techniques de l'informatique.
+
+
+  Il est offert en 6e session.
+
+
+  Ce cours vise l'atteinte complète de la compétence 00SE : Interagir dans
+  un contexte professionnel.
+
+
+  En quoi des habiletés de communication interpersonnelle et une formation
+  en psychologie peuvent-elles être utiles dans une formation en
+  informatique?
+
+
+  À compétences techniques égales, les personnes qui ont de bonnes
+  habiletés relationnelles ont de bien meilleures chances d'accéder au
+  succès personnel et professionnel. La compétence Interagir dans un
+  contexte professionnel permet à l'étudiant-e de marquer un temps d'arrêt
+  et d'examiner son mode de relation avec les autres. Le cours permet
+  d'identifier ses forces, ses faiblesses et d'apprendre quels sont les
+  modèles proposés pour développer des relations personnelles et
+  professionnelles efficaces et harmonieuses. Après avoir revu les
+  fondements scientifiques de la psychologie de la communication et des
+  organisations, les étudiant-e-s examinent plus précisément le fondement
+  des rapports humains, le processus de sélection et ses biais, le travail
+  d'équipe, le leadership et ses embûches, la modification du comportement
+  ainsi que le concept d'attitude-client jusqu'à la relation d'aide, la
+  communication, la gestion des conflits et la gestion des émotions.
+
+
+  La nature et la diversité des tâches à accomplir font appel à de
+  nombreuses habiletés interpersonnelles. Dans le cadre de son travail, la
+  technicienne ou le technicien en informatique est appelé-e à expérimenter
+  des relations interpersonnelles dans diverses situations de travail.
+
+
+  Ce cours s'adresse aux étudiant-e-s en informatique qui seront appelé-e-s
+  à communiquer verbalement avec différents types de personnes : des
+  supérieurs dans le cadre de demandes d'information ou de présentation de
+  projets, des collègues dans le cadre de travaux de groupe ou de réunions,
+  et des clients-usagers lors d'entrevues d'analyse de besoins, de
+  formation ou de présentation de produits ou de services. De plus, elle ou
+  il pourra travailler au sein d'une équipe multidisciplinaire. Enfin, elle
+  ou il devra satisfaire adéquatement les besoins de client-e-s.
+
+
+  La technicienne ou le technicien en informatique doit apprendre à gérer
+  le stress généré par les multiples situations interpersonnelles
+  auxquelles elle ou il est confronté-e. Il doit posséder les habiletés
+  d'expression orale qui vont lui permettre de s'adresser efficacement à
+  divers intervenant-e-s. La nécessité de se mettre au diapason des
+  nombreuses personnes avec lesquelles elle ou il interagit suppose de plus
+  la présence d'une bonne capacité d'écoute. L'élève inscrit-e au cours
+  doit, au terme de sa formation, pouvoir utiliser la reformulation de
+  façon appropriée et savoir donner de la rétroaction constructive. Par
+  ailleurs, les relations interpersonnelles qui font partie intégrante du
+  travail de la technicienne ou du technicien en informatique vont à
+  l'occasion donner lieu à des situations conflictuelles. Ainsi, la
+  capacité d'appliquer adéquatement des techniques permettant la résolution
+  de problèmes et la négociation s'avère un acquis indispensable. En plus
+  des habiletés de communication identifiées plus avant, l'élève doit
+  démontrer qu'elle ou il peut jouer un rôle actif dans un groupe, tout en
+  manifestant des comportements conformes à l'éthique professionnelle dans
+  l'exécution de ses tâches et dans ses relations avec ses collègues.
+
+
+  Tout cela bien sûr, après avoir été retenu-e par l'entreprise, à la suite
+  d'une entrevue de sélection. L'élève développera donc également
+  l'habileté à bien se présenter en entretien d'embauche. Cela lui
+  procurera les outils pour une recherche d'emploi future, et à plus brève
+  échéance, pour obtenir son stage de fin de cursus.
+
+
+  La compétence Interagir dans un contexte professionnel sera donc atteinte
+  à travers ce cours de psychologie appliquée abordant la communication et
+  les organisations. Les attitudes et compétences développées faciliteront
+  l'intégration des étudiant-e-s sur le marché du travail et leur
+  permettront d'établir des relations professionnelles satisfaisantes. Le
+  but de ce cours est donc de fournir aux élèves des instruments permettant
+  de s'adapter à diverses réalités humaines de leur profession, de mieux
+  comprendre leurs interlocuteurs et surtout de mieux répondre à leurs
+  besoins.
+
+
+  (1) MA CARRIÈRE EN TECHNO, « Technicien en informatique », Ma carrière en
+  techno, page consultée le 1 décembre 2021.
+
+epreuve_finale:
+  ponderation: "40 %"
+  performance_finale_exigee: >-
+    Analyser, de façon individuelle, des situations d'interaction et de
+    communication dans des situations de travail variées.
+
+
+    Dans diverses situations, l'élève devra porter un regard critique sur
+    sa propre capacité à appliquer les concepts et stratégies relatives aux
+    thèmes de la communication vus en classe. Par la suite, il devra
+    réfléchir à des pistes d'amélioration souhaitables pour lui.
+  contexte_realisation: >-
+    Ces activités seront réalisées de façon individuelle dans un
+    portfolio. Cette tâche sera réalisée en classe (lorsque le temps le
+    permet) et hors classe et s'échelonnera de la semaine 12 à 15. Le
+    portfolio devra être remis lors du cours de la semaine 15.
+  criteres_evaluation:
+    - Reconnaissance des éléments pertinents à l'analyse de la situation de communication.
+    - Établissement de liens d'interprétation cohérents entre la théorie et les comportements identifiés dans la situation de communication.
+    - Proposition des pistes d'amélioration concrètes et réalistes par rapport à sa façon de communiquer dans un contexte professionnel.
+    - Utilisation appropriée du langage de la psychologie.
+
+demarche_pedagogique_suggeree: >-
+  La démarche pédagogique comprend des cours magistraux pour présenter les
+  notions importantes, des ateliers, des études de cas, des rencontres avec
+  des professionnels du milieu, des rapports écrits d'activités en équipe
+  et des bilans personnels des attitudes mises en pratique. Puisque le
+  contenu de cours le permet, il est préférable de se servir de situations
+  qui reflètent bien la réalité du technicien en informatique pour traiter
+  de notions théoriques.
+
+
+  L'ensemble des heures en classe sera partagé de façon à : s'approprier
+  les concepts relatifs à la communication interpersonnelle; s'habiliter à
+  utiliser les diverses techniques de communication, dans des contextes
+  variés, tout en portant un regard critique sur son processus de
+  communication.
+
+
+  Les activités en classe doivent privilégier au maximum l'établissement de
+  liens entre les connaissances théoriques, l'expérience des autres et sa
+  propre expérience afin de favoriser une compréhension et une intégration
+  plus grande. On peut difficilement imaginer que les sujets de ce cours
+  soient abordés uniquement sous un angle théorique. Il importe de
+  compléter les connaissances avec l'expérience vécue qui ne manque pas
+  dans ce domaine.
+
+
+  Arrimage avec le cours "Projet intégrateur 2" : Les étudiant-e-s étant
+  inscrits dans les deux cours en simultané, l'utilisation de ce projet
+  authentique d'approche client est de mise pour mettre en pratique les
+  habiletés interpersonnelles développées en classe. Le cours Projet
+  intégrateur 2 permet aux étudiant-e-s d'expérimenter un réel contrat pour
+  un-e réel-le client-e. Ce précieux partenariat entre les deux cours offre
+  aux élèves la chance de vivre une expérience significative tout en étant
+  accompagné-e-s par des enseignant-e-s aux champs d'expertise
+  complémentaires : l'un-e au regard des aspects techniques de la
+  programmation et l'autre par rapport aux habiletés professionnelles
+  (travail d'équipe, gestion des conflits, approche client, etc.).
+
+
+  Arrimage avec le dernier stage ATE : Nous travaillons ici en équipe pour
+  la préparation au processus d'embauche. Bien que les étudiant-e-s aient
+  déjà eu l'occasion de vivre deux expériences de stage pendant leur
+  cursus, ce cours leur permet de parfaire leurs habiletés pour se préparer
+  à un processus d'embauche en vivant une expérience d'entrevue simulée, en
+  collaboration avec un-e autre enseignant-e du programme.
+
+mediagraphie_note: "La médiagraphie pourrait être actualisée"
+mediagraphie:
+  - "ADLER, Ronald B., et PROCTOR II, Russel, Communication et interactions 3e édition, Montréal, Modulo, 2015, 408 pages."
+  - "ACISSI, Sécurité informatique : ethical hacking : apprendre l'attaque pour mieux se défendre, 5e édition, EPISILON, 2017, 800 pages"
+  - "BÉDARD, Luc, DÉZIEL, Josée et LAMARCHE Luc, Introduction à la psychologie sociale, 4e édition, Montréal, Éditions du renouveau pédagogique, 2017, 560 pages."
+  - "DEVITO, Joseph A., CHASSÉ, Gilles et VEZEAU, Carole, La communication interpersonnelle, 3e édition, St-Laurent, Éditions du renouveau pédagogique, 2014, 380 pages."
+  - "GAMBLE, Teri kwal et GAMBLE Michael, Communiquer et interagir, 2e édition, Montréal, Chenelière éducation, 2017, 322 pages."
+  - "JACQUES, Josée et JACQUES, Pierre, Le travail en équipe et les présentations publiques : guide pratique, Québec, Fides Éducation, 2013, 116 pages."
+  - "PRESCOTT, Édith, Parler en public, Montréal, Les Éditions Transcontinental, 2002, 195 pages."
+  - "RAUFER, Xavier, Cyber-criminologie, France, CNRS Éditions, 2015, 250 pages"
+
+materiel_requis: >-
+  Programme portable
+
+elements_competence:
+  - code: 00SE-1
+    titre: "Établir des relations professionnelles avec des utilisatrices ou utilisateurs, des clientes ou clients, ainsi que des employeurs"
+    duree_heures: 22
+    habiletes:
+      - "1- Développer une connaissance de soi qui permet d'établir et d'entretenir des relations interpersonnelles harmonieuses."
+      - "2- Utiliser les habiletés de communication pertinentes, selon diverses situations de travail."
+      - "3- Interagir avec un client, fictif ou réel, afin de s'assurer de sa satisfaction."
+      - "4- Utiliser l'approche client dans les interactions professionnelles."
+      - "5- Réaliser un processus d'embauche."
+    criteres_performance:
+      - "1- Manifestation d'attitudes et de comportements démontrant une capacité d'écoute."
+      - "2- Adaptation du niveau de langage selon la situation."
+      - "3- Respect des règles de politesse et de courtoisie."
+      - "4- Respect de l'approche client."
+      - "5- Réalisation du processus de sélection pour un emploi ou un stage."
+    contenu_essentiel: >-
+      Connaissance de soi; impact de ses forces et faiblesses sur son
+      processus de communication; écoute et communication bienveillante;
+      processus d'embauche; parler en public; caractéristiques d'un
+      communicateur compétent; communication non-verbale; approche client;
+      satisfaction de la clientèle; fidélisation de la clientèle; attitudes
+      professionnelles
+  - code: 00SE-2
+    titre: "Travailler au sein d'une équipe multidisciplinaire"
+    duree_heures: 20
+    habiletes:
+      - "1- Reconnaître ses forces et ses faiblesses en matière de relations interpersonnelles."
+      - "2- Reconnaître les défis associés au travail en équipe."
+      - "3- Utiliser une stratégie générale de gestion des tâches."
+      - "4- Distinguer les rôles et les responsabilités des membres de l'équipe."
+      - "5- Reconnaître le rôle de la culture d'entreprise dans son travail de technicien."
+      - "6- Manifester des comportements conformes à l'éthique professionnelle autant dans le travail que pour les relations avec les collègues."
+      - "7- Gérer son stress en fonction des échéances et des demandes de l'employeur et/ou des clients."
+      - "8- Reconnaître les facteurs susceptibles d'entraîner un épuisement professionnel."
+    criteres_performance:
+      - "1- Manifestation d'attitudes et de comportements de respect, d'ouverture d'esprit et de collaboration."
+      - "2- Communication efficace avec les membres de l'équipe."
+      - "3- Exécution correcte des tâches confiées."
+      - "4- Respect des règles de fonctionnement en équipe."
+      - "5- Respect de la culture d'entreprise."
+      - "6- Démonstration de son esprit critique au regard des normes, des méthodes ou des bonnes pratiques en matière de développement d'applications et de gestion de réseaux."
+      - "7- Respect des limites d'intervention professionnelle et de l'expertise des membres d'autres professions."
+      - "8- Respect des échéances."
+    contenu_essentiel: >-
+      Les composantes d'un groupe nécessaires au fonctionnement optimal;
+      l'écoute active et les types de mauvaise écoute; l'affirmation de
+      soi; la communication non-violente (gestion des émotions négatives);
+      la motivation des membres de l'équipe; la théorie de
+      l'autodétermination; le groupe, ses caractéristiques, fonctions, son
+      évolution et sa structure; le leadership; les prises de décision en
+      groupe; les difficultés de communications; les conflits et leur
+      résolution; la négociation et ouverture à la critique; évaluation de
+      l'application de la solution et du résultat; reconnaître ses
+      habiletés relatives à l'organisation; la division du travail et la
+      répartition des rôles dans une équipe de travail; la tenue de
+      réunions d'équipe efficaces; culture d'entreprise (cohérence,
+      pérennité, vision, fonction sociale, codes de conduite); les
+      attitudes professionnelles; le stress, l'anxiété et la performance;
+      l'épuisement professionnel
+  - code: 00SE-3
+    titre: "Se situer au regard des obligations légales et des règles d'éthique professionnelle"
+    duree_heures: 3
+    habiletes:
+      - "1- Distinguer le lien entre le niveau de développement moral d'une personne et les comportements éthiques en milieu de travail."
+      - "2- Reconnaître l'influence des autres sur notre jugement et nos prises de décision."
+      - "3- Reconnaître ce qu'est un acte criminel (plus précisément relatif à la cybercriminalité) et son lien avec la sécurité informatique."
+      - "4- Reconnaître les conséquences et les risques de la cybercriminalité sur les entreprises."
+      - "5- Faire preuve d'un sens éthique au regard de sa profession."
+    criteres_performance:
+      - "1 - Distinction juste des principaux délits et des principaux actes criminels dans le domaine informatique."
+      - "2 - Distinction juste des principales atteintes à la propriété intellectuelle dans le domaine informatique."
+      - "3 - Appréciation juste de conséquences de délits, d'actes criminels et d'atteintes à la propriété intellectuelle."
+      - "4 - Détermination des mesures appropriées selon la situation."
+      - "5 - Démonstration de son esprit critique au regard des lois, des codes d'éthique et des politiques d'entreprise."
+    contenu_essentiel: >-
+      Le développement moral (modèle de Piaget et modèle de Kohlberg);
+      l'influence sociale et ses différentes formes; la résistance à
+      l'influence; définition de la criminologie en lien avec la
+      cybercriminalité

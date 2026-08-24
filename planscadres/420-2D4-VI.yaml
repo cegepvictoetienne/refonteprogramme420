@@ -1,0 +1,216 @@
+code: 420-2D4-VI
+titre: Support technique
+programme:
+  numero: "420"
+  nom: Techniques de l'informatique
+profil: "B0 : Profil par défaut"
+departement_responsable: Informatique
+redacteurs:
+  - Campeau, Jean-Sébastien
+  - Carignan, André
+prealables: []
+note_prealables_absence: "Ce cours n'a aucun préalable."
+prealable_a: []
+note_prealable_a_absence: "Ce cours n'est préalable à aucun autre cours."
+note_prealables: >-
+  Ce cours pourrait être préalable aux cours qui ont un préalable spécial.
+duree_heures: 60
+ponderation: "2-2-1"
+unites: 1.67
+dates:
+  analyse_equipe_programme: 2019-10-09
+  adoption_departement: 2019-10-02
+  approbation_service_etudes: 2026-01-15
+
+competences:
+  - code: 00Q4
+    titre: "Exploiter des logiciels de bureautique"
+    elements:
+      - "1 - Produire des rapports"
+      - "2 - Produire des tableaux et des graphiques"
+      - "4 - Produire des documents de présentation"
+      - "5 - Partager et synchroniser des documents"
+  - code: 00SG
+    titre: "Fournir du soutien informatique aux utilisatrices et utilisateurs"
+    elements:
+      - "1 - Préciser le besoin"
+      - "2 - Assister des utilisatrices et des utilisateurs en ce qui a trait à l'emploi d'un ordinateur et de logiciels"
+      - "3 - Préparer les documents d'aide aux utilisatrices et utilisateurs"
+      - "4 - Effectuer un suivi sur le soutien apporté"
+
+cible_formation: >-
+  À la fin du cours, l'élève sera capable de fournir du soutien aux
+  utilisatrices et aux utilisateurs dans l'exploitation d'une suite de
+  logiciels de bureautique.
+
+notes_preliminaires: >-
+  Le cours 420-2D4-VI : Support technique fait partie de la formation
+  menant au diplôme d'études collégiales (DEC) dans le programme 420.B0 :
+  Techniques de l'informatique.
+
+
+  Il est offert en 2e session.
+
+
+  Plusieurs compétences sont touchées par ce cours.
+
+
+  La compétence 00Q4 : Exploiter des logiciels de bureautique est vue
+  partiellement.
+
+
+  Son acquisition a débuté dans le cours 420-1C4-VI : Outils informatiques
+  à la 1re session.
+
+
+  Son acquisition sera complétée dans le cours 420-2C4-VI : Réseautique à
+  la 2e session.
+
+
+  Ce cours vise l'atteinte complète de la compétence 00SG : Fournir du
+  soutien informatique aux utilisatrices et utilisateurs.
+
+epreuve_finale:
+  ponderation: "50 %"
+  performance_finale_exigee: >-
+    L'élève devra offrir du support technique sous forme de billet
+    technique. L'élève devra analyser des incidents et déterminer pour
+    chacun : le problème rencontré par l'utilisatrice ou utilisateur; les
+    solutions possibles; les recommandations pour éviter l'incident dans
+    le futur.
+  contexte_realisation: >-
+    À partir d'un ordinateur portable. Individuellement. En classe. Les 6
+    dernières heures du cours (semaines 14 et 15).
+  criteres_evaluation:
+    - Analyse juste de l'incident, du problème ou de la demande
+    - Choix approprié de l'intervention à effectuer ou transmission de l'information à la personne ou au service concerné
+    - Pertinence des conseils
+    - Utilisation d'un niveau de langage approprié
+    - Formulation claire de recommandations visant à prévenir la récurrence de pannes.
+
+demarche_pedagogique_suggeree: >-
+  Enseignement magistral, démonstrations, exercices en équipes, exercices
+  individuels, mises en situations.
+
+mediagraphie:
+  - "HALSEY, Mike. The IT Support Handbook : A How-To Guide to Providing Effective Help and Support to IT Users."
+
+materiel_requis: >-
+  Ordinateur portable
+
+elements_competence:
+  - code: 00Q4-1
+    titre: "Produire des rapports"
+    duree_heures: 12
+    habiletes:
+      - "Utiliser un logiciel de traitement de texte."
+    criteres_performance:
+      - "1 - Personnalisation correcte de l'interface du traitement de texte"
+      - "2 - Saisie correcte de l'information"
+      - "3 - Intégration correcte d'images"
+      - "4 - Utilisation et modification appropriées des styles et des modèles"
+      - "5 - Insertion correcte d'une table des matières automatique"
+      - "6 - Utilisation efficace du correcteur"
+      - "7 - Respect des normes de présentation"
+    contenu_essentiel: >-
+      Microsoft Word; mise en forme; table des matières; publipostage
+  - code: 00Q4-2
+    titre: "Produire des tableaux et des graphiques"
+    duree_heures: 18
+    habiletes:
+      - "Utiliser un tableur électronique."
+    criteres_performance:
+      - "1 - Personnalisation adéquate de l'interface du tableur électronique"
+      - "2 - Choix approprié du type de tableau et de graphique à produire"
+      - "3 - Choix et utilisation appropriés des fonctions de recherche, de logique et de calcul"
+      - "4 - Élaboration de formules mathématiques appropriées"
+      - "5 - Respect des normes de présentation"
+    contenu_essentiel: >-
+      Microsoft Excel; fonctions; formules; mise en forme; graphiques
+  - code: 00Q4-4
+    titre: "Produire des documents de présentation"
+    duree_heures: 4
+    habiletes:
+      - "Utiliser les bases d'un logiciel de présentation."
+      - "Faire preuve d'un souci esthétique."
+    criteres_performance:
+      - "1 - Personnalisation correcte de l'interface du logiciel de présentation"
+      - "2 - Choix approprié de la résolution et du format d'affichage"
+      - "3 - Intégration adéquate d'images, de sons et de vidéos"
+      - "4 - Lisibilité des présentations"
+      - "5 - Respect des règles orthographiques et grammaticales"
+      - "6 - Respect des normes de présentation"
+    contenu_essentiel: >-
+      Microsoft PowerPoint; animations; transitions
+  - code: 00Q4-5
+    titre: "Partager et synchroniser des documents"
+    duree_heures: 4
+    habiletes:
+      - "Installer et utiliser des logiciels de synchronisation de documents."
+      - "Partager des documents."
+    criteres_performance:
+      - "1 - Personnalisation correcte de l'interface du logiciel de travail collaboratif"
+      - "2 - Conversion appropriée des formats de fichiers"
+      - "3 - Classification adéquate des documents"
+      - "4 - Attribution correcte des accès aux documents partagés"
+      - "5 - Gestion efficace des conflits de versions"
+    contenu_essentiel: >-
+      Microsoft One Drive; Microsoft Teams
+  - code: 00SG-1
+    titre: "Préciser le besoin"
+    duree_heures: 4
+    habiletes:
+      - "Analyser un problème technique."
+      - "Déterminer une solution."
+    criteres_performance:
+      - "1 - Analyse juste de l'incident, du problème ou de la demande"
+      - "2 - Consultation appropriée de la base de connaissances"
+      - "3 - Détermination judicieuse du niveau de priorité"
+      - "4 - Choix approprié de l'intervention à effectuer ou transmission de l'information à la personne ou au service concerné"
+      - "5 - Respect des limites d'intervention professionnelle"
+    contenu_essentiel: >-
+      Méthodes d'analyse de problème
+  - code: 00SG-2
+    titre: "Assister des utilisatrices et des utilisateurs en ce qui a trait à l'emploi d'un ordinateur et de logiciels"
+    duree_heures: 6
+    habiletes:
+      - "Avoir une attitude professionnelle."
+      - "Identifier les actions significatives des utilisatrices ou des utilisateurs."
+      - "Effectuer des démonstrations."
+    criteres_performance:
+      - "1 - Manifestation d'attitudes et de comportements favorisant l'établissement d'une relation de confiance"
+      - "2 - Relevé des actions significatives posées par les utilisatrices ou les utilisateurs"
+      - "3 - Pertinence des conseils"
+      - "4 - Pertinence et efficacité des démonstrations"
+      - "5 - Utilisation d'un niveau de langage approprié"
+      - "6 - Manifestation d'attitudes et de comportements empreints de patience"
+    contenu_essentiel: >-
+      Attitudes professionnelles; méthodes d'assistance; outils
+      d'assistance à distance
+  - code: 00SG-3
+    titre: "Préparer les documents d'aide aux utilisatrices et utilisateurs"
+    duree_heures: 6
+    habiletes:
+      - "Produire un contenu adapté au niveau technique des utilisatrices et utilisateurs."
+    criteres_performance:
+      - "1 - Analyse juste de la documentation existante"
+      - "2 - Détermination judicieuse du niveau de connaissance des utilisatrices et utilisateurs"
+      - "3 - Production de documents conformes aux besoins des utilisatrices et utilisateurs"
+      - "4 - Utilisation du vocabulaire approprié"
+      - "5 - Respect des normes de documentation"
+      - "6 - Respect des règles orthographiques et grammaticales"
+    contenu_essentiel: >-
+      Méthodes de rédaction de documents d'aide
+  - code: 00SG-4
+    titre: "Effectuer un suivi sur le soutien apporté"
+    duree_heures: 6
+    habiletes:
+      - "Vérifier l'efficacité d'une intervention."
+      - "Recommander des pistes de solution à long terme."
+    criteres_performance:
+      - "1 - Vérification appropriée de la satisfaction de l'utilisatrice et de l'utilisateur"
+      - "2 - Détermination correcte du degré d'adéquation entre l'intervention et le besoin"
+      - "3 - Formulation claire de recommandations visant à prévenir la récurrence de pannes"
+      - "4 - Notation claire de l'intervention dans la base de connaissances"
+    contenu_essentiel: >-
+      Outil de suivi des incidents

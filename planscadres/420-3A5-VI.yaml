@@ -1,0 +1,280 @@
+code: 420-3A5-VI
+titre: Développement Web 2
+programme:
+  numero: "420"
+  nom: Techniques de l'informatique
+profil: "B0 : Profil par défaut"
+departement_responsable: Informatique
+redacteurs:
+  - Croteau, Carine
+  - Lagacé, Christiane
+prealables:
+  - cours: 420-2A4-VI
+    titre: Développement Web 1
+prealable_a: []
+note_prealable_a_absence: "Ce cours n'est préalable à aucun autre cours."
+note_prealables: >-
+  Ce cours pourrait être préalable aux cours qui ont un préalable spécial.
+duree_heures: 75
+ponderation: "2-3-3"
+unites: 2.67
+dates:
+  analyse_equipe_programme: 2024-06-14
+  adoption_departement: 2024-05-01
+  approbation_service_etudes: 2024-06-14
+
+competences:
+  - code: 00SU
+    titre: "Effectuer le développement d'applications Web transactionnelles"
+    elements:
+      - "1 - Analyser le projet de développement de l'application"
+      - "2 - Préparer l'environnement de développement informatique"
+      - "3 - Préparer la base de données"
+      - "4 - Programmer l'interface Web"
+      - "5 - Programmer la logique applicative du côté serveur"
+      - "6 - Programmer la logique applicative du côté client"
+      - "7 - Contrôler la qualité de l'application"
+      - "8 - Participer au déploiement de l'application chez un hébergeur Web"
+      - "9 - Rédiger la documentation"
+
+cible_formation: >-
+  À la fin de ce cours, l'élève sera capable d'effectuer le développement
+  d'applications Web transactionnelles avec un gestionnaire de contenu.
+
+notes_preliminaires: >-
+  Le cours 420-3A5-VI : Développement Web 2 fait partie de la formation
+  menant au diplôme d'études collégiales (DEC) dans le programme 420.B0 :
+  Techniques de l'informatique.
+
+
+  Il est offert en 3e session.
+
+
+  La compétence 00SU : Effectuer le développement d'applications Web
+  transactionnelles est vue partiellement.
+
+
+  Son acquisition a débuté dans le cours 420-2A4-VI : Développement Web 1
+  à la 2e session.
+
+
+  Son acquisition sera complétée dans le cours 420-5A5-VI : Développement
+  Web 3 à la 5e session.
+
+
+  Le gestionnaire de contenu choisi par le département est WordPress.
+
+epreuve_finale:
+  ponderation: "45 %"
+  performance_finale_exigee: >-
+    L'épreuve finale sera un travail long réalisé seul. L'élève produira
+    un site Web transactionnel, à l'aide du gestionnaire de contenu,
+    répondant à des critères précis, par exemple : un thème enfant; une
+    table personnalisée dans la base de données; une section personnalisée
+    dans le tableau de bord; un formulaire d'ajout et de modification de
+    données; une liste de données; la suppression de données après
+    confirmation JavaScript.
+  contexte_realisation: >-
+    À partir de situations variées, différentes pour chaque élèves et
+    représentatives du milieu du travail. À partir des exigences définies
+    par la personne enseignante. Le développement du travail se déroulera
+    individuellement sur toute la session pendant du temps en classe et
+    hors classe. La remise sera faite à la semaine 15.
+  criteres_evaluation:
+    - Utilisation appropriée du langage de balisage
+    - Création et utilisation appropriées des feuilles de styles
+    - Création appropriée des formulaires Web
+    - Adaptation de l'interface en fonction du format d'affichage et de la résolution
+    - Manipulation correcte des données de la base de données
+    - Utilisation appropriée des services d'échange de données
+    - Application correcte des techniques d'internationalisation
+    - Application rigoureuse des techniques de programmation sécurisée
+    - Programmation appropriée d'appels asynchrones
+    - Utilisation systématique des techniques de validation de données des formulaires Web
+    - Application rigoureuse des plans de tests
+    - Respect des procédures de suivi des problèmes et de gestion des versions
+    - Configuration appropriée de l'application chez l'hébergeur Web
+    - Respect des exigences de référencement
+    - Notation claire du travail effectué
+    - Qualité de la langue
+
+demarche_pedagogique_suggeree: >-
+  Courtes périodes d'enseignement théorique suivies d'application au fur et
+  à mesure à l'aide d'exercices formatifs. Des références de sites Web
+  seront fournies par le professeur. L'élève devra enrichir ces sources
+  d'information par ses propres recherches. Des activités seront proposées
+  pour favoriser la coopération entre les élèves, l'échange des
+  connaissances et la prise en charge de son apprentissage par l'élève.
+  Certaines évaluations formatives peuvent être auto-corrigées par l'élève
+  ou encore co-corrigées par un collègue de la classe. Bien que certains
+  travaux ne fassent pas l'objet d'évaluation sommative, les élèves doivent
+  absolument les compléter afin d'être prêts pour l'épreuve finale.
+
+mediagraphie:
+  - "Documentation officielle PHP : https://www.php.net/"
+  - "Documentation officielle MySQL : https://dev.mysql.com/"
+  - "Documentation officielle WordPress : https://fr-ca.wordpress.org/"
+
+materiel_requis: >-
+  Ordinateur portable; nom de domaine; hébergeur
+
+elements_competence:
+  - code: 00SU-1
+    titre: "Analyser le projet de développement de l'application"
+    duree_heures: 1
+    habiletes:
+      - "Choisir un environnement de développement."
+      - "Sélectionner le gestionnaire de contenu approprié."
+    criteres_performance:
+      - "1 - Analyse juste des documents de conception"
+      - "2 - Détermination correcte des tâches à effectuer"
+    contenu_essentiel: >-
+      PHP vanille vs gestionnaire de contenu; différents gestionnaires de
+      contenu
+  - code: 00SU-2
+    titre: "Préparer l'environnement de développement informatique"
+    duree_heures: 1
+    habiletes:
+      - "Installer la plateforme de développement Web et le système de gestion de base de données de développement"
+      - "Installer les logiciels et les bibliothèques"
+      - "Configurer le système de gestion de versions"
+      - "Importer du code source"
+      - "Installer le gestionnaire de contenu"
+    criteres_performance:
+      - "1 - Installation correcte de la plateforme de développement Web et du système de gestion de base de données de développement"
+      - "2 - Installation correcte des logiciels et des bibliothèques"
+      - "3 - Configuration appropriée du système de gestion de versions"
+      - "4 - Importation correcte du code source"
+    contenu_essentiel: >-
+      Installation, configuration et utilisation de différents outils de
+      développement (serveurs de développement, gestionnaire de versions);
+      installation d'un site avec le gestionnaire de contenu
+  - code: 00SU-3
+    titre: "Préparer la base de données"
+    duree_heures: 1
+    habiletes:
+      - "Créer la base de données vide - les tables seront créées automatiquement par le CMS"
+      - "Insérer les données initiales ou les données de tests"
+      - "Créer des tables personnalisées - à partir du code PHP"
+    criteres_performance:
+      - "1 - Création ou adaptation correctes de la base de données"
+      - "2 - Insertion correcte des données initiales ou des données de tests"
+      - "3 - Respect du modèle de données"
+    contenu_essentiel: >-
+      MySQL; processus de création de base de données dans le gestionnaire
+      de contenu (ex : dbDelta())
+  - code: 00SU-4
+    titre: "Programmer l'interface Web"
+    duree_heures: 10
+    habiletes:
+      - "Créer un thème enfant"
+      - "Utiliser le langage de balisage"
+      - "Créer et utiliser des feuilles de styles"
+      - "Intégrer des images"
+      - "Créer des formulaires Web"
+      - "Adapter l'interface en fonction du format d'affichage et de la résolution"
+    criteres_performance:
+      - "1 - Utilisation appropriée du langage de balisage"
+      - "2 - Création et utilisation appropriées des feuilles de styles"
+      - "3 - Intégration correcte des images"
+      - "4 - Création appropriée des formulaires Web"
+      - "5 - Adaptation de l'interface en fonction du format d'affichage et de la résolution"
+    contenu_essentiel: >-
+      Thème enfant; fichiers modèles; HTML, CSS, formulaires Web, design
+      adaptatif dans le contexte du CMS
+  - code: 00SU-5
+    titre: "Programmer la logique applicative du côté serveur"
+    duree_heures: 43
+    habiletes:
+      - "Programmer les interactions entre l'interface Web et l'utilisatrice ou l'utilisateur"
+      - "Manipuler les données de la base de données (SELECT, INSERT, UPDATE, DELETE)"
+      - "Programmer une extension"
+      - "Appliquer des techniques de programmation sécurisée"
+      - "Utiliser un service d'échange de données"
+      - "Internationaliser un site Web"
+    criteres_performance:
+      - "1 - Programmation ou intégration correctes de mécanismes d'authentification et d'autorisation"
+      - "2 - Programmation correcte des interactions entre l'interface Web et l'utilisatrice ou l'utilisateur"
+      - "3 - Choix approprié des clauses, des opérateurs, des commandes ou des paramètres dans les requêtes à la base de données"
+      - "4 - Manipulation correcte des données de la base de données"
+      - "5 - Utilisation appropriée des services d'échange de données"
+      - "6 - Application correcte des techniques d'internationalisation"
+      - "7 - Application rigoureuse des techniques de programmation sécurisée"
+    contenu_essentiel: >-
+      Mécanisme d'accès aux données propre au gestionnaire de contenu
+      (ex : wpdb); squelette d'une extension; dangers d'afficher la version
+      du gestionnaire de contenu; cryptage des mots de passe; noms de
+      tables sécurisés (préfixes); nom de l'usager administrateur; URL pour
+      atteindre le tableau de bord; emplacement du fichier journal
+      d'erreurs (ex : debug.log); utilisation d'un service Web (ex :
+      afficher la météo); mécanisme d'internationalisation (ex : fichiers
+      .po, gettext)
+  - code: 00SU-6
+    titre: "Programmer la logique applicative du côté client"
+    duree_heures: 4
+    habiletes:
+      - "Manipuler des objets du modèle DOM"
+      - "Programmer des interactions entre l'interface Web et l'utilisatrice ou l'utilisateur"
+      - "Utiliser des techniques de validation de données des formulaires Web"
+      - "Assurer l'utilisabilité des formulaires Web"
+    criteres_performance:
+      - "1 - Manipulation adéquate des objets du modèle DOM"
+      - "2 - Programmation appropriée d'appels asynchrones"
+      - "3 - Programmation correcte des interactions entre l'interface Web et l'utilisatrice ou l'utilisateur"
+      - "4 - Utilisation systématique des techniques de validation de données des formulaires Web"
+      - "5 - Formulaires Web conformes aux exigences d'utilisabilité"
+    contenu_essentiel: >-
+      Confirmation avant suppression; appels AJAX; validations côté client
+      et côté serveur cohérentes
+  - code: 00SU-7
+    titre: "Contrôler la qualité de l'application"
+    duree_heures: 10
+    habiletes:
+      - "Appliquer les plans de tests"
+      - "Effectuer des revues de code et de sécurité"
+      - "Effectuer le suivi des problèmes"
+      - "Effectuer le suivi des versions"
+    criteres_performance:
+      - "1 - Application rigoureuse des plans de tests"
+      - "2 - Revues de code et de sécurité rigoureuses"
+      - "3 - Pertinence des correctifs"
+      - "4 - Respect des procédures de suivi des problèmes et de gestion des versions"
+      - "5 - Respect des documents de conception"
+    contenu_essentiel: >-
+      Théorie sur les types de tests (fonctionnels, unitaires, performance,
+      sécurité, etc.); techniques pour effectuer et documenter les tests
+      (ex : feuille Excel, site spécialisé, etc. — on ne fait pas de tests
+      unitaires ici); soumission de versions dans Git
+  - code: 00SU-8
+    titre: "Participer au déploiement de l'application chez un hébergeur Web"
+    duree_heures: 3
+    habiletes:
+      - "Choisir un nom de domaine"
+      - "Configurer l'application chez l'hébergeur Web"
+      - "Migrer l'application chez l'hébergeur Web"
+      - "Appliquer des mesures de sécurité"
+      - "Respecter les exigences de référencement"
+    criteres_performance:
+      - "1 - Détermination judicieuse du nom de domaine"
+      - "2 - Configuration appropriée de l'application chez l'hébergeur Web"
+      - "3 - Application correcte de la procédure de migration de l'application chez l'hébergeur Web"
+      - "4 - Application rigoureuse des mesures de sécurité"
+      - "5 - Respect des exigences de référencement"
+    contenu_essentiel: >-
+      Particularités de la mise en ligne du gestionnaire de contenu (ex :
+      ne pas copier readme.html, effacer debug.log, mettre WP-DEBUG à
+      false); déploiement d'une base de données chez l'hébergeur
+      (ajustement de l'URL des fichiers et images dans le SQL); ajustement
+      d'une base de données en production (ex : dbDelta()); référencement
+      organique et payant
+  - code: 00SU-9
+    titre: "Rédiger la documentation"
+    duree_heures: 2
+    habiletes:
+      - "Rédiger la documentation"
+    criteres_performance:
+      - "1 - Détermination correcte de l'information à rédiger"
+      - "2 - Notation claire du travail effectué"
+    contenu_essentiel: >-
+      Générateur de documentation automatique (ex : phpDocumentor); manuel
+      de l'utilisateur; guide des opérations

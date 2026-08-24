@@ -1,0 +1,184 @@
+code: 420-1D6-VI
+titre: Programmation 1
+programme:
+  numero: "420"
+  nom: Techniques de l'informatique
+profil: "B0 : Profil par défaut"
+departement_responsable: Informatique
+redacteurs:
+  - Campeau, Jean-Sébastien
+  - Carle, Shany
+prealables:
+  - cours: 201-1A3-VI
+    titre: Mathématiques de l'ordinateur
+    type: Corequis
+prealable_a:
+  - cours: 420-2A4-VI
+    titre: Développement Web 1
+  - cours: 420-2A6-VI
+    titre: Programmation 2
+  - cours: 420-2B4-VI
+    titre: Bases de données 1
+  - cours: 420-3A4-VI
+    titre: Objets connectés 1
+note_prealables: >-
+  Ce cours pourrait également être préalable aux cours qui ont un préalable
+  spécial.
+duree_heures: 90
+ponderation: "3-3-3"
+unites: 3
+dates:
+  analyse_equipe_programme: 2019-05-16
+  adoption_departement: 2019-05-23
+  approbation_service_etudes: 2019-08-13
+
+competences:
+  - code: 00Q2
+    titre: "Utiliser des langages de programmation"
+    elements:
+      - "1 - Analyser le problème"
+      - "2 - Traduire l'algorithme dans le langage de programmation"
+      - "3 - Déboguer le code"
+      - "4 - Appliquer le plan de tests fonctionnels"
+
+cible_formation: >-
+  À la fin du cours, l'élève sera capable de résoudre des problèmes simples
+  en traduisant des algorithmes dans un langage de programmation.
+
+notes_preliminaires: >-
+  Le cours 420-1D6-VI : Programmation 1 fait partie de la formation menant
+  au diplôme d'études collégiales (DEC) dans le programme 420.B0 :
+  Techniques de l'informatique.
+
+
+  Il est offert en 1re session.
+
+
+  La compétence 00Q2 : Utiliser des langages de programmation est vue
+  partiellement.
+
+
+  Son acquisition sera complétée dans le cours 420-3A3-VI : Nano-ordinateurs
+  à la 3e session.
+
+
+  Le langage de programmation ciblé pour ce cours est JavaScript et une
+  librairie typée (Ex: TypeScript). JavaScript sera réutilisé à la fin du
+  cours Design Web qui se déroule aussi à la première session. Le choix de
+  ce langage s'explique de par l'objectif de placer les élèves dès la
+  première année de l'ATE en intégration Web.
+
+epreuve_finale:
+  ponderation: "40 %"
+  performance_finale_exigee: >-
+    L'élève aura à résoudre des problèmes simples. L'élève devra trouver et
+    corriger des erreurs de code. L'élève devra programmer des solutions à
+    des problèmes informatiques.
+  contexte_realisation: >-
+    L'évaluation sera réalisée seul dans une salle de cours.
+
+
+    L'évaluation sera divisée en 2 parties de 2 heures et sera réalisée à la
+    semaine 15 s'il y a un seul groupe, et à la semaine 16 s'il y a deux
+    groupes. La première s'effectue sur papier avec un crayon et une efface
+    et aucun matériel.
+
+
+    La seconde partie pratique s'effectue à l'aide de l'ordinateur portable.
+    L'élève a le droit de consulter ses anciens projets et d'effectuer des
+    recherches Internet.
+  criteres_evaluation:
+    - Décomposition correcte du problème
+    - Détermination correcte des données d'entrée, des données de sortie et de la nature des traitements
+    - Choix et adaptation appropriés de l'algorithme
+    - Choix approprié des instructions et des types de données élémentaires
+    - Découpage efficace du code informatique
+    - Organisation logique des instructions
+    - Respect de la syntaxe du langage
+    - Code informatique conforme à l'algorithme
+    - Utilisation efficace du débogueur
+    - Repérage complet des erreurs
+    - Détermination judicieuse de stratégies de correction des erreurs
+    - Pertinence des correctifs
+    - Fonctionnement correct du programme
+
+demarche_pedagogique_suggeree: >-
+  Théorie, démonstrations, et auto-apprentissage, informations complétées à
+  l'aide de recherches individuelles sur Internet
+
+mediagraphie:
+  - "Les notes seront disponibles en ligne sur la plateforme du cours."
+
+materiel_requis: >-
+  Ordinateur portable; environnement de développement intégré (ex :
+  PHPStorm)
+
+elements_competence:
+  - code: 00Q2-1
+    titre: "Analyser le problème"
+    duree_heures: 20
+    habiletes:
+      - "Décomposer un problème"
+      - "Déterminer les données d'entrée et de sortie"
+      - "Choisir et adapter l'algorithme"
+    criteres_performance:
+      - "1 - Décomposition correcte du problème"
+      - "2 - Détermination correcte des données d'entrée, des données de sortie et de la nature des traitements"
+      - "3 - Choix et adaptation appropriés de l'algorithme"
+    contenu_essentiel: >-
+      Algorithmes; types de données; priorité des opérations; opérateurs
+      logiques
+  - code: 00Q2-2
+    titre: "Traduire l'algorithme dans le langage de programmation"
+    duree_heures: 45
+    habiletes:
+      - "Choisir les instructions et les types de données"
+      - "Découper le code informatique"
+      - "Organiser la logique des instructions"
+      - "Respecter la syntaxe"
+      - "Coder conformément à l'algorithme"
+    criteres_performance:
+      - "1 - Choix approprié des instructions et des types de données élémentaires"
+      - "2 - Découpage efficace du code informatique"
+      - "3 - Organisation logique des instructions"
+      - "4 - Respect de la syntaxe du langage"
+      - "5 - Code informatique conforme à l'algorithme"
+    contenu_essentiel: >-
+      Lecture / écriture; variables; si; boucles (for / while); tableaux;
+      procédures; paramètres; fonctions; valeurs de retour; programmation
+      orientée objet (caractéristiques (champ, propriété ou attribut selon
+      le langage), méthodes, instanciation)
+  - code: 00Q2-3
+    titre: "Déboguer le code"
+    duree_heures: 15
+    habiletes:
+      - "Utiliser le débogueur"
+      - "Repérer les erreurs"
+      - "Déterminer les stratégies de correction des erreurs"
+      - "Déterminer les correctifs"
+      - "Noter clairement les solutions aux problèmes"
+    criteres_performance:
+      - "1 - Utilisation efficace du débogueur"
+      - "2 - Repérage complet des erreurs"
+      - "3 - Détermination judicieuse de stratégies de correction des erreurs"
+      - "4 - Pertinence des correctifs"
+      - "5 - Notation claire des solutions aux problèmes rencontrés"
+    contenu_essentiel: >-
+      Débogueurs; suivre des traces
+  - code: 00Q2-4
+    titre: "Appliquer le plan de tests fonctionnels"
+    duree_heures: 10
+    habiletes:
+      - "Manifester de la rigueur"
+      - "Repérer les erreurs de fonctionnement"
+      - "Effectuer des correctifs"
+      - "Programmer correctement"
+      - "Noter clairement l'information relative aux tests et à leurs résultats"
+    criteres_performance:
+      - "1 - Manifestation d'attitudes et de comportements empreints de rigueur"
+      - "2 - Repérage complet des erreurs de fonctionnement"
+      - "3 - Pertinence des correctifs"
+      - "4 - Fonctionnement correct du programme"
+      - "5 - Notation claire de l'information relative aux tests et à leurs résultats"
+    contenu_essentiel: >-
+      Tests fonctionnels

@@ -1,0 +1,213 @@
+code: 420-4A4-VI
+titre: Services Web
+programme:
+  numero: "420"
+  nom: Techniques de l'informatique
+profil: "B0 : Profil par défaut"
+departement_responsable: Informatique
+redacteurs:
+  - Croteau, Carine
+  - Lagacé, Christiane
+prealables:
+  - cours: 420-2A4-VI
+    titre: Développement Web 1
+prealable_a:
+  - cours: 420-5A5-VI
+    titre: Développement Web 3
+note_prealables: >-
+  Ce cours pourrait également être préalable aux cours qui ont un préalable
+  spécial.
+duree_heures: 60
+ponderation: "2-2-2"
+unites: 2
+dates:
+  analyse_equipe_programme: 2020-10-07
+  adoption_departement: 2020-11-25
+  approbation_service_etudes: "Date à venir"
+
+competences:
+  - code: 00SV
+    titre: "Effectuer le développement de services d'échange de données"
+    elements:
+      - "1 - Analyser le projet de développement de l'application"
+      - "2 - Préparer l'environnement de développement informatique"
+      - "3 - Préparer la base de données"
+      - "4 - Programmer la logique applicative du service"
+      - "5 - Programmer une application de test utilisant le service"
+      - "6 - Contrôler la qualité du service"
+      - "7 - Participer au déploiement du service"
+      - "8 - Rédiger la documentation"
+
+cible_formation: >-
+  À la fin de ce cours, l'élève sera capable d'effectuer le développement
+  de services d'échange de données REST (REpresentational State Transfer)
+  et d'effectuer leur intégration dans un site Web, une application
+  (tierce) ou une automatisation.
+
+notes_preliminaires: >-
+  Le cours 420-4A4-VI : Services Web fait partie de la formation menant au
+  diplôme d'études collégiales (DEC) dans le programme 420.B0 : Techniques
+  de l'informatique.
+
+
+  Il est offert en 4e session.
+
+
+  Ce cours vise l'atteinte complète de la compétence 00SV : Effectuer le
+  développement de services d'échange de données.
+
+
+  Le choix du langage ou cadre d'application côté serveur, du langage ou
+  cadre d'application côté client et du SGBD à mettre au plan de cours
+  devront faire l'objet d'une discussion départementale au début de chaque
+  année scolaire.
+
+epreuve_finale:
+  ponderation: "50 %"
+  performance_finale_exigee: >-
+    L'épreuve finale sera un projet réalisé seul. L'élève produira un
+    service Web selon un devis et l'intégrera dans un site Web existant.
+  contexte_realisation: >-
+    Le développement du projet se déroulera dans les 3 à 5 dernières
+    semaines de la session en classe et hors classe. La remise sera faite
+    à la semaine 15.
+  criteres_evaluation:
+    - Programmation correcte du service Web
+    - Intégration correcte du service Web dans un site Web
+
+demarche_pedagogique_suggeree: >-
+  Courtes périodes d'enseignement théorique suivies d'application au fur et
+  à mesure à l'aide d'exercices formatifs. Des références de sites Web
+  seront fournies par le professeur. L'élève devra enrichir ces sources
+  d'information par ses propres recherches. Des activités seront proposées
+  pour favoriser la coopération entre les élèves, l'échange des
+  connaissances et la prise en charge de son apprentissage par l'élève.
+  Certaines évaluations formatives peuvent être auto-corrigées par l'élève
+  ou encore co-corrigées par un collègue de la classe. Bien que certains
+  travaux ne fassent pas l'objet d'évaluation sommative, les élèves doivent
+  absolument les compléter afin d'être prêts pour l'épreuve finale.
+
+mediagraphie:
+  - "La médiagraphie sera précisée dans le plan de cours."
+
+materiel_requis: >-
+  Ordinateur portable
+
+elements_competence:
+  - code: 00SV-1
+    titre: "Analyser le projet de développement de l'application"
+    duree_heures: 2
+    habiletes:
+      - "Connaître les types de service Web (ex : REST, SOAP)"
+      - "Choisir la technologie côté serveur"
+      - "Choisir la technologie côté client"
+    criteres_performance:
+      - "1 - Analyse juste des documents de conception"
+      - "2 - Détermination correcte des tâches à effectuer"
+    contenu_essentiel: >-
+      Avantages et inconvénients des services Web REST et SOAP; côté
+      serveur : avantages et inconvénients de développer un service Web
+      avec différentes technologies (ex : PHP vanille, Laravel ou
+      Node.js); côté client : intégration dans un site Web « régulier » vs
+      utilisation d'un cadre d'application; avantages et inconvénients des
+      principaux cadres d'application côté client (ex : Angular, Vue,
+      React, Flutter)
+  - code: 00SV-2
+    titre: "Préparer l'environnement de développement informatique"
+    duree_heures: 1
+    habiletes:
+      - "Installer les logiciels et les bibliothèques"
+      - "Configurer le système de gestion de versions"
+      - "Importer du code source"
+    criteres_performance:
+      - "1 - Installation correcte de la plateforme de développement et du système de gestion de base de données de développement"
+      - "2 - Installation correcte des logiciels et des bibliothèques"
+      - "3 - Configuration appropriée du système de gestion de versions"
+      - "4 - Importation correcte du code source"
+    contenu_essentiel: >-
+      Procédures d'installation
+  - code: 00SV-3
+    titre: "Préparer la base de données"
+    duree_heures: 4
+    habiletes:
+      - "Créer et adapter la base de données à partir d'un modèle de données"
+      - "Insérer les données initiales ou les données de tests"
+    criteres_performance:
+      - "1 - Création ou adaptation correctes de la base de données"
+      - "2 - Insertion correcte des données initiales ou des données de tests"
+      - "3 - Respect du modèle de données"
+    contenu_essentiel: >-
+      Création et manipulation de la base de données
+  - code: 00SV-4
+    titre: "Programmer la logique applicative du service"
+    duree_heures: 34
+    habiletes:
+      - "Programmer le service Web"
+    criteres_performance:
+      - "1 - Programmation ou intégration correctes de mécanismes d'authentification, d'autorisation ou d'établissement de liaison sécurisée"
+      - "2 - Programmation correcte de la réception des données d'entrée"
+      - "3 - Choix approprié des clauses, des opérateurs, des commandes ou des paramètres dans les requêtes à la base de données"
+      - "4 - Manipulation correcte des données de la base de données"
+      - "5 - Programmation correcte de l'envoi des données de sortie"
+      - "6 - Application rigoureuse des techniques de programmation sécurisée"
+      - "7 - Respect des protocoles de communication et des formats d'échange de données"
+    contenu_essentiel: >-
+      Verbes d'action GET, POST, PUT, DELETE; codes d'état HTTP (200=ok,
+      403=accès refusé, 500=erreur d'exécution, etc.); format des données
+      d'entrée et de sortie (ex : HTML, XML, JSON); particularités de la
+      technologie choisie (ex : routes, contrôleurs, mécanisme d'accès aux
+      données, mécanisme d'authentification, etc.)
+  - code: 00SV-5
+    titre: "Programmer une application de test utilisant le service"
+    duree_heures: 10
+    habiletes:
+      - "Comprendre la structure des requêtes et réponses HTTP"
+      - "Consommer un service HTTP dans un site Web"
+    criteres_performance:
+      - "1 - Récupération exacte de l'interface du service"
+      - "2 - Utilisation appropriée du service"
+      - "3 - Conversion appropriée des données fournies par le service en données exploitables par l'application de test"
+    contenu_essentiel: >-
+      Structure d'une requête HTTP (verbe HTTP, URI, headers, body);
+      structure d'une réponse HTTP (code d'état, headers, body);
+      bibliothèque AJAX pour consommer un service Web (ex : fetch-natif
+      dans JavaScript, jquery.ajax, axios); outils pour tester les
+      requêtes HTTP (ex : Postman); consommation d'un service Web dans une
+      page Web; analyse d'appels asynchrones dans le navigateur (ex :
+      onglet Network dans les outils de développement de Chrome)
+  - code: 00SV-6
+    titre: "Contrôler la qualité du service"
+    duree_heures: 4
+    habiletes:
+      - "Appliquer les plans de tests"
+      - "Effectuer le suivi des versions"
+    criteres_performance:
+      - "1 - Application rigoureuse des plans de tests"
+      - "2 - Revues de code et de sécurité rigoureuses"
+      - "3 - Pertinence des correctifs"
+      - "4 - Respect des procédures de suivi des problèmes et de gestion des versions"
+      - "5 - Respect des documents de conception"
+    contenu_essentiel: >-
+      Tests fonctionnels; suivi des versions
+  - code: 00SV-7
+    titre: "Participer au déploiement du service"
+    duree_heures: 4
+    habiletes:
+      - "Configurer le service Web chez l'hébergeur Web"
+      - "Migrer le service Web chez un hébergeur Web"
+    criteres_performance:
+      - "1 - Application correcte de la procédure de migration du service sur le serveur"
+      - "2 - Application rigoureuse des mesures de sécurité"
+    contenu_essentiel: >-
+      Caractéristiques requises chez l'hébergeur selon la technologie
+      utilisée; étapes pour effectuer le déploiement
+  - code: 00SV-8
+    titre: "Rédiger la documentation"
+    duree_heures: 1
+    habiletes:
+      - "Rédiger la documentation"
+    criteres_performance:
+      - "1 - Détermination correcte de l'information à rédiger"
+      - "2 - Notation claire du travail effectué"
+    contenu_essentiel: >-
+      Générateurs de documentation dans l'environnement choisi

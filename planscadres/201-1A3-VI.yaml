@@ -1,0 +1,215 @@
+code: 201-1A3-VI
+titre: Mathématiques de l'ordinateur
+programme:
+  numero: "420"
+  nom: Techniques de l'informatique
+profil: "B0 : Profil par défaut"
+departement_responsable: Mathématiques
+redacteurs:
+  - Bernard, Francis
+  - Deland, Jean-François
+  - Fortin, François
+prealables:
+  - cours: 420-1D6-VI
+    titre: Programmation 1
+    type: Corequis
+prealable_a:
+  - cours: 420-2C4-VI
+    titre: Réseautique
+  - cours: 420-3A3-VI
+    titre: Nano-ordinateurs
+note_prealables: >-
+  Ce cours pourrait également être préalable aux cours qui ont un préalable
+  spécial.
+duree_heures: 45
+ponderation: "1-2-2"
+unites: 1.67
+dates:
+  analyse_equipe_programme: 2019-05-16
+  adoption_departement: 2019-06-10
+  approbation_service_etudes: 2019-06-21
+
+competences:
+  - code: 00Q3
+    titre: "Résoudre des problèmes d'informatique avec les mathématiques"
+    elements:
+      - "1 - Traiter des nombres à représenter dans la mémoire d'un ordinateur"
+      - "3 - Modéliser des raisonnements logiques à plusieurs variables"
+
+cible_formation: >-
+  À la fin du cours, l'élève sera capable d'analyser des problèmes
+  contextuels d'informatique à partir de situations problèmes et de données
+  quantitatives ainsi que de les résoudre.
+
+
+  Note : la cible de formation a été reformulée pour permettre l'atteinte
+  des éléments de compétence 1 et 3.
+
+notes_preliminaires: >-
+  Le cours 201-1A3-VI : Mathématiques de l'ordinateur fait partie de la
+  formation menant au diplôme d'études collégiales (DEC) dans le programme
+  420.B0 : Techniques de l'informatique.
+
+
+  Il est offert en 1re session.
+
+
+  La compétence 00Q3 : Résoudre des problèmes d'informatique avec les
+  mathématiques est vue partiellement.
+
+
+  Son acquisition sera complétée dans le cours 201-4A4-VI : Géométrie et
+  statistiques à la 4e session.
+
+
+  Ce cours contribue à la formation du programmeur-analyste en développant
+  l'analyse, la logique et la démarche de résolution de problèmes.
+
+
+  L'élève devra atteindre les deux éléments de compétence suivants :
+
+  traiter des nombres à représenter dans la mémoire d'un ordinateur;
+  modéliser des raisonnements logiques à plusieurs variables.
+
+
+  Ce cours est l'un des deux cours permettant d'atteindre la compétence de
+  résolution des problèmes informatiques avec les mathématiques à partir de
+  situations problèmes et de données quantitatives (00Q3). L'atteinte de la
+  compétence sera complétée par le cours Géométrie et statistique (éléments
+  2 et 4). Les éléments de compétence 1 et 3 que l'élève développera dans le
+  présent cours seront réinvestis plus tard dans sa formation pour lui
+  permettre notamment d'effectuer le déploiement d'un réseau informatique
+  local (compétence 00Q5).
+
+
+  Par la nature des problèmes proposés (notamment ceux portant sur la
+  logique) et par les habiletés intellectuelles visées (analyse et
+  résolution de problèmes), ce cours contribue à préparer l'élève à
+  l'épreuve synthèse de programme (ÉSP).
+
+
+  Finalement, le cours contribue à la poursuite de la mission éducative du
+  Cégep de Victoriaville, dans la mesure où il vise à développer chez
+  l'élève la créativité, par la recherche de solutions personnelles;
+  l'autonomie, par l'acquisition ou le perfectionnement d'une méthode de
+  travail efficace pour aborder avec confiance les problèmes qui se
+  présentent; la capacité d'analyse et de synthèse, par la nature même des
+  problèmes proposés.
+
+epreuve_finale:
+  ponderation: "40 %"
+  performance_finale_exigee: >-
+    L'épreuve finale prendra la forme d'un examen synthèse. Dans cette
+    épreuve, l'élève aura, à partir de données quantitatives, à analyser et
+    résoudre différents problèmes contextuels d'informatique en traitant
+    les nombres à représenter dans la mémoire d'un ordinateur et en
+    modélisant les raisonnements logiques à plusieurs variables.
+  contexte_realisation: >-
+    L'examen sera d'une durée de trois heures, fait en classe, de façon
+    individuelle, dans la semaine des examens.
+
+
+    Pour les examens sommatifs, seule la calculatrice scientifique sans
+    affichage graphique et non programmable sera permise.
+  criteres_evaluation:
+    - Représentation correcte de nombres dans différentes bases
+    - Conversion correcte de nombres d'une base à une autre
+    - Interprétation juste des limites des types de représentation des nombres
+    - Interprétation juste de la précision des types de représentation des nombres
+    - Choix approprié du type de représentation des nombres
+    - Formulation correcte des fonctions logiques
+    - Simplification efficace des fonctions logiques
+    - Utilisation appropriée de l'algèbre de Boole
+    - Production exacte de tables de vérité
+    - Vérification appropriée des fonctions logiques
+  precisions_ponderation: >-
+    Vu la composition de l'épreuve finale, l'article Pondération alternative
+    de l'épreuve finale de la PDEA ne s'applique pas pour ce cours.
+
+demarche_pedagogique_suggeree: >-
+  Pour la plupart des éléments de compétence, le professeur présentera un
+  problème qui nécessite le développement de nouveaux concepts pour le
+  résoudre. En autant que faire se peut, ces situations proviennent du
+  domaine de l'informatique, mais ne s'y limitent pas. On étudie ensuite le
+  concept mathématique comme tel, après quoi on revient au problème posé
+  pour le résoudre. C'est donc le processus de contextualisation,
+  décontextualisation et recontextualisation qui sera appliqué.
+
+
+  On suggère l'utilisation d'un chiffrier électronique ainsi que des
+  langages de programmation, afin de faciliter l'acquisition de certains
+  concepts et de centrer l'élève sur la démarche d'analyse plutôt que sur
+  les calculs.
+
+
+  De plus, différentes activités d'apprentissage peuvent être proposées à
+  l'élève :
+
+  lecture préparatoire par l'élève de sections choisies du volume suivie
+  d'une discussion ou d'exercices de compréhension portant sur les notions
+  vues; exposé interactif comprenant des démonstrations et des
+  exemples-exercices; séances de résolution de problèmes; laboratoires au
+  moyen d'un chiffrier électronique; recours aux langages de programmation;
+  approche par problèmes (APP); démonstrations; etc.
+
+
+  Certaines notions, bien qu'elles ne soient pas mentionnées explicitement
+  dans les éléments de compétence ou les critères de performance, sont
+  nécessaires à l'acquisition des contenus. Voici une liste non exhaustive
+  de ces notions : divisibilité; arithmétique modulaire; sommation;
+  principes de dénombrement.
+
+mediagraphie:
+  - "CONTANT, Christian, Mathématiques pour l'informatique, Montréal, Chenelière/McGraw-Hill, 2002, 394 p."
+  - "ROSS, André. Modèles mathématiques – Techniques de l'informatique, 2e édition, Lévis, Prodafor, 2018, 338 p."
+  - "ÉQUIPE MATHÉCRIT, Ateliers 101 Complément de mathématique, Montréal, Mathécrit inc., 1979."
+  - "ROSEN, Kenneth H., Mathématiques discrètes, Montréal, Chenelière/McGraw-Hill, 1998, 781 p."
+  - "MAKI, Daniel P. et Maynard THOMPSON, Mathématiques appliquées, Montréal, McGraw-Hill, 1986, 555 p."
+
+elements_competence:
+  - code: 00Q3-1
+    titre: "Traiter des nombres à représenter dans la mémoire d'un ordinateur"
+    duree_heures: 24
+    habiletes:
+      - Représenter des nombres dans différentes bases
+      - Exécuter des opérations arithmétiques dans différentes bases
+      - Convertir des nombres d'une base à une autre
+      - Évaluer et interpréter les limites des types de représentation des nombres en fonction de la représentation choisie
+      - Interpréter la précision des types de représentation des nombres
+      - Choisir le type de représentation des nombres
+    criteres_performance:
+      - "1 - Représentation correcte de nombres dans différentes bases"
+      - "2 - Conversion correcte de nombres d'une base à une autre"
+      - "3 - Interprétation juste des limites des types de représentation des nombres"
+      - "4 - Interprétation juste de la précision des types de représentation des nombres"
+      - "5 - Choix approprié du type de représentation des nombres"
+    contenu_essentiel: >-
+      Ensembles de nombres, lois des exposants, système de numération
+      binaire, octal et hexadécimal, opérations arithmétiques dans
+      différentes bases, représentation des entiers, représentation en
+      complément à 2, représentation des nombres réels en mode virgule
+      flottante, opérations en mode virgule flottante, représentation
+      normalisée des nombres, norme IEEE 754, limites des représentations
+      des nombres, limites de précision
+  - code: 00Q3-3
+    titre: "Modéliser des raisonnements logiques à plusieurs variables"
+    duree_heures: 21
+    habiletes:
+      - Formuler différentes situations sous forme de fonctions logiques
+      - Simplifier des fonctions logiques
+      - Utiliser l'algèbre de Boole pour transformer un énoncé en fonction logique
+      - Produire les tables de vérité de propositions
+      - Vérifier les fonctions logiques
+    criteres_performance:
+      - "1 - Formulation correcte des fonctions logiques"
+      - "2 - Simplification efficace des fonctions logiques"
+      - "3 - Utilisation appropriée de l'algèbre de Boole"
+      - "4 - Production exacte de tables de vérité"
+      - "5 - Vérification appropriée des fonctions logiques"
+    contenu_essentiel: >-
+      Proposition, valeur de vérité, opérateurs logiques, algèbre des
+      propositions, tautologies, contradictions, équivalences, tables de
+      vérité, simplifications d'énoncés booléens, fonction logique, algèbre
+      des circuits, circuits logiques (portes logiques, opérations
+      élémentaires, circuits additionneur et comparateur, fonctions
+      logiques bit à bit)

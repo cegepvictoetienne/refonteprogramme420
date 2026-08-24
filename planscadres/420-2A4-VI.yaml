@@ -1,0 +1,291 @@
+code: 420-2A4-VI
+titre: Développement Web 1
+programme:
+  numero: "420"
+  nom: Techniques de l'informatique
+profil: "B0 : Profil par défaut"
+departement_responsable: Informatique
+redacteurs:
+  - Croteau, Carine
+  - Lagacé, Christiane
+prealables:
+  - cours: 420-1D6-VI
+    titre: Programmation 1
+  - cours: 420-1E6-VI
+    titre: Design Web
+prealable_a:
+  - cours: 420-2B4-VI
+    titre: Bases de données 1
+  - cours: 420-3A5-VI
+    titre: Développement Web 2
+  - cours: 420-3C4-VI
+    titre: Piratage éthique
+  - cours: 420-4A4-VI
+    titre: Services Web
+note_prealables: >-
+  Ce cours pourrait également être préalable aux cours qui ont un préalable
+  spécial.
+duree_heures: 60
+ponderation: "2-2-2"
+unites: 2
+dates:
+  analyse_equipe_programme: 2019-10-09
+  adoption_departement: 2019-10-02
+  approbation_service_etudes: 2026-01-15
+
+competences:
+  - code: 00ST
+    titre: "Effectuer le développement d'applications Web non transactionnelles"
+    elements:
+      - "3 - Préparer la base de données"
+      - "5 - Programmer la logique applicative du côté serveur"
+  - code: 00SU
+    titre: "Effectuer le développement d'applications Web transactionnelles"
+    elements:
+      - "1 - Analyser le projet de développement de l'application"
+      - "2 - Préparer l'environnement de développement informatique"
+      - "3 - Préparer la base de données"
+      - "4 - Programmer l'interface Web"
+      - "5 - Programmer la logique applicative du côté serveur"
+      - "6 - Programmer la logique applicative du côté client"
+      - "7 - Contrôler la qualité de l'application"
+      - "8 - Participer au déploiement de l'application chez un hébergeur Web"
+      - "9 - Rédiger la documentation"
+
+cible_formation: >-
+  À la fin de ce cours, l'élève sera capable d'effectuer le développement
+  d'applications Web transactionnelles.
+
+notes_preliminaires: >-
+  Le cours 420-2A4-VI : Développement Web 1 fait partie de la formation
+  menant au diplôme d'études collégiales (DEC) dans le programme 420.B0 :
+  Techniques de l'informatique.
+
+
+  Il est offert en 2e session.
+
+
+  Plusieurs compétences sont touchées par ce cours.
+
+
+  L'atteinte de la compétence 00ST : Effectuer le développement
+  d'applications Web non transactionnelles est complétée dans ce cours.
+
+
+  Son acquisition a débuté dans le cours 420-1E6-VI : Design Web à la 1re
+  session.
+
+
+  La compétence 00SU : Effectuer le développement d'applications Web
+  transactionnelles est vue partiellement.
+
+
+  Son atteinte sera complétée dans les cours suivants : 420-3A5-VI :
+  Développement Web 2 à la 3e session (profil B0 : Profil par défaut);
+  420-5A5-VI : Développement Web 3 à la 5e session (profil B0 : Profil par
+  défaut).
+
+epreuve_finale:
+  ponderation: "40 %"
+  performance_finale_exigee: >-
+    L'épreuve finale sera un travail long réalisé seul. L'étudiant
+    produira un site Web transactionnel répondant à des critères précis.
+    Le développement du travail se déroulera sur toute la session.
+  contexte_realisation: >-
+    À partir de situations variées représentatives du milieu du travail.
+    Individuellement, à travailler en classe et hors classe, à remettre à
+    la semaine 15. À partir des exigences de la situation concrète.
+  criteres_evaluation:
+    - Qualité de la langue
+    - Qualité de la logique de programmation
+    - Application rigoureuse des techniques de programmation sécurisée
+    - Utilisation correcte de la base de données
+    - Utilisation appropriée du langage de balisage et des feuilles de style
+    - Programmation appropriée des formulaires Web
+    - Tests fonctionnels exacts et en quantité suffisante
+    - Mise en ligne adéquate
+    - Documentation complète
+
+demarche_pedagogique_suggeree: >-
+  Courtes périodes d'enseignement théorique suivies d'application au fur et
+  à mesure à l'aide d'exercices formatifs. Des références de sites Web
+  seront fournies par le professeur. L'élève devra enrichir ces sources
+  d'information par ses propres recherches. Des activités seront proposées
+  pour favoriser la coopération entre les élèves, l'échange des
+  connaissances et la prise en charge de son apprentissage par l'élève.
+  Certaines évaluations formatives peuvent être auto-corrigées par l'élève
+  ou encore co-corrigées par un confrère de classe. Bien que certains
+  travaux ne fassent pas l'objet d'évaluation sommative, les élèves doivent
+  absolument les compléter afin d'être prêts pour l'épreuve finale.
+
+mediagraphie:
+  - "Documentation officielle PHP : https://www.php.net/"
+  - "Documentation officielle MySQL : https://dev.mysql.com/"
+
+materiel_requis: >-
+  Ordinateur portable; nom de domaine; hébergeur
+
+elements_competence:
+  - code: 00ST-3
+    titre: "Préparer la base de données"
+    duree_heures: 0
+    note: "(combiné avec l'élément 3 de la 00SU)"
+    criteres_performance:
+      - "1 - Création ou adaptation correctes de la base de données"
+      - "2 - Insertion correcte des données initiales ou des données de tests"
+      - "3 - Respect du modèle de données"
+  - code: 00ST-5
+    titre: "Programmer la logique applicative du côté serveur"
+    duree_heures: 0
+    note: "(combiné avec l'élément 5 de la 00SU)"
+    criteres_performance:
+      - "1 - Choix approprié des clauses, des opérateurs, des commandes ou des paramètres dans les requêtes à la base de données"
+      - "2 - Manipulation correcte des données de la base de données"
+      - "3 - Programmation correcte de la transformation des données en information"
+      - "4 - Application correcte des techniques d'internationalisation"
+      - "5 - Application rigoureuse des techniques de programmation sécurisée"
+  - code: 00SU-1
+    titre: "Analyser le projet de développement de l'application"
+    duree_heures: 1
+    habiletes:
+      - "Reconnaître les grandes familles de compétences nécessaires pour produire un site Web (analyse, graphisme, intégration, programmation, …)"
+      - "Comprendre la nécessité de produire des analyses préliminaire et fonctionnelle"
+    criteres_performance:
+      - "1 - Analyse juste des documents de conception"
+      - "2 - Détermination correcte des tâches à effectuer"
+    contenu_essentiel: >-
+      Notions générales sur la production de sites Web; différents
+      environnements de développement (Linux vs Windows, WAMP, MAMP, LAMP)
+  - code: 00SU-2
+    titre: "Préparer l'environnement de développement informatique"
+    duree_heures: 1
+    habiletes:
+      - "Installer la plateforme de développement Web et le système de gestion de base de données de développement"
+      - "Installer les logiciels et les bibliothèques"
+      - "Configurer le système de gestion de versions"
+      - "Importer du code source"
+    criteres_performance:
+      - "1 - Installation correcte de la plateforme de développement Web et du système de gestion de base de données de développement"
+      - "2 - Installation correcte des logiciels et des bibliothèques"
+      - "3 - Configuration appropriée du système de gestion de versions"
+      - "4 - Importation correcte du code source"
+    contenu_essentiel: >-
+      Installation, configuration et utilisation de différents outils de
+      développement (serveurs de développement, gestionnaire de versions)
+  - code: 00SU-3
+    titre: "Préparer la base de données"
+    duree_heures: 4
+    habiletes:
+      - "Créer et adapter la base de données à partir d'un modèle de données"
+      - "Insérer les données initiales ou les données de tests"
+    criteres_performance:
+      - "1 - Création ou adaptation correctes de la base de données"
+      - "2 - Insertion correcte des données initiales ou des données de tests"
+      - "3 - Respect du modèle de données"
+    contenu_essentiel: >-
+      MySQL; données initiales vs données de tests : différences
+  - code: 00SU-4
+    titre: "Programmer l'interface Web"
+    duree_heures: 10
+    habiletes:
+      - "Utiliser le langage de balisage"
+      - "Créer et utiliser des feuilles de styles"
+      - "Intégrer des images"
+      - "Créer des formulaires Web"
+      - "Adapter l'interface en fonction du format d'affichage et de la résolution"
+    criteres_performance:
+      - "1 - Utilisation appropriée du langage de balisage"
+      - "2 - Création et utilisation appropriées des feuilles de styles"
+      - "3 - Intégration correcte des images"
+      - "4 - Création appropriée des formulaires Web"
+      - "5 - Adaptation de l'interface en fonction du format d'affichage et de la résolution"
+    contenu_essentiel: >-
+      Révision HTML, CSS, formulaires Web, design adaptatif
+  - code: 00SU-5
+    titre: "Programmer la logique applicative du côté serveur"
+    duree_heures: 24
+    habiletes:
+      - "Programmer les interactions entre l'interface Web et l'utilisatrice ou l'utilisateur"
+      - "Manipuler les données de la base de données (SELECT et INSERT seulement)"
+      - "Appliquer des techniques de programmation sécurisée"
+    criteres_performance:
+      - "1 - Programmation correcte des interactions entre l'interface Web et l'utilisatrice ou l'utilisateur"
+      - "2 - Choix approprié des clauses, des opérateurs, des commandes ou des paramètres dans les requêtes à la base de données"
+      - "3 - Manipulation correcte des données de la base de données"
+      - "4 - Programmation correcte de la transformation des données en information"
+      - "5 - Application rigoureuse des techniques de programmation sécurisée"
+    contenu_essentiel: >-
+      Comprendre les interactions entre client et serveur; PHP : syntaxe,
+      fonctions, etc.; un monde sans état (utilisation de cookies, GET,
+      POST, sessions); interactions avec la base de données (ex : mysqli ou
+      PDO); sécurité HTTPS; importance de la validation côté serveur;
+      injections SQL (requêtes paramétrées); attaques XSS
+      (htmlspecialchars()); empêcher PHP d'afficher des erreurs en mode
+      production; fichiers de journalisation (.log); etc.
+  - code: 00SU-6
+    titre: "Programmer la logique applicative du côté client"
+    duree_heures: 4
+    habiletes:
+      - "Manipuler des objets du modèle DOM"
+      - "Programmer des interactions entre l'interface Web et l'utilisatrice ou l'utilisateur"
+      - "Utiliser des techniques de validation de données des formulaires Web"
+      - "Assurer l'utilisabilité des formulaires Web"
+    criteres_performance:
+      - "1 - Manipulation adéquate des objets du modèle DOM"
+      - "2 - Programmation correcte des interactions entre l'interface Web et l'utilisatrice ou l'utilisateur"
+      - "3 - Utilisation systématique des techniques de validation de données des formulaires Web"
+      - "4 - Formulaires Web conformes aux exigences d'utilisabilité"
+    contenu_essentiel: >-
+      Révision des manipulations du DOM; révision des mécanismes de
+      validation de formulaires; ergonomie, accessibilité et utilisabilité
+      Web
+  - code: 00SU-7
+    titre: "Contrôler la qualité de l'application"
+    duree_heures: 10
+    habiletes:
+      - "Appliquer les plans de tests"
+      - "Effectuer des revues de code et de sécurité"
+      - "Effectuer le suivi des problèmes"
+      - "Effectuer le suivi des versions"
+    criteres_performance:
+      - "1 - Application rigoureuse des plans de tests"
+      - "2 - Revues de code et de sécurité rigoureuses"
+      - "3 - Pertinence des correctifs"
+      - "4 - Respect des procédures de suivi des problèmes et de gestion des versions"
+      - "5 - Respect des documents de conception"
+    contenu_essentiel: >-
+      Théorie sur les types de tests (fonctionnels, unitaires, performance,
+      sécurité, etc.); techniques pour effectuer et documenter les tests
+      (ex : feuille Excel, site spécialisé, etc. — on ne fait pas de tests
+      unitaires ici); soumission de versions dans Git
+  - code: 00SU-8
+    titre: "Participer au déploiement de l'application chez un hébergeur Web"
+    duree_heures: 4
+    habiletes:
+      - "Choisir un nom de domaine"
+      - "Configurer l'application chez l'hébergeur Web"
+      - "Migrer l'application chez l'hébergeur Web"
+      - "Appliquer des mesures de sécurité"
+      - "Respecter les exigences de référencement"
+    criteres_performance:
+      - "1 - Détermination judicieuse du nom de domaine"
+      - "2 - Configuration appropriée de l'application chez l'hébergeur Web"
+      - "3 - Application correcte de la procédure de migration de l'application chez l'hébergeur Web"
+      - "4 - Application rigoureuse des mesures de sécurité"
+      - "5 - Respect des exigences de référencement"
+    contenu_essentiel: >-
+      Notion de sous-domaine (ex : developpement.mondomaine.com); versions
+      de bibliothèques chez l'hébergeur (ex : PHP 5.6 vs 7.X); déploiement
+      d'une base de données chez l'hébergeur; ajustement d'une base de
+      données en production (ex : changer la structure d'une table
+      existante); référencement organique et payant
+  - code: 00SU-9
+    titre: "Rédiger la documentation"
+    duree_heures: 2
+    habiletes:
+      - "Rédiger la documentation"
+    criteres_performance:
+      - "1 - Détermination correcte de l'information à rédiger"
+      - "2 - Notation claire du travail effectué"
+    contenu_essentiel: >-
+      phpDocumentor; manuel de l'utilisateur; guide des opérations

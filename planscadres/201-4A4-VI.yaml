@@ -1,0 +1,163 @@
+code: 201-4A4-VI
+titre: Géométrie et statistiques
+programme:
+  numero: "420"
+  nom: Techniques de l'informatique
+profil: "B0 : Profil par défaut"
+departement_responsable: Mathématiques
+redacteurs:
+  - Boily, Vanessa
+prealables: []
+note_prealables_absence: "Ce cours n'a aucun préalable."
+prealable_a: []
+note_prealable_a_absence: "Ce cours n'est préalable à aucun autre cours."
+note_prealables: >-
+  Ce cours pourrait être préalable aux cours qui ont un préalable spécial.
+duree_heures: 60
+ponderation: "2-2-2"
+unites: 2
+dates:
+  analyse_equipe_programme: 2025-12-15
+  adoption_departement: 2024-11-28
+  approbation_service_etudes: 2025-09-12
+
+competences:
+  - code: 00Q3
+    titre: "Résoudre des problèmes d'informatique avec les mathématiques"
+    elements:
+      - "2 - Représenter des figures géométriques en deux dimensions sous la forme d'images numériques"
+      - "4 - Traiter des données quantitatives par les statistiques descriptives"
+
+cible_formation: >-
+  À la fin du cours, l'élève sera capable d'une part, de représenter sous
+  différentes formes et de manipuler des figures géométriques en deux
+  dimensions sous la forme d'images numériques, et d'autre part, de faire
+  des analyses statistiques sur les variables d'une population issues de
+  situations concrètes en utilisant des outils statistiques et
+  informatiques.
+
+
+  N.B. : La cible de formation a été reformulée pour permettre l'atteinte
+  des éléments de compétence 2 et 4.
+
+notes_preliminaires: >-
+  Le cours 201-4A4-VI : Géométrie et statistiques fait partie de la
+  formation menant au diplôme d'études collégiales (DEC) dans le programme
+  420.B0 : Techniques de l'informatique.
+
+
+  Il est offert en 4e session.
+
+
+  L'atteinte de la compétence 00Q3 : Résoudre des problèmes d'informatique
+  avec les mathématiques est complétée dans ce cours.
+
+
+  Son acquisition a débuté dans le cours 201-1A3-VI : Mathématiques de
+  l'ordinateur à la 1re session.
+
+
+  Par la nature des problèmes proposés (notamment ceux portant sur la
+  logique) et par les habiletés intellectuelles visées (abstraction,
+  analyse et résolution de problèmes), ce cours contribue à vous préparer à
+  votre épreuve synthèse de programme (ESP).
+
+
+  Il vise aussi à développer : la créativité, par la recherche de solutions
+  personnelles; l'autonomie, par l'acquisition ou par le perfectionnement
+  d'une méthode de travail efficace pour aborder avec confiance les
+  problèmes qui se présentent; la capacité d'abstraction, d'analyse et de
+  synthèse, par la nature même des problèmes proposés, le cours contribue à
+  la poursuite de la mission éducative du Cégep de Victoriaville.
+
+epreuve_finale:
+  ponderation: "40 %"
+  performance_finale_exigee: >-
+    L'évaluation finale est un examen écrit. Elle permettra de vérifier si
+    l'élève a atteint l'élément 2 de la compétence.
+  contexte_realisation: >-
+    Durée : 3 heures. Individuellement. En classe. Pendant la semaine
+    d'examens.
+
+
+    Outils permis : formules fournies par le professeur; calculatrice sans
+    affichage graphique et non programmable.
+  criteres_evaluation:
+    - Détermination correcte de la taille, de la dimension et de la résolution de l'image
+    - Représentation correcte de points et de droites
+    - Application correcte des équations de translation, de rotation et d'homothétie
+  precisions_ponderation: >-
+    Vu la composition de l'épreuve finale, l'article Pondération alternative
+    de l'épreuve finale de la PDEA ne s'applique pas pour ce cours.
+
+demarche_pedagogique_suggeree: >-
+  Pour la plupart des éléments de compétence, le professeur ou la
+  professeure présentera un problème qui nécessite le développement de
+  nouveaux concepts pour le résoudre. En autant que faire se peut, ces
+  situations proviennent du domaine de l'informatique, mais ne s'y limitent
+  pas. On étudie ensuite le concept mathématique comme tel, après quoi on
+  revient au problème posé pour le résoudre. C'est donc le processus de
+  contextualisation, décontextualisation et recontextualisation qui sera
+  appliqué.
+
+
+  De plus, différentes activités d'apprentissage peuvent être proposées aux
+  élèves : laboratoires informatiques; exposés interactifs comprenant des
+  démonstrations, des exemples et des exercices; séances de résolution de
+  problèmes; etc.
+
+
+  Enfin, il est suggéré d'arrimer les notions statistiques du cours, vues
+  dans l'élément de compétence 4, aux traitements de Big Data répondant aux
+  besoins émergents dans notre société. En ce sens, les notions statistiques
+  sauront être réinvesties dans des activités pédagogiques portant sur le
+  traitement des Données Massives issues, autant que faire se peut, de
+  besoins réels de notre communauté. L'arrimage souhaité des activités
+  pédagogiques des cours Big Data et Géométrie et Statistique saura mettre
+  en valeur la couleur geek propre à la formation du programme.
+
+mediagraphie:
+  - "Constant, Christian. Mathématiques pour l'informatique, Montréal, Les éditions de la Chenelière inc., 2003, 394 p."
+  - "Ross, André. Modèles mathématiques, Techniques de l'informatiques, 2e édition, Lévis, Profador, 2018, 338 p."
+
+materiel_requis: >-
+  Une calculatrice scientifique sans affichage graphique et non programmable.
+
+elements_competence:
+  - code: 00Q3-2
+    titre: "Représenter des figures géométriques en deux dimensions sous la forme d'images numériques"
+    duree_heures: 36
+    habiletes:
+      - "1 - Déterminer la taille, la dimension et la résolution de l'image."
+      - "2 - Représenter des points et des droites."
+      - "3 - Appliquer des équations de translation, de rotation et d'homothétie."
+      - "4 - Faire concorder des figures géométriques avec leur représentation dans l'image."
+    criteres_performance:
+      - "1 - Détermination correcte de la taille, de la dimension et de la résolution de l'image"
+      - "2 - Représentation correcte de points et de droites"
+      - "3 - Application correcte des équations de translation, de rotation et d'homothétie"
+      - "4 - Concordance des figures géométriques avec leur représentation dans l'image"
+    contenu_essentiel: >-
+      Projections (orthogonale, axonométrique, points de fuite, etc.);
+      transformations géométriques (déplacements, isométries, similitudes,
+      transformations affines, transformations homographiques); langage
+      vectoriel; opérations vectorielles; langage matriciel; opérations
+      matricielles (addition, soustraction, multiplication, transposition)
+  - code: 00Q3-4
+    titre: "Traiter des données quantitatives par les statistiques descriptives"
+    duree_heures: 24
+    habiletes:
+      - "1 - Utiliser le vocabulaire propre à la statistique"
+      - "2 - Définir une variable, son type et son échelle de mesure"
+      - "3 - Représenter une distribution de fréquences sous forme de tableau et de représentation graphique"
+      - "4 - Choisir et calculer des mesures de tendance centrale, de dispersion et de position"
+      - "5 - Interpréter les mesures descriptives et les données d'un tableau et d'un graphique"
+    criteres_performance:
+      - "1 - Calcul exact de la moyenne, de la médiane, de la variance et de l'écart type"
+      - "2 - Clarté et exactitude des représentations graphiques des données"
+      - "3 - Analyse juste des résultats"
+    contenu_essentiel: >-
+      Vocabulaire de base; types de variables; échelles de mesure; tableaux
+      de fréquence, graphiques et leurs normes de présentation; calcul des
+      mesures de tendance centrale, de dispersion et de position;
+      interprétation des résultats

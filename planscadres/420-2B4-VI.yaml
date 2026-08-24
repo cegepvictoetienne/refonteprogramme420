@@ -1,0 +1,184 @@
+code: 420-2B4-VI
+titre: Bases de données 1
+programme:
+  numero: "420"
+  nom: Techniques de l'informatique
+profil: "B0 : Profil par défaut"
+departement_responsable: Informatique
+redacteurs:
+  - Lagacé, Christiane
+  - Taleb, Frédérik
+prealables:
+  - cours: 420-1D6-VI
+    titre: Programmation 1
+  - cours: 420-2A4-VI
+    titre: Développement Web 1
+    type: Corequis
+prealable_a:
+  - cours: 420-3B4-VI
+    titre: Bases de données 2
+  - cours: 420-3C4-VI
+    titre: Piratage éthique
+note_prealables: >-
+  Ce cours pourrait également être préalable aux cours qui ont un préalable
+  spécial.
+duree_heures: 60
+ponderation: "2-2-2"
+unites: 2
+dates:
+  analyse_equipe_programme: 2019-10-09
+  adoption_departement: 2019-10-02
+  approbation_service_etudes: 2026-01-15
+
+competences:
+  - code: 00Q7
+    titre: "Exploiter un système de gestion de base de données"
+    elements:
+      - "1 - Créer la base de données"
+      - "2 - Formuler des requêtes de lecture, d'insertion, de modification et de suppression de données"
+      - "3 - Assurer la confidentialité et la cohérence des données"
+      - "4 - Programmer des traitements de données automatisés"
+      - "5 - Sauvegarder et restaurer la base de données"
+
+cible_formation: >-
+  À la fin du cours, l'élève sera capable d'exploiter un système de gestion
+  de bases de données.
+
+notes_preliminaires: >-
+  Le cours 420-2B4-VI : Bases de données 1 fait partie de la formation
+  menant au diplôme d'études collégiales (DEC) dans le programme 420.B0 :
+  Techniques de l'informatique.
+
+
+  Il est offert en 2e session.
+
+
+  La compétence 00Q7 : Exploiter un système de gestion de base de données
+  est vue partiellement.
+
+
+  Son atteinte sera complétée dans les cours suivants : 420-3B4-VI : Bases
+  de données 2 à la 3e session (profil B0 : Profil par défaut); 420-4C4-VI
+  : Mégadonnées à la 4e session (profil B0 : Profil par défaut).
+
+
+  Le système de gestion de base de données ciblé pour ce cours est MySQL
+  car il sera réutilisé par plusieurs cours. Les étudiants utiliseront un
+  environnement de développement pour écrire leurs scripts et un système de
+  gestion de base de données pour implanter et tester leurs solutions.
+
+epreuve_finale:
+  ponderation: "50 %"
+  performance_finale_exigee: >-
+    À partir d'une mise en situation et du modèle fourni, l'élève aura à
+    produire : le script de création des déclencheurs; le script de
+    création des procédures stockées; les requêtes de vérification et
+    implanter sa solution dans un système de gestion de base de données.
+  contexte_realisation: >-
+    L'épreuve finale sera un examen individuel d'une durée de 2 heures en
+    classe à la semaine 15. L'étudiant utilisera un logiciel de gestion de
+    bases de données (ex.: MySQL Workbench) et un système de gestion de
+    bases de données pour produire ses scripts et implanter sa solution.
+    Les notes de cours fournies par l'enseignant.e seront permises.
+  criteres_evaluation:
+    - Analyse juste des spécifications du système de gestion de base de données
+    - Utilisation appropriée des contraintes d'intégrité référentielle, des déclencheurs
+    - Détermination judicieuse des types de requêtes à formuler
+    - Utilisation appropriée des clauses, des opérateurs, des commandes ou des paramètres
+    - Fonctionnement correct des requêtes
+    - Création appropriée de procédures stockées ou de scripts
+    - Notation claire de la documentation d'aide à la programmation
+
+demarche_pedagogique_suggeree: >-
+  Théorie, démonstrations, et auto-apprentissage, informations complétées à
+  l'aide de recherches individuelles sur Internet
+
+mediagraphie:
+  - "Les notes de cours seront disponibles en ligne sur la plateforme du cours."
+  - "Documentation MySQL : https://dev.mysql.com/doc"
+
+materiel_requis: >-
+  Ordinateur portable.
+
+elements_competence:
+  - code: 00Q7-1
+    titre: "Créer la base de données"
+    duree_heures: 8
+    habiletes:
+      - "Formuler les instructions de création de la base de données"
+    criteres_performance:
+      - "3 - Formulation appropriée des instructions de création de la base de données"
+    contenu_essentiel: >-
+      Symboles et notations standard des diagrammes entité-relation; clause
+      de création de la base de données (CREATE DATABASE); clause de
+      création des tables (CREATE TABLE); types de donnée des champs;
+      contrainte de clé primaire; champ avec incrémentation automatique
+      (AUTO INCREMENT)
+  - code: 00Q7-2
+    titre: "Formuler des requêtes de lecture, d'insertion, de modification et de suppression de données"
+    duree_heures: 16
+    habiletes:
+      - "Déterminer les types de requêtes à formuler"
+      - "Utiliser les clauses, les opérateurs, les commandes ou les paramètres"
+      - "Utiliser les expressions régulières"
+    criteres_performance:
+      - "1 - Détermination judicieuse des types de requêtes à formuler"
+      - "2 - Utilisation appropriée des clauses, des opérateurs, des commandes ou des paramètres"
+      - "3 - Utilisation appropriée des expressions régulières"
+      - "4 - Fonctionnement correct des requêtes"
+    contenu_essentiel: >-
+      Requêtes de sélection, d'insertion, de mise à jour et de destruction
+      des données (SELECT, INSERT, UPDATE, DELETE); clause de filtrage
+      (WHERE); opérateurs logiques (AND, OR, NOT); opérateurs arithmétiques;
+      opérateurs de filtrage (BETWEEN, IN); opérateur de comparaison avec un
+      modèle ou expression régulière (LIKE, REGEXP); fonctions statistiques
+      (MIN, MAX, AVG, COUNT, SUM); clause d'agrégation (GROUP BY); opérateur
+      de filtrage pour agrégat (HAVING)
+  - code: 00Q7-3
+    titre: "Assurer la confidentialité et la cohérence des données"
+    duree_heures: 12
+    habiletes:
+      - "Déterminer les techniques à utiliser"
+      - "Gérer les autorisations"
+      - "Crypter les données"
+      - "Utiliser les contraintes d'intégrité référentielle, les déclencheurs et les transactions"
+    criteres_performance:
+      - "1 - Détermination judicieuse des techniques à utiliser"
+      - "2 - Gestion correcte des autorisations"
+      - "3 - Cryptage approprié des données"
+      - "4 - Utilisation appropriée des contraintes d'intégrité référentielle, des déclencheurs ou des transactions"
+    contenu_essentiel: >-
+      Gestion des accès à la base de données (lecture, écriture,
+      modification des droits d'accès, …); gestion des accès aux tables
+      (lecture, écriture, modification des droits d'accès, …); types de
+      cryptage; contraintes d'intégrité (FOREIGN KEY, UNIQUE, CHECK,
+      DEFAULT); déclencheur (TRIGGER); transaction (COMMIT, ROLLBACK, …)
+  - code: 00Q7-4
+    titre: "Programmer des traitements de données automatisés"
+    duree_heures: 20
+    habiletes:
+      - "Déterminer les traitements de données à automatiser"
+      - "Créer les procédures stockées ou les scripts"
+      - "Annoter la documentation d'aide à la programmation"
+    criteres_performance:
+      - "1 - Détermination judicieuse des traitements de données à automatiser"
+      - "2 - Création appropriée de procédures stockées ou de scripts"
+      - "3 - Notation claire de la documentation d'aide à la programmation"
+    contenu_essentiel: >-
+      Fonctions intégrées au système de gestion de base de données (DATE,
+      TIME, IF, …); création de procédures (CREATE PROCEDURE); création de
+      fonctions (CREATE FONCTION); produire le script annoté
+  - code: 00Q7-5
+    titre: "Sauvegarder et restaurer la base de données"
+    duree_heures: 4
+    habiletes:
+      - "Choisir les techniques de sauvegarde et de restauration à utiliser"
+      - "Utiliser les techniques de sauvegarde et de restauration de la base de données"
+      - "Respecter la procédure et la fréquence de sauvegarde"
+    criteres_performance:
+      - "1 - Choix judicieux des techniques de sauvegarde et de restauration à utiliser"
+      - "2 - Utilisation appropriée de techniques de sauvegarde et de restauration de la base de données"
+      - "3 - Respect de la procédure et de la fréquence de sauvegarde"
+    contenu_essentiel: >-
+      Clause de sauvegarde de la base de données (BACKUP DATABASE);
+      automatisation de la sauvegarde; gestion des fichiers de sauvegarde

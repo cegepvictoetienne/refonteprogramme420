@@ -1,0 +1,208 @@
+code: 420-1E6-VI
+titre: Design Web
+programme:
+  numero: "420"
+  nom: Techniques de l'informatique
+profil: "B0 : Profil par défaut"
+departement_responsable: Informatique
+redacteurs:
+  - Carle, Shany
+  - Lagacé, Christiane
+prealables: []
+note_prealables_absence: "Ce cours n'a aucun préalable."
+prealable_a:
+  - cours: 420-2A4-VI
+    titre: Développement Web 1
+note_prealables: >-
+  Ce cours pourrait également être préalable aux cours qui ont un préalable
+  spécial.
+duree_heures: 90
+ponderation: "3-3-3"
+unites: 3
+dates:
+  analyse_equipe_programme: 2019-05-16
+  adoption_departement: 2019-05-23
+  approbation_service_etudes: 2019-08-13
+
+competences:
+  - code: 00ST
+    titre: "Effectuer le développement d'applications Web non transactionnelles"
+    elements:
+      - "1 - Analyser le projet de développement de l'application"
+      - "2 - Préparer l'environnement de développement informatique"
+      - "4 - Programmer l'interface Web"
+      - "6 - Programmer la logique applicative du côté client"
+      - "7 - Contrôler la qualité de l'application"
+      - "8 - Participer au déploiement de l'application chez un hébergeur Web"
+      - "9 - Rédiger la documentation"
+
+cible_formation: >-
+  À la fin du cours, l'élève sera capable d'effectuer le développement côté
+  client pour des applications Web.
+
+notes_preliminaires: >-
+  Le cours 420-1E6-VI : Design Web fait partie de la formation menant au
+  diplôme d'études collégiales (DEC) dans le programme 420.B0 : Techniques
+  de l'informatique.
+
+
+  Il est offert en 1re session.
+
+
+  La compétence 00ST : Effectuer le développement d'applications Web non
+  transactionnelles est vue partiellement.
+
+
+  Son acquisition sera complétée dans le cours 420-2A4-VI : Développement
+  Web 1 à la 2e session.
+
+
+  Ce cours de première session est important pour préparer les élèves au
+  premier stage ATE car l'élève peut être amené à travailler comme
+  intégrateur Web.
+
+epreuve_finale:
+  ponderation: "50 %"
+  performance_finale_exigee: >-
+    Ajouter une fonctionnalité à un site Web existant, avec logique
+    applicative côté client.
+  contexte_realisation: >-
+    Sous forme d'examen. À partir d'un site Web fourni par l'enseignante ou
+    l'enseignant. Individuellement. À la semaine 15 s'il n'y a qu'un
+    groupe, et à la semaine 16 s'il y a deux groupes. À l'aide de la
+    documentation existante : notes de cours, sites Web, etc. Sur
+    ordinateur (remise du code local et non chez un hébergeur). En
+    présence de l'enseignante ou de l'enseignant.
+  criteres_evaluation:
+    - Installation correcte des logiciels et des bibliothèques
+    - Utilisation appropriée du langage de balisage
+    - Création et utilisation appropriées des feuilles de styles
+    - Intégration correcte des images
+    - Adaptation de l'interface en fonction du format d'affichage et de la résolution
+    - Manipulation adéquate des objets du modèle DOM
+    - Programmation correcte des interactions entre l'interface Web et l'utilisatrice ou l'utilisateur
+    - Programmation et intégration adéquates d'animations ou de widgets
+
+demarche_pedagogique_suggeree: >-
+  Théorie, démonstrations, et auto-apprentissage, informations complétées à
+  l'aide de recherches individuelles sur Internet
+
+mediagraphie:
+  - "https://developer.mozilla.org/fr/docs/Web/Javascript"
+  - "https://developer.mozilla.org/fr/docs/Web/HTML"
+  - "https://developer.mozilla.org/fr/docs/Web/CSS"
+
+materiel_requis: >-
+  Ordinateur portable
+
+elements_competence:
+  - code: 00ST-1
+    titre: "Analyser le projet de développement de l'application"
+    duree_heures: 5
+    habiletes:
+      - "Analyser les documents de conception."
+      - "Déterminer les tâches à effectuer."
+    criteres_performance:
+      - "1 - Analyse juste des documents de conception"
+      - "2 - Détermination correcte des tâches à effectuer"
+    contenu_essentiel: >-
+      Travail avec maquette existante (HTML et CSS fournis); travail avec
+      une image de la maquette à intégrer; les spécialistes impliqués dans
+      le développement d'un site Web et leurs tâches
+  - code: 00ST-2
+    titre: "Préparer l'environnement de développement informatique"
+    duree_heures: 5
+    habiletes:
+      - "1 - Installer les logiciels et les bibliothèques"
+      - "2 - Configurer le système de gestion de versions"
+    criteres_performance:
+      - "1 - Installation correcte des logiciels et des bibliothèques"
+      - "2 - Configuration appropriée du système de gestion de versions"
+    contenu_essentiel: >-
+      Console Git Bash; Git local; environnement de développement (ex :
+      PhpStorm); création d'extraits de code; création de gabarits de
+      départ; importation des librairies (ex : Bootstrap, jQuery); CDN vs
+      installation locale
+  - code: 00ST-4
+    titre: "Programmer l'interface Web"
+    duree_heures: 20
+    habiletes:
+      - "1 - Utiliser le langage de balisage"
+      - "2 - Créer et utiliser les feuilles de styles"
+      - "3 - Intégrer les images"
+      - "4 - Adapter l'interface en fonction du format d'affichage et de la résolution"
+    criteres_performance:
+      - "1 - Utilisation appropriée du langage de balisage"
+      - "2 - Création et utilisation appropriées des feuilles de styles"
+      - "3 - Intégration correcte des images"
+      - "4 - Adaptation de l'interface en fonction du format d'affichage et de la résolution"
+    contenu_essentiel: >-
+      Site Web adaptatif (media queries); bibliothèques adaptatives (ex :
+      Bootstrap); HTML5; CSS 3; préprocesseurs CSS (ex : Sass, Less); poids
+      des règles CSS; types d'images (.PNG, .SVG, .JPG); poids des images
+      en (Ko, Mo)
+  - code: 00ST-6
+    titre: "Programmer la logique applicative du côté client"
+    duree_heures: 34
+    habiletes:
+      - "1 - Manipuler les objets du modèle DOM"
+      - "2 - Programmer les interactions entre l'interface Web et l'utilisatrice ou l'utilisateur"
+      - "3 - Programmer et intégrer les animations ou widgets"
+    criteres_performance:
+      - "1 - Manipulation adéquate des objets du modèle DOM"
+      - "2 - Programmation correcte des interactions entre l'interface Web et l'utilisatrice ou l'utilisateur"
+      - "3 - Programmation et intégration adéquates d'animations ou de widgets"
+    contenu_essentiel: >-
+      Javascript; librairie de manipulation Javascript (Ex: jQuery);
+      événements (Ex: Onclick, Hover); validation de formulaires; intégrer
+      des widgets (Ex : Google Map, Youtube); canevas HTML5
+  - code: 00ST-7
+    titre: "Contrôler la qualité de l'application"
+    duree_heures: 20
+    habiletes:
+      - "1 - Appliquer les plans de tests"
+      - "2 - Effectuer les revues de code et de sécurité"
+      - "3 - Apporter les correctifs"
+      - "4 - Respecter les procédures de suivi des problèmes et de gestion des versions"
+      - "5 - Respecter les documents de conception"
+    criteres_performance:
+      - "1 - Application rigoureuse des plans de tests"
+      - "2 - Pertinence des correctifs"
+      - "3 - Respect des procédures de suivi des problèmes et de gestion des versions"
+      - "4 - Respect des documents de conception"
+    contenu_essentiel: >-
+      Exécuter des tests fonctionnels simples (cas d'essais fournis par le
+      prof, ex : jetestetout.apical.xyz); outil de suivi des bogues (à un
+      niveau très simple, ex : liste dans un post-it, jetestetout.apical.xyz);
+      W3C Validator; console du navigateur; débogueur Javascript intégré au
+      navigateur; Git
+  - code: 00ST-8
+    titre: "Participer au déploiement de l'application chez un hébergeur Web"
+    duree_heures: 4
+    habiletes:
+      - "1 - Choisir le nom de domaine"
+      - "2 - Configurer l'application chez l'hébergeur Web"
+      - "3 - Migrer l'application chez l'hébergeur Web"
+      - "4 - Respecter les exigences de référencement"
+    criteres_performance:
+      - "1 - Détermination judicieuse du nom de domaine"
+      - "2 - Configuration appropriée de l'application chez l'hébergeur Web"
+      - "3 - Application correcte de la procédure de migration de l'application chez l'hébergeur Web"
+      - "4 - Application rigoureuse des mesures de sécurité"
+      - "5 - Respect des exigences de référencement"
+    contenu_essentiel: >-
+      Registraire de nom de domaine; forfaits hébergement; DNS; logiciels
+      FTP ou SFTP; SSL/TLS; référencement
+  - code: 00ST-9
+    titre: "Rédiger la documentation"
+    duree_heures: 2
+    habiletes:
+      - "1 - Déterminer l'information à rédiger"
+      - "2 - Noter le travail effectué"
+    criteres_performance:
+      - "1 - Détermination correcte de l'information à rédiger"
+      - "2 - Notation claire du travail effectué"
+    contenu_essentiel: >-
+      Documentation des fonctions dans le code; commentaires dans le code;
+      commentaires sur les commits de Git (ex : git commit -F avec un
+      fichier)

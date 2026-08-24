@@ -1,0 +1,212 @@
+code: 420-5A4-VI
+titre: Jeux 3D
+programme:
+  numero: "420"
+  nom: Techniques de l'informatique
+profil: "B0 : Profil par défaut"
+departement_responsable: Informatique
+redacteurs:
+  - Ouellet, Alexandre
+  - Taleb, Frédérik
+prealables:
+  - cours: 420-2A6-VI
+    titre: Programmation 2
+prealable_a:
+  - cours: 420-6B3-VI
+    titre: Environnements immersifs
+note_prealables: >-
+  Ce cours pourrait également être préalable aux cours qui ont un préalable
+  spécial.
+duree_heures: 60
+ponderation: "2-2-1"
+unites: 1.67
+dates:
+  analyse_equipe_programme: 2024-06-14
+  adoption_departement: 2024-05-01
+  approbation_service_etudes: 2026-02-25
+
+competences:
+  - code: 00SW
+    titre: "Effectuer le développement d'applications de jeu ou de simulation"
+    elements:
+      - "1 - Analyser le projet de développement de l'application"
+      - "2 - Préparer l'environnement de développement informatique"
+      - "3 - Générer des représentations de mondes réels ou imaginaires"
+      - "4 - Programmer la logique du jeu ou de la simulation"
+      - "5 - Contrôler la qualité de l'application"
+      - "7 - Rédiger la documentation"
+
+cible_formation: >-
+  À la fin du cours l'élève sera en mesure de développer un jeu ou une
+  simulation en 3 dimensions.
+
+notes_preliminaires: >-
+  Le cours 420-5A4-VI : Jeux 3D fait partie de la formation menant au
+  diplôme d'études collégiales (DEC) dans le programme 420.B0 : Techniques
+  de l'informatique.
+
+
+  Il est offert en 5e session.
+
+
+  La compétence 00SW : Effectuer le développement d'applications de jeu ou
+  de simulation est vue partiellement.
+
+
+  Son acquisition a débuté dans le cours 420-3B3-VI : Jeux 2D à la 3e
+  session.
+
+
+  Son acquisition sera complétée dans le cours 420-6B3-VI : Environnements
+  immersifs à la 6e session.
+
+epreuve_finale:
+  ponderation: "50 %"
+  performance_finale_exigee: >-
+    L'élève produira un jeu en 3 dimensions répondant à des critères
+    spécifiques. À partir d'un document de conception de jeu, l'élève
+    devra produire : le document d'analyse; le dossier de production
+    incluant le code, les ressources sonores et visuelles; un dépôt en
+    ligne du projet contenant le code et les autres ressources.
+  contexte_realisation: >-
+    L'épreuve finale est un travail long réalisé seul. Le développement se
+    déroulera pendant les 4 dernières semaines de la session (semaines 12
+    à 15), en classe et hors classe. La remise devra être faite à la
+    semaine 15.
+  criteres_evaluation:
+    - Analyse juste des documents de conception
+    - Modélisation correcte du jeu
+    - Choix et utilisation appropriés des éléments graphiques pour l'affichage et la saisie
+    - Intégration correcte des modèles 3D
+    - Adaptation des représentations en fonction du format d'affichage et de la résolution
+    - Programmation correcte des comportements des éléments graphiques et des périphériques
+    - Programmation correcte des effets visuels
+    - Intégration précise des sons
+    - Programmation correcte des interactions
+    - Exploitation efficace des fonctionnalités du moteur selon les besoins du projet
+    - Intégration correcte du guide d'utilisation
+
+demarche_pedagogique_suggeree: >-
+  Courtes périodes d'enseignement théorique suivies d'application au fur et
+  à mesure à l'aide d'exercices formatifs. Des références de sites Web
+  seront fournies par le professeur. L'élève devra enrichir ces sources
+  d'information par ses propres recherches. Des activités seront proposées
+  pour favoriser la coopération entre les élèves, l'échange des
+  connaissances et la prise en charge de son apprentissage par l'élève.
+  Certaines évaluations formatives peuvent être auto-corrigées par l'élève
+  ou encore co-corrigées par un collègue de la classe. Bien que certains
+  travaux ne fassent pas l'objet d'évaluation sommative, les élèves doivent
+  absolument les compléter afin d'être prêts pour l'épreuve finale. Il est
+  suggéré d'utiliser une version d'Unity marquée pour Long term support
+  (LTS) afin d'assurer la continuité avec le cours 420-6B3-VI
+  Environnements immersifs.
+
+mediagraphie:
+  - "Documentation de Unity — https://docs.unity3d.com/"
+
+materiel_requis: >-
+  Ordinateur portable
+
+elements_competence:
+  - code: 00SW-1
+    titre: "Analyser le projet de développement de l'application"
+    duree_heures: 6
+    habiletes:
+      - "1. Analyser la différence entre la simulation 2D et la simulation 3D"
+      - "2. Déterminer l'organisation du projet de simulation"
+    criteres_performance:
+      - "1 - Analyse juste des documents de conception"
+      - "2 - Détermination correcte des tâches à effectuer"
+    contenu_essentiel: >-
+      Déplacement des objets de la simulation dans l'espace
+      tri-dimensionnel; héritages à partir des classes du moteur de jeu;
+      types de caméra de jeu (première personne, troisième personne,
+      isométrique, caméra libre); document de planification du projet de
+      simulation
+  - code: 00SW-2
+    titre: "Préparer l'environnement de développement informatique"
+    duree_heures: 2
+    habiletes:
+      - "1. Installer les logiciels et les bibliothèques"
+      - "2. Configurer le système de gestion de versions"
+      - "3. Importer du code source"
+    criteres_performance:
+      - "1 - Installation correcte des logiciels et des bibliothèques"
+      - "2 - Configuration appropriée du système de gestion de versions"
+      - "3 - Importation correcte du code source"
+    contenu_essentiel: >-
+      Environnement de développement; moteur de jeu; logiciel de
+      conception 3D; logiciel de gestion de version
+  - code: 00SW-3
+    titre: "Générer des représentations de mondes réels ou imaginaires"
+    duree_heures: 8
+    habiletes:
+      - "1. Choisir et utiliser les éléments graphiques pour l'affichage et la saisie"
+      - "2. Intégrer les images"
+      - "3. Adapter les représentations en fonction du format d'affichage et de résolution"
+    criteres_performance:
+      - "1 - Choix et utilisation appropriés des éléments graphiques pour l'affichage et la saisie"
+      - "2 - Intégration correcte des images 2D et 3D"
+      - "3 - Adaptation des représentations en fonction du format d'affichage et de la résolution"
+    contenu_essentiel: >-
+      Utilisation de la bibliothèque de ressources; importation manuelle de
+      ressources; interface utilisateur réactive; patron de conception
+      observateur
+  - code: 00SW-4
+    titre: "Programmer la logique du jeu ou de la simulation"
+    duree_heures: 40
+    habiletes:
+      - "1. Programmer les comportements des éléments graphiques et des périphériques"
+      - "2. Programmer les effets visuels"
+      - "3. Intégrer les sons"
+      - "4. Programmer les interactions"
+      - "5. Appliquer les techniques d'internationalisation"
+      - "6. Appliquer les techniques de programmation sécurisée"
+      - "7. Utiliser les moteurs de jeu ou de simulation"
+    criteres_performance:
+      - "1 - Programmation correcte des comportements des éléments graphiques et des périphériques"
+      - "2 - Programmation correcte des effets visuels"
+      - "3 - Intégration précise des sons"
+      - "4 - Programmation correcte des interactions"
+      - "5 - Application correcte des techniques d'internationalisation"
+      - "6 - Application rigoureuse des techniques de programmation sécurisée"
+      - "7 - Utilisation appropriée des moteurs de jeu ou de simulation"
+    contenu_essentiel: >-
+      Gestion des entrées de l'utilisateur; initialisation de la
+      simulation (Start, Awake); accéder à la boucle de jeu pour les mises
+      à jour de physique, animation, contrôle de la simulation; classes
+      scriptables (ex. : MonoBehavior, ScriptableObject); machine à états
+      finis visuelle; utilisation des composantes modulaires pour son,
+      collisions, recherche de chemins, éclairage, physique; éléments à
+      considérer dans la production d'un jeu destiné à la distribution sur
+      internet
+  - code: 00SW-5
+    titre: "Contrôler la qualité de l'application"
+    duree_heures: 2
+    habiletes:
+      - "1. Appliquer les plans de tests"
+      - "2. Réviser le code et la sécurité"
+      - "3. Apporter les correctifs"
+      - "4. Respecter les procédures de suivi des problèmes et de gestion des versions"
+      - "5. Respecter les documents de conception"
+    criteres_performance:
+      - "1 - Application rigoureuse des plans de tests"
+      - "2 - Revues de code et de sécurité rigoureuses"
+      - "3 - Pertinence des correctifs"
+      - "4 - Respect des procédures de suivi des problèmes et de gestion des versions"
+      - "5 - Respect des documents de conception"
+    contenu_essentiel: >-
+      Scénarios de test pendant l'exécution de la simulation; test de
+      régression; techniques et outils de débogage; évaluation du respect
+      de la conception du projet de simulation
+  - code: 00SW-7
+    titre: "Rédiger la documentation"
+    duree_heures: 2
+    habiletes:
+      - "1. Déterminer l'information à rédiger"
+      - "2. Effectuer le suivi des modifications"
+    criteres_performance:
+      - "1 - Détermination correcte de l'information à rédiger"
+      - "2 - Notation claire du travail effectué"
+    contenu_essentiel: >-
+      Manuel de l'utilisateur; indices visuels en cours de simulation

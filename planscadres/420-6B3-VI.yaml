@@ -1,0 +1,201 @@
+code: 420-6B3-VI
+titre: Environnements immersifs
+programme:
+  numero: "420"
+  nom: Techniques de l'informatique
+profil: "B0 : Profil par défaut"
+departement_responsable: Informatique
+redacteurs:
+  - Ouellet, Alexandre
+  - Taleb, Frédérik
+prealables:
+  - cours: 420-5A4-VI
+    titre: Jeux 3D
+prealable_a: []
+note_prealable_a_absence: "Ce cours n'est préalable à aucun autre cours."
+note_prealables: >-
+  Ce cours pourrait être préalable aux cours qui ont un préalable spécial.
+duree_heures: 45
+ponderation: "1-2-2"
+unites: 1.67
+dates:
+  analyse_equipe_programme: 2024-06-14
+  adoption_departement: 2023-12-18
+  approbation_service_etudes: 2026-01-15
+
+competences:
+  - code: 00SW
+    titre: "Effectuer le développement d'applications de jeu ou de simulation"
+    elements:
+      - "1 - Analyser le projet de développement de l'application"
+      - "3 - Générer des représentations de mondes réels ou imaginaires"
+      - "4 - Programmer la logique du jeu ou de la simulation"
+      - "5 - Contrôler la qualité de l'application"
+      - "6 - Participer à la mise en service de l'application"
+      - "7 - Rédiger la documentation"
+
+cible_formation: >-
+  À la fin du cours, l'élève sera en mesure de développer et mettre en
+  service une simulation ou un jeu de réalité augmentée, réalité virtuelle
+  ou réalité mixte.
+
+notes_preliminaires: >-
+  Le cours 420-6B3-VI : Environnements immersifs fait partie de la
+  formation menant au diplôme d'études collégiales (DEC) dans le programme
+  420.B0 : Techniques de l'informatique.
+
+
+  Il est offert en 6e session.
+
+
+  L'atteinte de la compétence 00SW : Effectuer le développement
+  d'applications de jeu ou de simulation est complétée dans ce cours.
+
+
+  Son acquisition a débuté dans les cours suivants : 420-3B3-VI : Jeux 2D à
+  la 3e session (profil B0 : Profil par défaut); 420-5A4-VI : Jeux 3D à la
+  5e session (profil B0 : Profil par défaut).
+
+epreuve_finale:
+  ponderation: "50 %"
+  performance_finale_exigee: >-
+    L'élève produira un jeu ou une simulation en réalité augmentée, réalité
+    virtuelle ou réalité mixte qui répond aux exigences suivantes :
+    ressources sonores (environnement, rétroactions et interactions);
+    interface utilisateur; jeu ou simulation d'une durée minimale de 5
+    minutes; au moins 3 ressources visuelles animées; guide d'utilisation
+    intégré; fichier de déploiement ou d'installation; un dépôt en ligne du
+    projet contenant le code et les autres ressources.
+  contexte_realisation: >-
+    L'épreuve finale est un travail réalisé en équipes de deux, à partir
+    de la dixième semaine jusqu'à la fin des cours, en classe et hors
+    classe. La remise devra être faite à la semaine 15. L'évaluation de
+    l'épreuve est en 2 volets : performance d'équipe (30%); performance
+    individuelle (70%).
+  criteres_evaluation:
+    - "Critères d'équipe :"
+    - Modélisation correcte du jeu
+    - Adaptation et intégration appropriées des éléments graphiques pour assurer le confort et le réalisme de l'expérience immersive
+    - Adaptation appropriée des méthodes de saisie et d'interaction au support choisi (réalité augmentée, réalité virtuelle)
+    - Intégration correcte des modèles 3D
+    - Ajustement des éléments visuels et de l'interface pour qu'ils s'intègrent correctement dans l'espace virtuel
+    - "Critères individuels :"
+    - Programmation correcte des comportements des éléments graphiques et des périphériques
+    - Programmation correcte des effets visuels
+    - Intégration précise des sons
+    - Programmation correcte des interactions
+    - Exploitation efficace des fonctionnalités du moteur selon les besoins du projet
+    - Exportation et installation fonctionnelle de l'application sur le support immersif
+    - Intégration correcte du guide d'utilisation
+
+demarche_pedagogique_suggeree: >-
+  Les technologies étant appelées à évoluer, le choix du moteur de jeu ou
+  simulation devra faire l'objet d'une discussion départementale au début
+  de chaque session. Courtes périodes d'enseignement théorique suivies
+  d'application au fur et à mesure à l'aide d'exercices formatifs. Des
+  références de sites Web seront fournies par le professeur. L'élève devra
+  enrichir ces sources d'information par ses propres recherches. Des
+  activités seront proposées pour favoriser la coopération entre les
+  élèves, l'échange des connaissances et la prise en charge de son
+  apprentissage par l'élève. Certaines évaluations formatives peuvent être
+  auto-corrigées par l'élève ou encore co-corrigées par un collègue de la
+  classe. Bien que certains travaux ne fassent pas l'objet d'évaluation
+  sommative, les élèves doivent absolument les compléter afin d'être prêts
+  pour l'épreuve finale.
+
+mediagraphie:
+  - "UNITY Documentation. Unity User Manual 2020.3 — https://docs.unity3d.com/ (page consultée le 1er septembre 2021)"
+
+materiel_requis: >-
+  Ordinateur portable
+
+elements_competence:
+  - code: 00SW-1
+    titre: "Analyser le projet de développement de l'application"
+    duree_heures: 2
+    habiletes:
+      - "1. Analyser la différence entre l'interface utilisateur classique (jeux 2D et 3D) et l'interface d'un jeu ou simulation immersive"
+      - "2. Déterminer l'organisation du projet de simulation"
+    criteres_performance:
+      - "1 - Analyse juste des documents de conception"
+      - "2 - Détermination correcte des tâches à effectuer"
+    contenu_essentiel: >-
+      Environnements immersifs (réalité augmentée, réalité virtuelle,
+      réalité mixte); caractéristiques des environnements immersifs
+  - code: 00SW-3
+    titre: "Générer des représentations de mondes réels ou imaginaires"
+    duree_heures: 10
+    habiletes:
+      - "1 - Choisir et utiliser les éléments graphiques et sonores propres au monde immersif"
+      - "2 - Intégrer les éléments d'environnement"
+      - "3 - Adapter les éléments graphiques au monde immersif"
+    criteres_performance:
+      - "1 - Choix et utilisation appropriés des éléments graphiques et sonores pour la représentation d'un monde immersif"
+      - "2 - Intégration correcte des éléments d'environnement"
+      - "3 - Adaptation des éléments graphiques au monde immersif"
+    contenu_essentiel: >-
+      Représentation du point de vue subjectif; périphériques pour les
+      interactions de l'utilisateur; sonorisation ambiante immersive;
+      génération procédurale des éléments environnementaux
+  - code: 00SW-4
+    titre: "Programmer la logique du jeu ou de la simulation"
+    duree_heures: 29
+    habiletes:
+      - "1. Programmer des comportements des éléments graphiques et des périphériques"
+      - "2. Programmer des effets visuels"
+      - "3. Intégrer des sons"
+      - "4. Programmer des interactions"
+      - "5. Utiliser des moteurs de jeu ou de simulation"
+    criteres_performance:
+      - "1 - Programmation correcte des comportements des éléments graphiques et des périphériques"
+      - "2 - Programmation correcte des effets visuels"
+      - "3 - Intégration précise des sons"
+      - "4 - Programmation correcte des interactions"
+      - "5 - Utilisation appropriée des moteurs de jeu ou de simulation"
+    contenu_essentiel: >-
+      Gestion des entrées de l'utilisateur; objets spécifiques à
+      l'initialisation et l'utilisation de mondes immersifs; boucle de jeu
+      et mises à jour de physique, animation, contrôle de la simulation;
+      classes scriptables (ex. : MonoBehavior, ScriptableObject); machine à
+      états finis visuelle; composantes modulaires pour son, effets
+      visuels, collisions, éclairage
+  - code: 00SW-5
+    titre: "Contrôler la qualité de l'application"
+    duree_heures: 2
+    habiletes:
+      - "1. Appliquer les plans de tests"
+      - "2. Réviser le code et la sécurité"
+      - "3. Apporter les correctifs"
+      - "4. Respecter les procédures de suivi des problèmes et de gestion des versions"
+      - "5. Respecter les documents de conception"
+    criteres_performance:
+      - "1 - Application rigoureuse des plans de tests"
+      - "2 - Revues de code et de sécurité rigoureuses"
+      - "3 - Pertinence des correctifs"
+      - "4 - Respect des procédures de suivi des problèmes et de gestion des versions"
+      - "5 - Respect des documents de conception"
+    contenu_essentiel: >-
+      Scénarios de test pendant l'exécution de la simulation; test de
+      régression; processus de révision collaboratif
+  - code: 00SW-6
+    titre: "Participer à la mise en service de l'application"
+    duree_heures: 1
+    habiletes:
+      - "1. Préparer l'application en vue de son déploiement, de son exportation ou de son installation"
+      - "2. Déployer, exporter ou installer l'application"
+    criteres_performance:
+      - "1 - Préparation appropriée de l'application en vue de son déploiement, de son exportation ou de son installation"
+      - "2 - Déploiement, exportation ou installation corrects de l'application"
+    contenu_essentiel: >-
+      Formats d'exportation : Android; Windows
+  - code: 00SW-7
+    titre: "Rédiger la documentation"
+    duree_heures: 1
+    habiletes:
+      - "1. Déterminer l'information à rédiger"
+      - "2. Effectuer le suivi des modifications"
+    criteres_performance:
+      - "1 - Détermination correcte de l'information à rédiger"
+      - "2 - Notation claire du travail effectué"
+    contenu_essentiel: >-
+      Manuel de l'utilisateur; indices visuels en cours de simulation

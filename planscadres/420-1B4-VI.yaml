@@ -1,0 +1,190 @@
+code: 420-1B4-VI
+titre: Fonctionnement de l'ordinateur
+programme:
+  numero: "420"
+  nom: Techniques de l'informatique
+profil: "B0 : Profil par défaut"
+departement_responsable: Informatique
+redacteurs:
+  - Taleb, Frédérik
+  - Tousignant, Simon
+prealables: []
+note_prealables_absence: "Ce cours n'a aucun préalable."
+prealable_a: []
+note_prealable_a_absence: "Ce cours n'est préalable à aucun autre cours."
+note_prealables: >-
+  Ce cours pourrait être préalable aux cours qui ont un préalable spécial.
+duree_heures: 60
+ponderation: "2-2-2"
+unites: 2
+dates:
+  analyse_equipe_programme: 2019-05-16
+  adoption_departement: 2019-05-23
+  approbation_service_etudes: 2019-08-13
+
+competences:
+  - code: 00Q1
+    titre: "Effectuer l'installation et la gestion d'ordinateurs"
+    elements:
+      - "1 - Préparer l'ordinateur"
+      - "2 - Installer le système d'exploitation"
+      - "3 - Installer des applications"
+      - "4 - Effectuer des tâches de gestion du système d'exploitation"
+
+cible_formation: >-
+  À la fin du cours l'élève sera capable, dans un environnement
+  ergonomique, de préparer un ordinateur et d'en faire l'installation. Il
+  sera aussi en mesure d'installer le système d'exploitation ainsi que les
+  logiciels requis.
+
+notes_preliminaires: >-
+  Le cours 420-1B4-VI : Fonctionnement de l'ordinateur fait partie de la
+  formation menant au diplôme d'études collégiales (DEC) dans le programme
+  420.B0 : Techniques de l'informatique.
+
+
+  Il est offert en 1re session.
+
+
+  La compétence 00Q1 : Effectuer l'installation et la gestion d'ordinateurs
+  est vue partiellement.
+
+
+  Son atteinte sera complétée dans les cours suivants : 420-1C4-VI : Outils
+  informatiques à la 1re session (profil B0 : Profil par défaut);
+  420-3A3-VI : Nano-ordinateurs à la 3e session (profil B0 : Profil par
+  défaut).
+
+
+  Ce cours de première session est important pour préparer les élèves au
+  premier stage ATE car l'élève peut être amené à travailler en soutien
+  informatique et en gestion des postes de travail (ex.: Buropro, petite ou
+  moyenne entreprise).
+
+epreuve_finale:
+  ponderation: "50 %"
+  performance_finale_exigee: >-
+    Installer, modifier et configurer un système d'exploitation et les
+    applications selon le devis fourni.
+  contexte_realisation: >-
+    Sous forme d'examen pratique individuel. À la semaine 15. D'une durée
+    totale de 4 heures. À partir du devis fourni par l'enseignante ou
+    l'enseignant. À l'aide de la documentation existante : notes de cours,
+    sites Web, etc. Sur ordinateur (remise de l'image du système
+    d'exploitation). En présence de l'enseignante ou de l'enseignant.
+  criteres_evaluation:
+    - Interprétation juste de la demande.
+    - Utilisation appropriée des utilitaires de préparation des systèmes de fichiers.
+    - Application correcte de la procédure d'installation du système d'exploitation et des pilotes.
+    - Application correcte de la procédure d'installation des applications et des modules d'extension.
+    - Configuration correcte des applications et des modules.
+    - Organisation fonctionnelle de la structure des fichiers et des répertoires.
+    - Utilisation appropriée des utilitaires d'archivage et de compression.
+
+demarche_pedagogique_suggeree: >-
+  Théorie, démonstrations, et auto-apprentissage, informations complétées à
+  l'aide de recherches individuelles sur Internet. Conférence
+  d'intervenants spécialisés (ex. : Ergothérapeute pour le positionnement
+  des périphériques).
+
+mediagraphie:
+  - "https://www.ubuntu.com/"
+  - "https://www.python.org/"
+  - "https://git-scm.com/doc"
+  - "http://www.gnu.org/software/bash/manual/"
+  - "https://docs.python.org/fr/3/"
+
+materiel_requis: >-
+  Clef USB; ordinateur portable; ensemble d'outils de réparation
+  d'ordinateur; carte MicroSD avec adaptateur (minimum 8Go).
+
+elements_competence:
+  - code: 00Q1-1
+    titre: "Préparer l'ordinateur"
+    duree_heures: 8
+    habiletes:
+      - "Interpréter la demande."
+      - "Interpréter les spécifications de l'équipement informatique."
+      - "Ajout de composants amovibles."
+      - "Raccorder les périphériques."
+      - "Positionner l'ordinateur et ses périphériques de façon ergonomique."
+    criteres_performance:
+      - "1 - Interprétation juste de la demande"
+      - "2 - Interprétation juste des spécifications de l'équipement informatique"
+      - "3 - Ajout correct de composants amovibles"
+      - "4 - Raccordement correct des périphériques"
+      - "5 - Positionnement ergonomique de l'ordinateur et de ses périphériques"
+    contenu_essentiel: >-
+      Travail avec un devis; modification de la configuration matérielle
+      d'un ordinateur existant; assemblage d'un ordinateur; travail avec
+      les composantes et périphériques d'un poste de travail informatique.
+  - code: 00Q1-2
+    titre: "Installer le système d'exploitation"
+    duree_heures: 16
+    habiletes:
+      - "Utiliser les utilitaires de préparation des systèmes de fichiers."
+      - "Appliquer la procédure d'installation du système d'exploitation et des pilotes."
+      - "Configurer le système d'exploitation et les pilotes."
+      - "Personnaliser le système d'exploitation en fonction des besoins des utilisatrices et des utilisateurs."
+    criteres_performance:
+      - "1 - Utilisation appropriée des utilitaires de préparation des systèmes de fichiers"
+      - "2 - Application correcte de la procédure d'installation du système d'exploitation et des pilotes"
+      - "3 - Configuration correcte du système d'exploitation et des pilotes"
+      - "4 - Personnalisation du système d'exploitation en fonction des besoins des utilisatrices et des utilisateurs"
+    contenu_essentiel: >-
+      Partitionnement du matériel de stockage; systèmes de fichier;
+      installation du système d'exploitation à partir du support original;
+      installation du système d'exploitation à partir d'une image;
+      installation du système d'exploitation sur une machine virtuelle;
+      installation et mise à jour des pilotes; personnalisation du système
+      d'exploitation (ex. : affichage des fichiers masqués et du système,
+      affichage des extensions des fichiers).
+  - code: 00Q1-3
+    titre: "Installer des applications"
+    duree_heures: 16
+    habiletes:
+      - "Appliquer la procédure d'installation des applications et des modules d'extension."
+      - "Configurer les applications et les modules."
+      - "Personnaliser les applications en fonction des besoins des utilisatrices et des utilisateurs."
+      - "Assurer le fonctionnement des applications."
+    criteres_performance:
+      - "1 - Application correcte de la procédure d'installation des applications et des modules d'extension"
+      - "2 - Configuration correcte des applications et des modules d'extension"
+      - "3 - Personnalisation des applications en fonction des besoins des utilisatrices et des utilisateurs"
+      - "4 - Fonctionnement correct des applications"
+    contenu_essentiel: >-
+      Pour les systèmes d'exploitation Windows et LINUX : installation
+      d'une plateforme de développement Web (ex.: LAMP); installation d'un
+      environnement de développement (ex.: Visual Studio, suite
+      Jetbrains); installation d'un système de gestion de versions
+      décentralisé (ex.: Git); création d'un script pour automatiser
+      l'installation d'un logiciel au devis; configuration des applications
+      au devis; personnalisation des logiciels (ex.: l'environnement de
+      développement choisi)
+  - code: 00Q1-4
+    titre: "Effectuer des tâches de gestion du système d'exploitation"
+    duree_heures: 20
+    habiletes:
+      - "Organiser la structure des fichiers et des répertoires."
+      - "Utiliser les utilitaires d'archivage et de compression."
+      - "Créer les comptes et les groupes d'utilisatrices et d'utilisateurs."
+      - "Attribuer les droits d'accès."
+      - "Gérer les processus, la mémoire et l'espace disque."
+      - "Rédiger des scripts."
+    criteres_performance:
+      - "1 - Organisation fonctionnelle de la structure des fichiers et des répertoires"
+      - "2 - Utilisation appropriée des utilitaires d'archivage et de compression"
+      - "3 - Création correcte des comptes et des groupes d'utilisateurs"
+      - "4 - Attribution correcte des droits d'accès"
+      - "5 - Gestion appropriée des processus, de la mémoire et de l'espace disque"
+      - "6 - Rédaction correcte de scripts"
+    contenu_essentiel: >-
+      Pour les systèmes d'exploitation Windows et LINUX : création d'une
+      arborescence de dossiers; application du paradigme de sécurité à
+      l'arborescence de dossiers (ex.: modification des droits d'accès);
+      compression et décompression d'un fichier et d'un dossier; création
+      d'un fichier image; utilisation d'une application de sauvegarde
+      automatisée (ex.: sauvegarde incrémentale); création d'un script
+      d'automatisation de la sauvegarde et de la restauration; utilisation
+      du moniteur système pour gérer les processus (ex.: htop, gestionnaire
+      de tâches, chargement de logiciels au démarrage)

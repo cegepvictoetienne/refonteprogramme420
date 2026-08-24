@@ -1,0 +1,214 @@
+code: 420-5B5-VI
+titre: Projet intégrateur 1
+programme:
+  numero: "420"
+  nom: Techniques de l'informatique
+profil: "B0 : Profil par défaut"
+departement_responsable: Informatique
+redacteurs:
+  - Croteau, Carine
+  - Ouellet, Alexandre
+prealables: []
+note_prealables_absence: "Ce cours n'a aucun préalable."
+prealables_speciaux: >-
+  L'élève doit avoir réussi 21 des 22 cours de formation spécifique des
+  sessions 1 à 4 dont 420-4B4-VI et 420-4A6-VI ainsi que 6 cours de
+  formation générale.
+prealable_a: []
+note_prealable_a_absence: "Ce cours n'est préalable à aucun autre cours."
+note_prealables: >-
+  Ce cours pourrait être préalable aux cours qui ont un préalable spécial.
+duree_heures: 75
+ponderation: "2-3-2"
+unites: 2.33
+dates:
+  analyse_equipe_programme: 2024-06-14
+  adoption_departement: 2024-05-01
+  approbation_service_etudes: 2024-06-14
+
+competences:
+  - code: 00SY
+    titre: "Collaborer à la conception d'applications"
+    elements:
+      - "1 - Participer à l'élaboration du cahier des charges fonctionnel"
+      - "2 - Participer à la conception générale des applications"
+      - "3 - Effectuer la conception détaillée"
+      - "4 - Produire des documents de conception"
+
+cible_formation: >-
+  À la fin de ce cours, l'élève sera capable de collaborer à la conception
+  et au développement d'une application en réalisant l'ensemble des étapes
+  nécessaires à la mise en œuvre d'un projet.
+
+notes_preliminaires: >-
+  Le cours 420-5B5-VI : Projet intégrateur 1 fait partie de la formation
+  menant au diplôme d'études collégiales (DEC) dans le programme 420.B0 :
+  Techniques de l'informatique.
+
+
+  Il est offert en 5e session.
+
+
+  La compétence 00SY : Collaborer à la conception d'applications est vue
+  partiellement.
+
+
+  Son acquisition a débuté dans le cours 420-4B4-VI : Conception de
+  systèmes à la 4e session.
+
+
+  Son acquisition sera complétée dans le cours 420-6A7-VI : Projet
+  intégrateur 2 à la 6e session.
+
+epreuve_finale:
+  ponderation: "60 %"
+  performance_finale_exigee: >-
+    L'épreuve finale consiste en la production d'un document d'analyse et
+    de conception et en la mise en œuvre d'une application à partir d'un
+    besoin et d'un cahier de charges sommaire. À partir d'une mise en
+    situation et des exigences fournies, l'élève devra collaborer : à la
+    production du document d'analyse et de conception; au suivi du projet;
+    à la mise en œuvre de l'application; à l'application des mesures de
+    sécurité; à l'élaboration et la mise en place d'une stratégie
+    permettant d'assurer la qualité du produit final; à la production de
+    la documentation.
+  contexte_realisation: >-
+    En équipes formées en fonction du type et de l'envergure des projets
+    ciblés (l'élève sera évalué individuellement en fonction de sa
+    contribution sur l'ensemble des étapes relatives au projet auquel il
+    est assigné). À partir de situations variées représentatives du milieu
+    du travail. À partir des exigences de la situation concrète. Sur toute
+    la session pendant du temps en classe et hors classe. 60% du temps de
+    classe est dédié à la réalisation des projets. La remise devra être
+    faite à la semaine 15.
+  criteres_evaluation:
+    - "Critères évalués en équipe (25%) :"
+    - Cadrage adéquat du contexte de la demande et de la portée du projet
+    - Utilisation adéquate des outils de planification de projet
+    - Modélisation adéquate des composantes du système en fonction des normes et des besoins
+    - Planification et exécution adéquate des tests d'acceptation
+    - Mise en production correcte du système
+    - Utilisation correcte du vocabulaire technique
+    - "Critères évalués individuellement (75%) :"
+    - Identification et description adéquate des besoins et des entités actrices
+    - Conception juste de l'interface à générer ou à programmer
+    - Planification et exécution adéquate de la stratégie d'assurance qualité
+    - Programmation juste du système en fonction de la planification et des normes
+    - Collaboration efficace dans les processus d'équipes
+    - Utilisation correcte du vocabulaire technique
+
+demarche_pedagogique_suggeree: >-
+  Des séances d'enseignement magistral sont à prévoir pour présenter les
+  différents éléments relatifs à la gestion des projets et aux méthodes de
+  conception. La sollicitation des opinions et le partage de pratiques
+  vécues en stage par les élèves est suggérée pour appuyer ou critiquer
+  les concepts à l'aide d'exemples concrets. Les élèves devront aussi
+  travailler sur leur projet tout au long de la session, ce qui permet
+  d'alterner les périodes magistrales et les périodes d'exercices. Afin de
+  permettre de mieux tirer profit du temps d'équipe, il est suggéré de
+  laisser de longues périodes pour le travail d'équipe.
+
+mediagraphie:
+  - "SUNIER, Pierre-André. Modèle conceptuel de données, Suisse, Éd. Georgier, 2016, 178 p."
+  - "LONCHAMP, Jacques. Analyse des besoins pour le développement logiciel : Recueil et spécifications, démarches itératives et agiles, Éd. Dunod, 2015, 307 p."
+  - "CHARROUX, Benoit, Aomar OSMANI et Yann THIERRY-MIEG. UML 2, Pratique de la modélisation, 3e Éd. Pearson, 2010, 280 p."
+  - "LEFEBVRE, Michel. L'analyse objet avec UML par l'exemple et la pratique, Éd. Michel Lefebvre, 2008."
+  - "MARCHAT, Hugues. La gestion des projets par étapes, Analyse des besoins, Éd. d'Organisations Groupe Eyrolles, 2008, 208 p."
+
+materiel_requis: >-
+  Ordinateur portable
+
+elements_competence:
+  - code: 00SY-1
+    titre: "Participer à l'élaboration du cahier des charges fonctionnel"
+    duree_heures: 10
+    habiletes:
+      - "Analyser la demande et les exigences de la cliente ou du client"
+      - "Évaluer la pertinence et la cohérence de la demande"
+      - "Analyser les caractéristiques de l'équipement informatique et des applications utilisés par la cliente ou le client"
+      - "Produire un tableau des besoins techniques"
+      - "Formuler un avis suite à l'analyse du besoin et/ou à la lecture d'un cahier des charges existant"
+    criteres_performance:
+      - "1 - Analyse juste de la demande et des exigences de la cliente ou du client"
+      - "2 - Analyse juste des caractéristiques de l'équipement informatique et des applications utilisés par la cliente ou le client"
+      - "3 - Formulation adéquate des besoins identifiés"
+      - "4 - Pertinence des choix technologiques proposés."
+    contenu_essentiel: >-
+      Outils de gestion de projet (ex: JIRA, GitHub Project management);
+      techniques de cueillette de l'information (la documentation,
+      l'entrevue, l'observation et le questionnaire); concept de réunion
+      de cadrage (toute première réunion organisée par l'équipe de
+      développement)
+  - code: 00SY-2
+    titre: "Participer à la conception générale des applications"
+    duree_heures: 20
+    habiletes:
+      - "Évaluer les composants logiciels et matériels à utiliser"
+      - "Formuler des avis sur les mesures de sécurité à mettre en place"
+      - "Formuler des avis sur les stratégies de tests à utiliser"
+      - "Formuler des avis sur la faisabilité de la solution informatique"
+      - "Collaborer dans un outil de gestion de versions (ex: GitHub)"
+    criteres_performance:
+      - "2 - Évaluation juste des composants logiciels et matériels à utiliser"
+      - "3 - Pertinence des avis sur les mesures de sécurité à mettre en place"
+      - "4 - Pertinence des avis sur les stratégies de tests à utiliser"
+      - "5 - Pertinence des avis sur la faisabilité de la solution informatique"
+      - "6 - Collaboration efficace au moyen d'un outil de gestion de versions"
+    contenu_essentiel: >-
+      Analyse de faisabilité d'un projet (TELOS); définition des
+      contraintes (délai, budget, équipement, etc.); conception d'un
+      tableau des besoins techniques; dessin de maquettes de l'interface
+      principale; collaboration dans un outil de gestion de versions (ex:
+      GitHub); mesures de sécurité
+  - code: 00SY-3
+    titre: "Effectuer la conception détaillée"
+    duree_heures: 35
+    habiletes:
+      - "Modéliser une base de données conforme au besoin"
+      - "Déterminer les données initiales d'une base de données"
+      - "Décrire la logique applicative d'un projet"
+      - "Décrire l'interface à générer ou à programmer"
+      - "Modéliser la problématique conformément aux principes de la programmation orientée objet"
+      - "Choisir et produire les algorithmes selon la situation"
+      - "Respecter les règles de nomenclature établies"
+      - "Développer un projet en cohérence avec la conception établie"
+    criteres_performance:
+      - "1 - Modélisation d'une base de données conforme au besoin"
+      - "2 - Détermination claire des données initiales d'une base de données"
+      - "3 - Description claire de la logique applicative et de l'interface à générer ou à programmer"
+      - "4 - Modélisation orientée objet conforme aux principes d'encapsulation, d'héritage, de composition ou de polymorphisme"
+      - "5 - Choix ou production judicieux des algorithmes"
+      - "6 - Respect des règles de nomenclature"
+    contenu_essentiel: >-
+      Analyse des données pour concevoir le diagramme de classe; relation
+      entre les différentes classes; sélection et utilisation des
+      technologies selon le projet et ses contraintes; production des
+      gabarits contenant des cas d'utilisation ainsi que des diagrammes;
+      normes et concepts des interfaces utilisateur; vocabulaire de la
+      méthode Agile; mise en application pratique de l'ensemble des
+      principes d'une méthode d'analyse (ex: méthode Agile); étapes de
+      développement d'un projet; développement du projet en cohérence avec
+      la conception établie
+  - code: 00SY-4
+    titre: "Produire des documents de conception"
+    duree_heures: 10
+    habiletes:
+      - "Représenter graphiquement les différents modèles"
+      - "Rédiger les plans de tests unitaires, d'intégration, fonctionnels ou d'acceptation"
+      - "Participer à la revue de conception"
+      - "Utiliser du vocabulaire spécifique"
+      - "Respecter les normes, les méthodes et les bonnes pratiques en matière de développement d'applications"
+    criteres_performance:
+      - "1 - Représentation graphique correcte des différents modèles"
+      - "2 - Rédaction correcte des plans de tests unitaires, d'intégration, fonctionnels ou d'acceptation"
+      - "3 - Participation active à la revue de conception"
+      - "4 - Utilisation du vocabulaire approprié"
+      - "5 - Respect des normes, des méthodes et des bonnes pratiques en matière de développement d'applications"
+    contenu_essentiel: >-
+      Établissement du lien entre le diagramme des classes et les cas
+      d'utilisation; description et explication des cas d'utilisation;
+      stratégies d'assurance qualité; compréhension des points importants
+      du dossier de conception; application des règles de mise en page
+      pour la production de rapports conformes; structure d'un document de
+      conception; outils de schématisation (production de maquettes et de
+      diagrammes, par ex: Draw.io)

@@ -1,0 +1,314 @@
+code: 420-3B4-VI
+titre: Bases de données 2
+programme:
+  numero: "420"
+  nom: Techniques de l'informatique
+profil: "B0 : Profil par défaut"
+departement_responsable: Informatique
+redacteurs:
+  - Croteau, Carine
+  - Sandé, Joël
+  - Taleb, Frédérik
+prealables:
+  - cours: 420-2B4-VI
+    titre: Bases de données 1
+prealable_a:
+  - cours: 420-4B4-VI
+    titre: Conception de systèmes
+  - cours: 420-4C4-VI
+    titre: Mégadonnées
+note_prealables: >-
+  Ce cours pourrait également être préalable aux cours qui ont un préalable
+  spécial.
+duree_heures: 60
+ponderation: "2-2-2"
+unites: 2
+dates:
+  analyse_equipe_programme: 2020-02-19
+  adoption_departement: 2020-04-02
+  approbation_service_etudes: 2022-06-15
+
+competences:
+  - code: 00Q6
+    titre: "Exploiter les principes de la programmation orientée objet"
+    elements:
+      - "1 - Analyser le problème"
+      - "2 - Modéliser les classes"
+      - "3 - Produire les algorithmes pour les méthodes"
+      - "4 - Générer l'interface graphique"
+      - "5 - Programmer des classes"
+      - "6 - Documenter la programmation"
+      - "7 - Appliquer la procédure liée à la gestion des versions de programmes"
+  - code: 00Q7
+    titre: "Exploiter un système de gestion de base de données"
+    elements:
+      - "1 - Créer la base de données"
+      - "2 - Formuler des requêtes de lecture, d'insertion, de modification et de suppression de données"
+      - "3 - Assurer la confidentialité et la cohérence des données"
+      - "4 - Programmer des traitements de données automatisés"
+
+cible_formation: >-
+  À la fin du cours, l'élève sera capable de modéliser un diagramme de
+  classes et de concevoir et exploiter une base de données.
+
+notes_preliminaires: >-
+  Le cours 420-3B4-VI : Bases de données 2 fait partie de la formation
+  menant au diplôme d'études collégiales (DEC) dans le programme 420.B0 :
+  Techniques de l'informatique.
+
+
+  Il est offert en 3e session.
+
+
+  Plusieurs compétences sont touchées par ce cours.
+
+
+  La compétence 00Q6 : Exploiter les principes de la programmation
+  orientée objet est vue partiellement.
+
+
+  Son acquisition a débuté dans le cours 420-2A6-VI : Programmation 2 à la
+  2e session.
+
+
+  Son acquisition sera complétée dans le cours 420-4A6-VI : Programmation
+  3 à la 4e session.
+
+
+  La compétence 00Q7 : Exploiter un système de gestion de base de données
+  est vue partiellement.
+
+
+  Son acquisition a débuté dans le cours 420-2B4-VI : Bases de données 1 à
+  la 2e session.
+
+
+  Son acquisition sera complétée dans le cours 420-4C4-VI : Mégadonnées à
+  la 4e session.
+
+epreuve_finale:
+  ponderation: "50 %"
+  performance_finale_exigee: >-
+    Partie 1 : Modélisation et création de la base de données : modèle
+    avec relations et table pivot, au moins un déclencheur, création d'un
+    utilisateur et de ses autorisations. L'élève aura à produire : le
+    modèle de la base de données; le script de création de la base de
+    données; le script de création des déclencheurs; le script de création
+    d'un utilisateur et de modifications de ses autorisations.
+
+
+    Partie 2 : Exploitation de la base de données : transaction, procédure
+    stockée, jointures et encryption à partir d'une base de données fournie
+    et d'un modèle complexe. L'élève aura à produire : le script de
+    création des procédures stockées; les requêtes de vérification;
+    l'implémentation des scénarios exigés pour exploiter la base de
+    données.
+  contexte_realisation: >-
+    L'épreuve finale est un examen individuel en 2 parties, à la fin
+    semaine 15. Chaque partie est complétée en classe et dure 2 périodes.
+    Le matériel permis est : notes de cours de l'enseignant.e, notes de
+    cours de l'élève et site web du cours.
+  criteres_evaluation:
+    - Conception juste du modèle de données
+    - Analyse juste des spécifications du système de gestion de base de données
+    - Formulation appropriée des instructions de création de la base de données
+    - Utilisation appropriée des contraintes d'intégrité référentielle, des déclencheurs
+    - Détermination judicieuse des types de requêtes à formuler
+    - Utilisation appropriée des clauses, des opérateurs, des commandes ou des paramètres
+    - Utilisation appropriée des expressions régulières
+    - Fonctionnement correct des requêtes
+    - Création appropriée de procédures stockées ou de scripts
+    - Choix approprié des instructions, des types de données élémentaires et des structures de données
+    - Organisation logique des instructions
+    - Respect de la syntaxe du langage
+    - Respect des règles de codage
+    - Notation claire de la documentation d'aide à la programmation
+
+demarche_pedagogique_suggeree: >-
+  Courtes périodes d'enseignement théorique suivies d'application au fur et
+  à mesure à l'aide d'exercices formatifs. Des références de sites Web
+  seront fournies par le professeur. L'élève devra enrichir ces sources
+  d'information par ses propres recherches. Des activités seront proposées
+  pour favoriser la coopération entre les élèves, l'échange des
+  connaissances et la prise en charge de son apprentissage par l'élève.
+  Certaines évaluations formatives peuvent être auto-corrigées par l'élève
+  ou encore co-corrigées par un collègue de la classe. Bien que certains
+  travaux ne fassent pas l'objet d'évaluation sommative, les élèves doivent
+  absolument les compléter afin d'être prêts pour l'épreuve finale.
+
+mediagraphie:
+  - "Notes de cours fournies en format numérique"
+
+materiel_requis: >-
+  Un ordinateur portable
+
+elements_competence:
+  - code: 00Q6-1
+    titre: "Analyser le problème"
+    duree_heures: 4
+    habiletes:
+      - "Décomposer un problème en fonction des exigences de l'approche relationnelle"
+      - "Déterminer les données d'entrée et de sortie ainsi que de la nature des traitements"
+      - "Déterminer les classes à modéliser"
+      - "Déterminer les relations entre les classes"
+    criteres_performance:
+      - "1 - Décomposition du problème en fonction des exigences de l'approche relationnelle"
+      - "2 - Détermination correcte des données d'entrée, des données de sortie et de la nature des traitements"
+      - "3 - Détermination juste des classes à modéliser"
+      - "4 - Détermination correcte des relations entre les classes"
+    contenu_essentiel: >-
+      Modèle entité-relation; diagramme de classes; formes normales; types
+      de relations (1:n, n:n)
+  - code: 00Q6-2
+    titre: "Modéliser les classes"
+    duree_heures: 4
+    habiletes:
+      - "Déterminer les attributs des classes"
+      - "Déterminer les types des attributs"
+      - "Représenter les classes et leurs relations de façon graphique"
+      - "Respecter les règles de nomenclature"
+    criteres_performance:
+      - "1 - Détermination correcte des attributs des classes"
+      - "2 - Détermination correcte des types des attributs"
+      - "3 - Représentation graphique correcte des classes et de leurs relations"
+      - "4 - Respect des règles de nomenclature"
+    contenu_essentiel: >-
+      Création d'une classe (attributs, types, propriétés, contraintes
+      d'intégrité); respect d'une nomenclature; production du modèle
+      entité-relation; production du diagramme UML des classes avec les
+      relations entre elles.
+  - code: 00Q6-3
+    titre: "Produire les algorithmes"
+    duree_heures: 2
+    habiletes:
+      - "Déterminer une séquence logique des opérations nécessaires pour chaque algorithme"
+      - "Déterminer une séquence logique des opérations"
+      - "Vérifier le fonctionnement des algorithmes"
+      - "Schématiser les algorithmes sur papier"
+    criteres_performance:
+      - "1 - Détermination adéquate des opérations nécessaires pour chaque algorithme"
+      - "2 - Détermination correcte d'une séquence logique des opérations"
+      - "3 - Vérification appropriée du fonctionnement des algorithmes"
+      - "4 - Représentation correcte des algorithmes"
+    contenu_essentiel: >-
+      Opérateurs arithmétiques et logiques; conditions; boucles; procédures
+      et fonctions stockées; triggers
+  - code: 00Q6-4
+    titre: "Générer l'interface graphique"
+    duree_heures: 2
+    habiletes:
+      - "Choisir les éléments graphiques utiles à l'affichage de la saisie"
+      - "Positionner ergonomiquement les éléments graphiques"
+      - "Paramétrer les éléments graphiques"
+    criteres_performance:
+      - "1 - Choix approprié des éléments graphiques pour l'affichage et la saisie"
+      - "2 - Positionnement correct des éléments graphiques"
+      - "3 - Paramétrage correct des éléments graphiques"
+    contenu_essentiel: >-
+      Tableaux; formulaires; boutons
+  - code: 00Q6-5
+    titre: "Programmer les interactions avec la base de données"
+    duree_heures: 4
+    habiletes:
+      - "Choisir les instructions, les types de données, et structures de données"
+      - "Organiser les instructions"
+      - "Programmer les messages à afficher à l'utilisatrice ou à l'utilisateur"
+      - "Respecter la syntaxe du langage et les règles du code"
+    criteres_performance:
+      - "1 - Choix approprié des instructions, des types de données élémentaires et des structures de données"
+      - "2 - Organisation logique des instructions"
+      - "3 - Programmation correcte des messages à afficher à l'utilisatrice ou à l'utilisateur"
+      - "4 - Fonctionnement correct du programme"
+      - "5 - Respect de la syntaxe du langage"
+      - "6 - Respect des règles de codage"
+    contenu_essentiel: >-
+      PHP - mysqli; passage de paramètres; curseur; exceptions
+  - code: 00Q6-6
+    titre: "Documenter la programmation"
+    duree_heures: 2
+    habiletes:
+      - "Commenter le code"
+      - "Documenter le programme"
+      - "Utiliser des générateurs de documentation"
+    criteres_performance:
+      - "1 - Notation claire de commentaires dans le code informatique"
+      - "2 - Notation claire de la documentation d'aide à la programmation"
+      - "3 - Utilisation appropriée des générateurs de documentation"
+    contenu_essentiel: >-
+      phpDocumentor; commentaires sur le diagramme
+  - code: 00Q6-7
+    titre: "Appliquer la procédure liée à la gestion des versions de programmes"
+    duree_heures: 2
+    habiletes:
+      - "Configurer le système de migration"
+      - "Soumettre le code modifié"
+      - "Gérer les modifications structurelles de la base de données"
+    criteres_performance:
+      - "1 - Configuration correcte du système de migration"
+      - "2 - Soumission méthodique du code modifié"
+      - "3 - Gestion judicieuse des modifications structurelles de la base de données"
+    contenu_essentiel: >-
+      Outil de migration et de mise à jour de base de données
+  - code: 00Q7-1
+    titre: "Créer la base de données"
+    duree_heures: 6
+    habiletes:
+      - "Analyser le modèle de données"
+      - "Analyser les spécifications du système de gestion de base de données"
+      - "Formuler des instructions de création de base de données"
+    criteres_performance:
+      - "1 - Analyse juste du modèle de données"
+      - "2 - Analyse juste des spécifications du système de gestion de base de données"
+      - "3 - Formulation appropriée des instructions de création de la base de données"
+    contenu_essentiel: >-
+      CREATE TABLE; INDEX; VIEW
+  - code: 00Q7-2
+    titre: "Formuler des requêtes de lecture, d'insertion, de modification et de suppression de données"
+    duree_heures: 20
+    habiletes:
+      - "Déterminer les types de requêtes à formuler"
+      - "Utiliser des clauses, des opérateurs, des commandes ou des paramètres"
+      - "Utiliser les expressions régulières"
+    criteres_performance:
+      - "1 - Détermination judicieuse des types de requêtes à formuler"
+      - "2 - Utilisation appropriée des clauses, des opérateurs, des commandes ou des paramètres"
+      - "3 - Utilisation appropriée des expressions régulières"
+      - "4 - Fonctionnement correct des requêtes"
+    contenu_essentiel: >-
+      Commandes SQL avancées; INSERT INTO SELECT; UPDATE avec champ de
+      référence; GROUP BY avec HAVING; REGEX; IFNULL(); EXISTS(); jointures
+      (INNER JOIN, LEFT JOIN, RIGHT JOIN, UNION)
+  - code: 00Q7-3
+    titre: "Assurer la confidentialité et la cohérence des données"
+    duree_heures: 4
+    habiletes:
+      - "Déterminer les techniques à utiliser"
+      - "Gérer les autorisations"
+      - "Crypter les données"
+      - "Utiliser les contraintes d'intégrité référentielle, les déclencheurs ou les transactions"
+    criteres_performance:
+      - "1 - Détermination judicieuse des techniques à utiliser"
+      - "2 - Gestion correcte des autorisations"
+      - "3 - Cryptage approprié des données"
+      - "4 - Utilisation appropriée des contraintes d'intégrité référentielle, des déclencheurs ou des transactions"
+    contenu_essentiel: >-
+      Gestion des utilisateurs et des autorisations avec Phpmyadmin;
+      contraintes d'intégrité référentielle; transactions; encryption
+      complète avec clé
+  - code: 00Q7-4
+    titre: "Programmer des traitements de données automatisés"
+    duree_heures: 10
+    habiletes:
+      - "Déterminer les traitements de données à automatiser"
+      - "Créer des procédures stockées"
+      - "Créer des scripts"
+      - "Documenter le programme"
+      - "Programmer des traitements de données automatisés"
+    criteres_performance:
+      - "1 - Détermination judicieuse des traitements de données à automatiser"
+      - "2 - Création appropriée de procédures stockées ou de scripts"
+      - "3 - Notation claire de la documentation d'aide à la programmation"
+    contenu_essentiel: >-
+      Procédures stockées, paramètres et valeurs de retour; curseurs;
+      déclencheurs (BEFORE (INSERT, UPDATE, DELETE), AFTER (INSERT, UPDATE,
+      DELETE))

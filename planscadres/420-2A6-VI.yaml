@@ -1,0 +1,223 @@
+code: 420-2A6-VI
+titre: Programmation 2
+programme:
+  numero: "420"
+  nom: Techniques de l'informatique
+profil: "B0 : Profil par défaut"
+departement_responsable: Informatique
+redacteurs:
+  - Carle, Shany
+  - Drolet, Laurent
+  - Tousignant, Simon
+prealables:
+  - cours: 420-1D6-VI
+    titre: Programmation 1
+prealable_a:
+  - cours: 420-3A3-VI
+    titre: Nano-ordinateurs
+  - cours: 420-3B3-VI
+    titre: Jeux 2D
+  - cours: 420-4A6-VI
+    titre: Programmation 3
+  - cours: 420-4D4-VI
+    titre: Applications mobiles 1
+  - cours: 420-5A4-VI
+    titre: Jeux 3D
+  - cours: 420-5B4-VI
+    titre: Applications mobiles 2
+note_prealables: >-
+  Ce cours pourrait également être préalable aux cours qui ont un préalable
+  spécial.
+duree_heures: 90
+ponderation: "3-3-3"
+unites: 3
+dates:
+  analyse_equipe_programme: 2019-10-09
+  adoption_departement: 2019-10-02
+  approbation_service_etudes: 2026-01-27
+
+competences:
+  - code: 00Q6
+    titre: "Exploiter les principes de la programmation orientée objet"
+    elements:
+      - "1 - Analyser le problème"
+      - "2 - Modéliser les classes"
+      - "3 - Produire les algorithmes pour les méthodes"
+      - "4 - Générer l'interface graphique"
+      - "5 - Programmer des classes"
+      - "6 - Documenter la programmation"
+      - "7 - Appliquer la procédure liée à la gestion des versions de programmes"
+
+cible_formation: >-
+  À la fin du cours, l'élève sera capable d'analyser un problème, de le
+  modéliser et de programmer l'algorithme en respectant les concepts de la
+  programmation orientée objet.
+
+notes_preliminaires: >-
+  Le cours 420-2A6-VI : Programmation 2 fait partie de la formation menant
+  au diplôme d'études collégiales (DEC) dans le programme 420.B0 :
+  Techniques de l'informatique.
+
+
+  Il est offert en 2e session.
+
+
+  La compétence 00Q6 : Exploiter les principes de la programmation
+  orientée objet est vue partiellement.
+
+
+  Son atteinte sera complétée dans les cours suivants : 420-3B4-VI : Bases
+  de données 2 à la 3e session (profil B0 : Profil par défaut); 420-4A6-VI
+  : Programmation 3 à la 4e session (profil B0 : Profil par défaut).
+
+
+  Le langage de programmation ciblé pour ce cours est C#. Le choix de ce
+  langage s'explique de par l'objectif de placer les élèves dès la
+  première année de l'ATE en développement d'applications de bureau.
+
+epreuve_finale:
+  ponderation: "50 %"
+  performance_finale_exigee: >-
+    L'élève aura à analyser un problème, à le modéliser et à programmer
+    l'algorithme en respectant les concepts de la programmation orientée
+    objet. L'élève devra trouver et corriger des erreurs de code. L'élève
+    devra programmer des solutions à des problèmes informatiques.
+  contexte_realisation: >-
+    Examen individuel composé d'une ou plusieurs parties pratiques. En
+    classe. À la semaine 15, sur les 3 dernières heures de cours. À l'aide
+    du matériel approuvé par le département.
+  criteres_evaluation:
+    - Détermination juste des classes à modéliser
+    - Détermination correcte des algorithmes à produire
+    - Détermination correcte des attributs et des méthodes des classes
+    - Application judicieuse des principes d'encapsulation et d'héritage
+    - Respect des règles de nomenclature
+    - Détermination adéquate des opérations nécessaires pour chaque méthode
+    - Détermination correcte d'une séquence logique des opérations
+    - Choix approprié des instructions, des types de données élémentaires et des structures de données
+    - Organisation logique des instructions
+    - Intégration correcte des classes dans le programme
+    - Fonctionnement correct du programme
+    - Respect de la syntaxe du langage
+    - Respect des règles de codage
+    - Notation claire de commentaires dans le code informatique
+
+demarche_pedagogique_suggeree: >-
+  Théorie, démonstrations, et auto-apprentissage, informations complétées à
+  l'aide de recherches individuelles sur Internet
+
+mediagraphie:
+  - "Les notes seront disponibles en ligne sur la plateforme du cours."
+
+materiel_requis: >-
+  Ordinateur portable; papier et crayons
+
+elements_competence:
+  - code: 00Q6-1
+    titre: "Analyser le problème"
+    duree_heures: 10
+    habiletes:
+      - "Décomposer le problème en fonction des exigences"
+      - "Déterminer les entrées, sorties et les traitements"
+      - "Déterminer les classes à modéliser"
+      - "Déterminer l'algorithme à produire"
+    criteres_performance:
+      - "1 - Décomposition du problème en fonction des exigences de l'approche orientée objet"
+      - "2 - Détermination correcte des données d'entrée, des données de sortie et de la nature des traitements"
+      - "3 - Détermination juste des classes à modéliser"
+      - "4 - Détermination correcte des algorithmes à produire"
+    contenu_essentiel: >-
+      Diagrammes; algorithmes
+  - code: 00Q6-2
+    titre: "Modéliser les classes"
+    duree_heures: 10
+    habiletes:
+      - "Déterminer les attributs et les méthodes"
+      - "Appliquer les principes d'encapsulation et de l'héritage"
+      - "Représenter sur un diagramme les classes et leurs relations"
+      - "Respecter les règles de nomenclature"
+    criteres_performance:
+      - "1 - Détermination correcte des attributs et des méthodes des classes"
+      - "2 - Application judicieuse des principes d'encapsulation et d'héritage"
+      - "3 - Représentation graphique correcte des classes et de leurs relations"
+      - "4 - Respect des règles de nomenclature"
+    contenu_essentiel: >-
+      Diagramme; algorithmes; standards de l'industrie; concepts de la
+      programmation orientée objet (classes, champs, méthodes, héritage,
+      encapsulation, etc.)
+  - code: 00Q6-3
+    titre: "Produire les algorithmes pour les méthodes"
+    duree_heures: 10
+    habiletes:
+      - "Déterminer les opérations nécessaires pour les méthodes"
+      - "Déterminer la séquence logique des opérations"
+      - "Vérifier le fonctionnement des algorithmes"
+      - "Représenter correctement les algorithmes"
+    criteres_performance:
+      - "1 - Détermination adéquate des opérations nécessaires pour chaque méthode"
+      - "2 - Détermination correcte d'une séquence logique des opérations"
+      - "3 - Vérification appropriée du fonctionnement des algorithmes"
+      - "4 - Représentation correcte des algorithmes"
+    contenu_essentiel: >-
+      Diagrammes (séquence, flux, etc.); pseudo-code
+  - code: 00Q6-4
+    titre: "Générer l'interface graphique"
+    duree_heures: 15
+    habiletes:
+      - "Choisir les éléments graphiques pour l'affichage et la saisie"
+      - "Positionner les éléments graphiques"
+      - "Paramétrer les éléments graphiques"
+    criteres_performance:
+      - "1 - Choix approprié des éléments graphiques pour l'affichage et la saisie"
+      - "2 - Positionnement correct des éléments graphiques"
+      - "3 - Paramétrage correct des éléments graphiques"
+    contenu_essentiel: >-
+      Fenêtres; boutons; menus; boîtes de dialogues
+  - code: 00Q6-5
+    titre: "Programmer des classes"
+    duree_heures: 30
+    habiletes:
+      - "Choisir les instructions, les types de données et les structures"
+      - "Organiser de façon logique les instructions"
+      - "Programmer les messages à afficher"
+      - "Intégrer les classes dans le programme"
+      - "Vérifier le fonctionnement du programme"
+      - "Respecter la syntaxe"
+      - "Respecter les règles du codage"
+    criteres_performance:
+      - "1 - Choix approprié des instructions, des types de données élémentaires et des structures de données"
+      - "2 - Organisation logique des instructions"
+      - "3 - Programmation correcte des messages à afficher à l'utilisatrice ou à l'utilisateur"
+      - "4 - Intégration correcte des classes dans le programme"
+      - "5 - Fonctionnement correct du programme"
+      - "6 - Respect de la syntaxe du langage"
+      - "7 - Respect des règles de codage"
+    contenu_essentiel: >-
+      Classes; champs; accesseurs; méthodes; fonctions; héritage;
+      constructeur; débogage; standards de code
+  - code: 00Q6-6
+    titre: "Documenter la programmation"
+    duree_heures: 5
+    habiletes:
+      - "Commenter le code"
+      - "Utiliser des générateurs de documentation"
+    criteres_performance:
+      - "1 - Notation claire de commentaires dans le code informatique"
+      - "2 - Notation claire de la documentation d'aide à la programmation"
+      - "3 - Utilisation appropriée des générateurs de documentation"
+    contenu_essentiel: >-
+      Commentaires; entêtes; générateurs de documentation (JavaDoc,
+      Summary, etc.)
+  - code: 00Q6-7
+    titre: "Appliquer la procédure liée à la gestion des versions de programmes"
+    duree_heures: 10
+    habiletes:
+      - "Configurer le système"
+      - "Soumettre du code"
+      - "Gérer les branches et les conflits"
+    criteres_performance:
+      - "1 - Configuration correcte du système de gestion de versions"
+      - "2 - Soumission méthodique du code modifié"
+      - "3 - Gestion judicieuse des branches et des conflits"
+    contenu_essentiel: >-
+      Branche maître; commandes Git (add, commit, push, pull, clone, etc.)

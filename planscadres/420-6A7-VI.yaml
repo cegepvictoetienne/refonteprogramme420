@@ -1,0 +1,272 @@
+code: 420-6A7-VI
+titre: Projet intégrateur 2
+programme:
+  numero: "420"
+  nom: Techniques de l'informatique
+profil: "B0 : Profil par défaut"
+departement_responsable: Informatique
+redacteurs:
+  - Croteau, Carine
+  - Ouellet, Alexandre
+  - Tousignant, Simon
+prealables: []
+note_prealables_absence: "Ce cours n'a aucun préalable."
+prealables_speciaux: >-
+  L'élève doit avoir réussi 25 des 27 cours de formation spécifique des
+  sessions 1 à 5 dont 420-5B5-VI ainsi que 8 cours de formation générale
+  pour être inscrit aux cours 350-6A3-VI et 420-6A7-VI.
+prealable_a: []
+note_prealable_a_absence: "Ce cours n'est préalable à aucun autre cours."
+note_prealables: >-
+  Ce cours pourrait être préalable aux cours qui ont un préalable spécial.
+duree_heures: 105
+ponderation: "1-6-3"
+unites: 3.33
+dates:
+  analyse_equipe_programme: 2023-11-09
+  adoption_departement: 2023-12-18
+  approbation_service_etudes: "Date à venir"
+
+competences:
+  - code: 00SY
+    titre: "Collaborer à la conception d'applications"
+    elements:
+      - "1 - Participer à l'élaboration du cahier des charges fonctionnel"
+      - "2 - Participer à la conception générale des applications"
+      - "3 - Effectuer la conception détaillée"
+      - "4 - Produire des documents de conception"
+
+cible_formation: >-
+  À la fin du cours, l'élève sera capable de concevoir et développer un
+  projet répondant aux besoins d'un client réel.
+
+notes_preliminaires: >-
+  Le cours 420-6A7-VI : Projet intégrateur 2 fait partie de la formation
+  menant au diplôme d'études collégiales (DEC) dans le programme 420.B0 :
+  Techniques de l'informatique.
+
+
+  Il est offert en 6e session.
+
+
+  L'atteinte de la compétence 00SY : Collaborer à la conception
+  d'applications est complétée dans ce cours.
+
+
+  Son acquisition a débuté dans les cours suivants : 420-4B4-VI :
+  Conception de systèmes à la 4e session (profil B0 : Profil par défaut);
+  420-5B5-VI : Projet intégrateur 1 à la 5e session (profil B0 : Profil par
+  défaut).
+
+
+  Le cours 420-6A7-VI : Projet intégrateur 2 est le cours porteur de
+  l'épreuve synthèse de programme (ESP).
+
+epreuve_finale:
+  ponderation: "60 %"
+  performance_finale_exigee: >-
+    L'épreuve finale consiste en la production d'un document d'analyse et
+    de conception et la mise en œuvre d'une application. À partir d'un
+    besoin exprimé par un client, l'élève devra produire et livrer : le
+    document d'analyse et de conception; la documentation appropriée au
+    contexte de son application (tests, modélisation, manuels techniques
+    et utilisateurs); l'application fonctionnelle, sécurisée et conforme
+    aux besoins exprimés.
+  contexte_realisation: >-
+    À la semaine 1, l'enseignante ou l'enseignant assignera à l'élève un
+    projet d'équipe dans lequel ce dernier devra réaliser individuellement
+    les tâches qui lui sont confiées puisque chaque élève est évalué
+    individuellement. Le projet doit impliquer trois personnes ou plus
+    selon l'envergure et le degré de complexité du projet ciblé. L'épreuve
+    finale se déroulera sur toute la session en classe et hors classe. Des
+    suivis fréquents seront faits en cours de session pour valider
+    l'avancement du projet. Le projet final doit être remis à la semaine
+    15.
+  criteres_evaluation:
+    - "S'exprimer adéquatement dans une documentation de qualité :"
+    - Langage approprié dans les correspondances officielles
+    - Analyse et interprétation justes de la demande et des exigences de la cliente ou du client
+    - Pertinence des avis sur la nature des besoins
+    - "Faire preuve d'autonomie :"
+    - Développement autonome des fonctionnalités assignées dans un projet d'équipe
+    - Interventions appropriées auprès des bons intervenants (membres de l'équipe, client, enseignants) permettant d'assurer le développement des fonctionnalités ciblées
+    - "Faire preuve de professionnalisme :"
+    - Ponctualité
+    - Écoute
+    - Respect des lois, règlements et contraintes opérationnelles en vigueur
+    - Communication adéquate et efficace avec le client
+    - Participation active au projet
+    - "Développer des applications (natives ou Web, avec ou sans BD) :"
+    - Évaluation juste des composants logiciels et matériels à utiliser
+    - Ergonomie de l'application
+    - Présence des fonctionnalités ciblées
+    - Respect des normes, des méthodes et des bonnes pratiques en matière de développement d'applications
+    - Respect des procédures de suivi des problèmes et de gestion des versions.
+    - Mise en place de mesures de sécurité pertinentes
+    - "Modélisation et implémentation adéquate de la base de données ou des collections de données (tableau, liste, pile…), des structures de données (objets, fonctions…) et des structures de contrôle (flux)"
+    - Développement conforme avec le besoin client
+    - Organisation adéquate du projet dans son ensemble
+    - Déploiement correct du système dans un environnement de production
+    - Fonctionnement adéquat du système
+
+demarche_pedagogique_suggeree: >-
+  La réalisation d'un projet long occupe la majeure partie de la session.
+  Ce cours a été sélectionné pour mener à une présentation lors de
+  l'Expo-SAT et pour comporter une activité liée au projet de mobilité
+  étudiante à Silicone Valley.
+
+
+  Expo-SAT et mobilité étudiante : la participation à Expo-SAT permet la
+  réalisation d'un travail sur les méthodes de travail adoptées dans une
+  perspective locale (travail en classe) ou dans une entreprise
+  internationale (projet de mobilité étudiante à Silicone Valley). La
+  participation à Expo-SAT peut faire office d'évaluation, de même qu'un
+  travail réflexif sur les méthodes de travail à l'international qui peut
+  être remis au retour du voyage. Pour les élèves qui ne participent pas
+  au projet de mobilité étudiante, ou advenant que le voyage ne puisse pas
+  avoir lieu, l'évaluation porterait exclusivement sur les méthodes de
+  travail adoptées dans la réalisation du projet. Les élèves qui
+  participent au projet de mobilité étudiante pourraient recevoir la
+  mention « incomplet temporaire » afin de permettre la réalisation du
+  travail réflexif au retour du projet de mobilité.
+
+
+  Examen : également, la réalisation d'éléments d'évaluation en équipe lors
+  de l'épreuve synthèse de programme représente un défi pour attester la
+  réussite individuelle de l'épreuve. De ce fait, le département souhaite
+  qu'un examen soit dispensé en complément à la réalisation du projet pour
+  assurer l'évaluation individuelle de l'ensemble de la compétence. Des
+  sujets à inclure dans l'examen ont été identifiés, car ils comportent un
+  défi d'évaluation dans le projet final. Ces défis peuvent être liés aux
+  différences entre les projets (par exemple : complexité, environnement
+  de production, reprise d'un projet existant) ou la possibilité
+  d'évaluer individuellement la réalisation d'une tâche (par exemple :
+  modélisation, organisation de projet, choix de technologies). Les
+  critères d'évaluation retenus pour l'examen sont : élaborer une
+  spécification à partir de la demande et des exigences de la cliente ou
+  du client; analyser les caractéristiques de l'équipement informatique et
+  des applications utilisés par la cliente ou le client; formuler un avis
+  sur le choix de l'architecture logicielle; évaluer les composants
+  logiciels et matériels à utiliser; formuler un avis sur la faisabilité
+  de la solution informatique; modéliser un système orienté objet;
+  produire les différents schémas. Comme peu d'enseignement a lieu dans le
+  cours, la personne enseignante est invitée à offrir une révision
+  complète des concepts couverts dans les cours 420-4B4-VI Conception de
+  système et 420-5B5-VI Projet intégrateur 1 avant l'examen.
+
+
+  Plan d'évaluation suggéré par le département :
+  Examen — 20 % — Semaine 5.
+  Présentation à Expo-SAT — obligatoire pour tous, évaluation incluse dans
+  les rapports — Semaine 12.
+  Remise d'un rapport réflexif sur la participation à Expo-SAT — 20 % —
+  Semaine 12 — pour les élèves qui ne prennent pas part au projet de
+  mobilité étudiante.
+  Remise d'un rapport réflexif sur la participation à Expo-SAT et les
+  méthodes de travail dans une entreprise située à l'international — 20 %
+  — après le projet de mobilité étudiante — pour les élèves qui prennent
+  part au projet de mobilité étudiante.
+
+mediagraphie:
+  - "SUNIER, Pierre-André. Modèle conceptuel de données, Suisse, Éd. Georgier, 2016, 178 p."
+  - "LONCHAMP, Jacques. Analyse des besoins pour le développement logiciel : Recueil et spécifications, démarches itératives et agiles, Éd. Dunod, 2015, 307 p."
+  - "CHARROUX, Benoit, Aomar OSMANI et Yann THIERRY-MIEG. UML 2, Pratique de la modélisation, 3e Éd. Pearson, 2010, 280 p."
+  - "LEFEBVRE, Michel. L'analyse objet avec UML par l'exemple et la pratique, Éd. Michel Lefebvre, 2008."
+  - "MARCHAT, Hugues. La gestion des projets par étapes, Analyse des besoins, Éd. d'Organisations Groupe Eyrolles, 2008, 208 p."
+
+materiel_requis: >-
+  Ordinateur portable
+
+elements_competence:
+  - code: 00SY-1
+    titre: "Participer à l'élaboration du cahier des charges fonctionnel"
+    duree_heures: 26
+    habiletes:
+      - "Analyser la demande et des exigences de la cliente ou du client"
+      - "Évaluer la pertinence et la cohérence de la demande"
+      - "Analyser les caractéristiques de l'équipement informatique et des applications utilisés par la cliente ou le client"
+      - "Formuler un avis suite à l'analyse du besoin et à la lecture d'un cahier des charges existant"
+    criteres_performance:
+      - "1 - Analyse et interprétation justes de la demande et des exigences de la cliente ou du client"
+      - "2 - Analyse juste des caractéristiques de l'équipement informatique et des applications utilisés par la cliente ou le client"
+      - "3 - Pertinence des avis sur la nature des besoins"
+      - "4 - Pertinence des avis sur les normes, les méthodes et les bonnes pratiques à utiliser en matière de développement d'applications"
+      - "5 - Interventions appropriées auprès des bons intervenants (membres de l'équipe, client, enseignants) permettant d'assurer le développement des fonctionnalités ciblées"
+    contenu_essentiel: >-
+      Rencontres clients; techniques de cueillette de l'information (la
+      documentation, l'entrevue, l'observation et le questionnaire);
+      outils de gestion de projet (ex: JIRA, GitHub Project management)
+  - code: 00SY-2
+    titre: "Participer à la conception générale des applications"
+    duree_heures: 27
+    habiletes:
+      - "Formuler des avis sur le choix de l'architecture logicielle"
+      - "Évaluer les composants logiciels et matériels à utiliser"
+      - "Formuler des avis sur les mesures de sécurité à mettre en place"
+      - "Formuler des avis sur les stratégies de tests à utiliser"
+      - "Formuler des avis sur la faisabilité de la solution informatique"
+      - "Décomposer le projet en fonctionnalités"
+    criteres_performance:
+      - "1 - Pertinence des avis sur le choix de l'architecture logicielle"
+      - "2 - Évaluation juste des composants logiciels et matériels à utiliser"
+      - "3 - Pertinence des avis sur les mesures de sécurité à mettre en place"
+      - "4 - Pertinence des avis sur les stratégies de tests à utiliser"
+      - "5 - Pertinence des avis sur la faisabilité de la solution informatique"
+      - "6 - Décomposition adéquate du projet en fonctionnalités"
+      - "7 - Respect des lois, règlements et contraintes opérationnelles en vigueur"
+    contenu_essentiel: >-
+      Relation entre les récits utilisateurs (user-stories) du cahier des
+      charges et les besoins fonctionnels et techniques; définition des
+      contraintes (délai, budget, équipement, etc.); dessin de maquettes de
+      l'interface principale; outil de versionnage (ex: GitHub); mesures de
+      sécurité; priorisation des fonctionnalités d'un projet
+  - code: 00SY-3
+    titre: "Effectuer la conception détaillée"
+    duree_heures: 26
+    habiletes:
+      - "Modéliser le projet"
+      - "Déterminer les données initiales"
+      - "Décrire la logique applicative d'un projet"
+      - "Décrire l'interface à générer ou à programmer"
+      - "Modéliser la problématique conformément aux principes de la programmation orientée objet"
+      - "Choisir et produire les algorithmes selon la situation"
+      - "Respecter les règles de nomenclature établies"
+      - "Développer un projet en cohérence avec la conception établie"
+    criteres_performance:
+      - "1 - Modélisation des données propres au projet"
+      - "2 - Détermination claire des données initiales"
+      - "3 - Description claire de la logique applicative et de l'interface à générer ou à programmer"
+      - "4 - Modélisation orientée objet conforme aux principes d'encapsulation, d'héritage, de composition ou de polymorphisme"
+      - "5 - Choix ou production judicieux des algorithmes"
+      - "6 - Respect des règles de nomenclature"
+      - "7 - Développement conforme avec le besoin client"
+      - "8 - Déploiement correct du système dans un environnement de production"
+      - "9 - Fonctionnement adéquat du système"
+    contenu_essentiel: >-
+      Analyse des données pour concevoir le diagramme de classe; relation
+      entre les différentes classes; sélection et utilisation des
+      technologies selon le projet et ses contraintes; production et
+      validation des prototypes; mise en application pratique de
+      l'ensemble des principes d'une méthode d'analyse (ex: méthode
+      agile); développement du projet
+  - code: 00SY-4
+    titre: "Produire des documents de conception"
+    duree_heures: 26
+    habiletes:
+      - "Produire des schémas selon la nature du projet"
+      - "Rédiger les plans de tests"
+      - "Participer à la revue de conception"
+      - "Utiliser du vocabulaire"
+      - "Respecter les normes, les méthodes et les bonnes pratiques en matière de développement d'applications"
+    criteres_performance:
+      - "1 - Production appropriée des différents schémas"
+      - "2 - Rédaction correcte des plans de tests"
+      - "3 - Participation active à la revue de conception"
+      - "4 - Utilisation du vocabulaire approprié"
+      - "5 - Respect des normes, des méthodes et des bonnes pratiques en matière de développement d'applications"
+    contenu_essentiel: >-
+      Établissement du lien entre le diagramme des classes et les cas
+      d'utilisation; langage de modélisation unifié (UML); description et
+      explication des fonctionnalités; stratégies d'assurance qualité;
+      compréhension des points importants du dossier de conception;
+      structure des documents

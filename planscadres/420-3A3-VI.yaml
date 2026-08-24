@@ -1,0 +1,262 @@
+code: 420-3A3-VI
+titre: Nano-ordinateurs
+programme:
+  numero: "420"
+  nom: Techniques de l'informatique
+profil: "B0 : Profil par défaut"
+departement_responsable: Informatique
+redacteurs:
+  - Carle, Shany
+  - Tousignant, Simon
+prealables:
+  - cours: 201-1A3-VI
+    titre: Mathématiques de l'ordinateur
+    type: Relatif
+  - cours: 420-2A6-VI
+    titre: Programmation 2
+prealable_a:
+  - cours: 420-6A3-VI
+    titre: Objets connectés 2
+note_prealables: >-
+  Ce cours pourrait également être préalable aux cours qui ont un préalable
+  spécial.
+duree_heures: 45
+ponderation: "1-2-2"
+unites: 1.67
+dates:
+  analyse_equipe_programme: 2020-02-19
+  adoption_departement: 2020-04-02
+  approbation_service_etudes: 2022-06-15
+
+competences:
+  - code: 00Q1
+    titre: "Effectuer l'installation et la gestion d'ordinateurs"
+    elements:
+      - "1 - Préparer l'ordinateur"
+      - "2 - Installer le système d'exploitation"
+      - "3 - Installer des applications"
+      - "4 - Effectuer des tâches de gestion du système d'exploitation"
+  - code: 00Q2
+    titre: "Utiliser des langages de programmation"
+    elements:
+      - "1 - Analyser le problème"
+      - "2 - Traduire l'algorithme dans le langage de programmation"
+      - "3 - Déboguer le code"
+      - "4 - Appliquer le plan de tests fonctionnels"
+
+cible_formation: >-
+  À la fin du cours, l'élève sera capable de configurer, de gérer et de
+  programmer un nano-ordinateur.
+
+notes_preliminaires: >-
+  Le cours 420-3A3-VI : Nano-ordinateurs fait partie de la formation menant
+  au diplôme d'études collégiales (DEC) dans le programme 420.B0 :
+  Techniques de l'informatique.
+
+
+  Il est offert en 3e session.
+
+
+  Plusieurs compétences sont touchées par ce cours.
+
+
+  L'atteinte de la compétence 00Q1 : Effectuer l'installation et la
+  gestion d'ordinateurs est complétée dans ce cours.
+
+
+  Son acquisition a débuté dans les cours suivants : 420-1B4-VI :
+  Fonctionnement de l'ordinateur à la 1re session (profil B0 : Profil par
+  défaut); 420-1C4-VI : Outils informatiques à la 1re session (profil B0 :
+  Profil par défaut).
+
+
+  L'atteinte de la compétence 00Q2 : Utiliser des langages de
+  programmation est complétée dans ce cours.
+
+
+  Son acquisition a débuté dans le cours 420-1D6-VI : Programmation 1 à la
+  1re session.
+
+epreuve_finale:
+  ponderation: "50 %"
+  performance_finale_exigee: >-
+    L'élève aura à rendre un nano-ordinateur fonctionnel et devra
+    programmer une solution à des problèmes simples. L'élève devra trouver
+    et corriger des erreurs de code. L'élève devra programmer des
+    solutions à des problèmes informatiques.
+  contexte_realisation: >-
+    L'évaluation sera réalisée seul dans une salle de cours à la semaine
+    15. L'évaluation est pratique et d'une durée de 3 heures. L'élève a
+    droit à ses notes de cours, ses anciens projets et toute documentation
+    jugées pertinentes par l'enseignante ou l'enseignant au moment de la
+    réalisation de l'examen.
+  criteres_evaluation:
+    - Installation du système d'exploitation
+    - Organisation fonctionnelle de la structure des fichiers et des répertoires.
+    - Utilisation appropriée des utilitaires d'archivage et de compression.
+    - Détermination correcte des données d'entrée, des données de sortie et de la nature des traitements
+    - Choix et adaptation appropriés de l'algorithme
+    - Découpage efficace du code informatique
+    - Organisation logique des instructions
+    - Respect de la syntaxe du langage
+    - Code informatique conforme à l'algorithme
+    - Utilisation efficace du débogueur
+    - Repérage des erreurs
+    - Fonctionnement correct du programme
+
+demarche_pedagogique_suggeree: >-
+  Courtes périodes d'enseignement théorique suivies d'application au fur et
+  à mesure à l'aide d'exercices formatifs. Des références de sites Web
+  seront fournies par le professeur. L'élève devra enrichir ces sources
+  d'information par ses propres recherches. Des activités seront proposées
+  pour favoriser la coopération entre les élèves, l'échange des
+  connaissances et la prise en charge de son apprentissage par l'élève.
+  Certaines évaluations formatives peuvent être auto-corrigées par l'élève
+  ou encore co-corrigées par un collègue de la classe. Bien que certains
+  travaux ne fassent pas l'objet d'évaluation sommative, les élèves doivent
+  absolument les compléter afin d'être prêts pour l'épreuve finale.
+
+mediagraphie:
+  - "https://www.arduino.cc/reference/fr/"
+  - "https://www.raspberrypi.org/documentation/"
+
+materiel_requis: >-
+  Ordinateur portable
+
+elements_competence:
+  - code: 00Q1-1
+    titre: "Préparer l'ordinateur"
+    duree_heures: 4
+    habiletes:
+      - "Interpréter la demande"
+      - "Interpréter les spécifications de l'équipement informatique."
+      - "Ajouter des composants amovibles."
+      - "Raccorder les périphériques."
+      - "Positionner l'ordinateur et ses périphériques de façon ergonomique."
+    criteres_performance:
+      - "1 - Interprétation juste de la demande"
+      - "2 - Interprétation juste des spécifications de l'équipement informatique"
+      - "3 - Ajout correct de composants amovibles"
+      - "4 - Raccordement correct des périphériques"
+      - "5 - Positionnement ergonomique de l'ordinateur et de ses périphériques"
+    contenu_essentiel: >-
+      Les différents nano-ordinateurs; les capteurs; les moteurs; les
+      plaques d'expérimentation; l'alimentation d'un nano-ordinateur;
+      l'impression 3D (ex: Thingiverse, Cura, les types de filaments, le
+      futur); le mouvement "Do It Yourself / Maker"
+  - code: 00Q1-2
+    titre: "Installer le système d'exploitation"
+    duree_heures: 4
+    habiletes:
+      - "Utiliser les utilitaires de préparation des systèmes de fichiers."
+      - "Appliquer la procédure d'installation du système d'exploitation et des pilotes."
+      - "Configurer le système d'exploitation et les pilotes."
+      - "Personnaliser le système d'exploitation en fonction des besoins des utilisatrices et des utilisateurs."
+    criteres_performance:
+      - "1 - Utilisation appropriée des utilitaires de préparation des systèmes de fichiers"
+      - "2 - Application correcte de la procédure d'installation du système d'exploitation et des pilotes"
+      - "3 - Configuration correcte du système d'exploitation et des pilotes"
+      - "4 - Personnalisation du système d'exploitation en fonction des besoins des utilisatrices et des utilisateurs"
+    contenu_essentiel: >-
+      Les système d'exploitation pour nano-ordinateurs; connexion à
+      distance au nano-ordinateur
+  - code: 00Q1-3
+    titre: "Installer des applications"
+    duree_heures: 4
+    habiletes:
+      - "Appliquer la procédure d'installation des applications et des modules d'extension."
+      - "Configurer les applications et les modules."
+      - "Personnaliser les applications en fonction des besoins des utilisatrices et des utilisateurs."
+      - "Assurer le fonctionnement des applications."
+    criteres_performance:
+      - "1 - Application correcte de la procédure d'installation des applications et des modules d'extension"
+      - "2 - Configuration correcte des applications et des modules d'extension"
+      - "3 - Personnalisation des applications en fonction des besoins des utilisatrices et des utilisateurs"
+      - "4 - Fonctionnement correct des applications"
+    contenu_essentiel: >-
+      Les applications; les librairies
+  - code: 00Q1-4
+    titre: "Effectuer des tâches de gestion du système d'exploitation"
+    duree_heures: 6
+    habiletes:
+      - "Organiser la structure des fichiers et des répertoires."
+      - "Utiliser les utilitaires d'archivage et de compression."
+      - "Créer les comptes et les groupes d'utilisatrices et d'utilisateurs."
+      - "Attribuer les droits d'accès."
+      - "Gérer les processus, la mémoire et l'espace disque."
+      - "Rédiger des scripts."
+    criteres_performance:
+      - "1 - Organisation fonctionnelle de la structure des fichiers et des répertoires"
+      - "2 - Utilisation appropriée des utilitaires d'archivage et de compression"
+      - "3 - Création correcte des comptes et des groupes d'utilisateurs"
+      - "4 - Attribution correcte des droits d'accès"
+      - "5 - Gestion appropriée des processus, de la mémoire et de l'espace disque"
+      - "6 - Rédaction correcte de scripts"
+    contenu_essentiel: >-
+      Les scripts; droits des fichiers et dossiers
+  - code: 00Q2-1
+    titre: "Analyser le problème"
+    duree_heures: 6
+    habiletes:
+      - "Décomposer un problème"
+      - "Déterminer les données d'entrée et de sortie"
+      - "Choisir et adapter l'algorithme"
+    criteres_performance:
+      - "1 - Décomposition correcte du problème"
+      - "2 - Détermination correcte des données d'entrée, des données de sortie et de la nature des traitements"
+      - "3 - Choix et adaptation appropriés de l'algorithme"
+    contenu_essentiel: >-
+      Résolution de problèmes; les langages de programmation; les
+      algorithmes
+  - code: 00Q2-2
+    titre: "Traduire l'algorithme dans le langage de programmation"
+    duree_heures: 15
+    habiletes:
+      - "Choisir les instructions et les types de données"
+      - "Découper le code informatique"
+      - "Organiser la logique des instructions"
+      - "Respecter la syntaxe"
+      - "Coder conformément à l'algorithme"
+    criteres_performance:
+      - "1 - Choix approprié des instructions et des types de données élémentaires"
+      - "2 - Découpage efficace du code informatique"
+      - "3 - Organisation logique des instructions"
+      - "4 - Respect de la syntaxe du langage"
+      - "5 - Code informatique conforme à l'algorithme"
+    contenu_essentiel: >-
+      La programmation de scripts; la programmation de servomoteurs; la
+      programmation de capteurs; les interfaces graphiques
+  - code: 00Q2-3
+    titre: "Déboguer le code"
+    duree_heures: 3
+    habiletes:
+      - "Utiliser le débogueur"
+      - "Repérer les erreurs"
+      - "Déterminer les stratégies de correction des erreurs"
+      - "Déterminer les correctifs"
+      - "Noter les solutions aux problèmes"
+    criteres_performance:
+      - "1 - Utilisation efficace du débogueur"
+      - "2 - Repérage complet des erreurs"
+      - "3 - Détermination judicieuse de stratégies de correction des erreurs"
+      - "4 - Pertinence des correctifs"
+      - "5 - Notation claire des solutions aux problèmes rencontrés"
+    contenu_essentiel: >-
+      Débogueurs; suivre des traces
+  - code: 00Q2-4
+    titre: "Appliquer le plan de tests fonctionnels"
+    duree_heures: 3
+    habiletes:
+      - "Manifester de la rigueur"
+      - "Repérer les erreurs de fonctionnement"
+      - "Effectuer des correctifs"
+      - "Programmer correctement"
+      - "Noter l'information relative aux tests et à leurs résultats"
+    criteres_performance:
+      - "1 - Manifestation d'attitudes et de comportements empreints de rigueur"
+      - "2 - Repérage complet des erreurs de fonctionnement"
+      - "3 - Pertinence des correctifs"
+      - "4 - Fonctionnement correct du programme"
+      - "5 - Notation claire de l'information relative aux tests et à leurs résultats"
+    contenu_essentiel: >-
+      Tests fonctionnels
