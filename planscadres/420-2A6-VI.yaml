@@ -1,5 +1,5 @@
 code: 420-2A6-VI
-titre: Programmation 2
+titre: Programmation II
 programme:
   numero: "420"
   nom: Techniques de l'informatique
@@ -11,20 +11,18 @@ redacteurs:
   - Tousignant, Simon
 prealables:
   - cours: 420-1D6-VI
-    titre: Programmation 1
+    titre: Programmation I
 prealable_a:
   - cours: 420-3A3-VI
-    titre: Nano-ordinateurs
-  - cours: 420-3B3-VI
-    titre: Jeux 2D
+    titre: Systèmes embarqués  
   - cours: 420-4A6-VI
-    titre: Programmation 3
+    titre: Programmation III
   - cours: 420-4D4-VI
-    titre: Applications mobiles 1
+    titre: Applications mobiles I
   - cours: 420-5A4-VI
-    titre: Jeux 3D
+    titre: Simulations et jeux 
   - cours: 420-5B4-VI
-    titre: Applications mobiles 2
+    titre: Applications mobiles II
 note_prealables: >-
   Ce cours pourrait également être préalable aux cours qui ont un préalable
   spécial.

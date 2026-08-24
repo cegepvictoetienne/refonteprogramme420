@@ -1,5 +1,5 @@
 code: 420-5B4-VI
-titre: Applications mobiles 2
+titre: Applications mobiles II
 programme:
   numero: "420"
   nom: Techniques de l'informatique
@@ -10,7 +10,7 @@ redacteurs:
   - Lagacé, Christiane
 prealables:
   - cours: 420-2A6-VI
-    titre: Programmation 2
+    titre: Programmation II
 prealable_a: []
 note_prealable_a_absence: "Ce cours n'est préalable à aucun autre cours."
 note_prealables: >-

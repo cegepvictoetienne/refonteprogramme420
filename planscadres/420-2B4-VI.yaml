@@ -1,5 +1,5 @@
 code: 420-2B4-VI
-titre: Bases de données 1
+titre: Bases de données I
 programme:
   numero: "420"
   nom: Techniques de l'informatique
@@ -10,13 +10,13 @@ redacteurs:
   - Taleb, Frédérik
 prealables:
   - cours: 420-1D6-VI
-    titre: Programmation 1
+    titre: Programmation I
   - cours: 420-2A4-VI
-    titre: Développement Web 1
+    titre: Développement Web I
     type: Corequis
 prealable_a:
   - cours: 420-3B4-VI
-    titre: Bases de données 2
+    titre: Bases de données II
   - cours: 420-3C4-VI
     titre: Piratage éthique
 note_prealables: >-

@@ -1,5 +1,5 @@
 code: 420-6A3-VI
-titre: Objets connectés 2
+titre: Objets connectés
 programme:
   numero: "420"
   nom: Techniques de l'informatique
@@ -10,11 +10,9 @@ redacteurs:
   - Tousignant, Simon
 prealables:
   - cours: 420-3A3-VI
-    titre: Nano-ordinateurs
-  - cours: 420-3A4-VI
-    titre: Objets connectés 1
+    titre: Systèmes embarqués
   - cours: 420-4D4-VI
-    titre: Applications mobiles 1
+    titre: Applications mobiles I
     type: Relatif
 prealable_a: []
 note_prealable_a_absence: "Ce cours n'est préalable à aucun autre cours."

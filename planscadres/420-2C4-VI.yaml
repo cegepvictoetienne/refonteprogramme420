@@ -1,5 +1,5 @@
 code: 420-2C4-VI
-titre: Réseautique
+titre: Réseautique I
 programme:
   numero: "420"
   nom: Techniques de l'informatique
@@ -13,7 +13,7 @@ prealables:
     titre: Mathématiques de l'ordinateur
 prealable_a:
   - cours: 420-3C4-VI
-    titre: Piratage éthique
+    titre: Sécurité informatique
 note_prealables: >-
   Ce cours pourrait également être préalable aux cours qui ont un préalable
   spécial.
