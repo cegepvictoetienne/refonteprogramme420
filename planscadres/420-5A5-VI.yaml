@@ -225,7 +225,7 @@ elements_competence:
       cohérentes
   - code: 00SU-7
     titre: "Contrôler la qualité de l'application"
-    duree_heures: 4
+    duree_heures: 2
     habiletes:
       - "Appliquer les plans de tests"
       - "Effectuer des revues de code et de sécurité"
@@ -241,7 +241,7 @@ elements_competence:
       revues de sécurité
   - code: 00SU-8
     titre: "Participer au déploiement de l'application chez un hébergeur Web"
-    duree_heures: 4
+    duree_heures: 6
     habiletes:
       - "Choisir un hébergeur en fonction des besoins technologiques du projet"
       - "Effectuer un déploiement sur un serveur de tests (ex: Heroku)"
@@ -257,7 +257,6 @@ elements_competence:
       - "5 - Application rigoureuse des mesures de sécurité"
       - "6 - Respect des exigences de référencement"
     contenu_essentiel: >-
-      Outils de déploiement de tests (ex: Heroku); particularités de la
-      mise en ligne; configuration du site
+      L'environnement Microsoft Azure; Azure App Service, Azure Database, Azure Storage, Azure CDN
 description_dans_diagramme: >-
   Les tendances du moment Node, PWA, angular
