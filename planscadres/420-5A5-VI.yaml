@@ -17,8 +17,8 @@ redacteurs:
 prealables:
   - cours: 420-4A4-VI
     titre: Développement de services Web
-  - cours: 420-4C4-VI
-    titre: Bases de données non-relationelles
+  - cours: 420-3B4-VI
+    titre: Bases de données II
 prealable_a: []
 note_prealable_a_absence: "Ce cours n'est préalable à aucun autre cours."
 note_prealables: >-
