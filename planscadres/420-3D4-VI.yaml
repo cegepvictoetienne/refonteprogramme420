@@ -1,0 +1,24 @@
+code: 420-3D4-VI
+titre: Réseautique II
+programme:
+  numero: "420"
+  nom: Techniques de l'informatique
+profil: "B0 : Profil par défaut"
+departement_responsable: Informatique
+redacteurs:
+  - Rivard, Étienne
+  - Mercier, François
+prealables:
+  - cours: 420-2C4-VI
+    titre: Réseautique I
+prealable_a: []
+note_prealable_a_absence: "Ce cours n'est préalable à aucun autre cours."
+note_prealables: >-
+  Ce cours pourrait être préalable aux cours qui ont un préalable spécial.
+duree_heures: 60
+ponderation: "2-2-2"
+unites: 2
+dates:
+  analyse_equipe_programme: 
+  adoption_departement: 
+  approbation_service_etudes: 

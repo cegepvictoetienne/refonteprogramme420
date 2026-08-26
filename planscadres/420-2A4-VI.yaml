@@ -1,5 +1,5 @@
 code: 420-2A4-VI
-titre: Développement Web 1
+titre: Développement Web I
 programme:
   numero: "420"
   nom: Techniques de l'informatique
@@ -10,18 +10,18 @@ redacteurs:
   - Lagacé, Christiane
 prealables:
   - cours: 420-1D6-VI
-    titre: Programmation 1
+    titre: Programmation I
   - cours: 420-1E6-VI
-    titre: Design Web
+    titre: Initiation à la programmation Web
 prealable_a:
   - cours: 420-2B4-VI
-    titre: Bases de données 1
+    titre: Bases de données I
   - cours: 420-3A5-VI
-    titre: Développement Web 2
+    titre: Développement Web II
   - cours: 420-3C4-VI
-    titre: Piratage éthique
+    titre: Sécurité informatique
   - cours: 420-4A4-VI
-    titre: Services Web
+    titre: Développement de services Web
 note_prealables: >-
   Ce cours pourrait également être préalable aux cours qui ont un préalable
   spécial.

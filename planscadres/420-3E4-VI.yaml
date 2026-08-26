@@ -1,0 +1,25 @@
+code: 420-3D4-VI
+titre: Analyse et modélisation
+programme:
+  numero: "420"
+  nom: Techniques de l'informatique
+profil: "B0 : Profil par défaut"
+departement_responsable: Informatique
+redacteurs:
+  - Rivard, Étienne
+  - Fréchette, Mathieu
+prealables: []
+note_prealables_absence: "Ce cours n'a aucun préalable."
+prealable_a: 
+  - cours: 420-4B4-VI
+    titre: Architectures logicielles et assurance qualité
+note_prealable_a_absence: 
+note_prealables: >-
+  Ce cours pourrait être préalable aux cours qui ont un préalable spécial.
+duree_heures: 60
+ponderation: "2-2-2"
+unites: 1.67
+dates:
+  analyse_equipe_programme: 
+  adoption_departement: 
+  approbation_service_etudes: 

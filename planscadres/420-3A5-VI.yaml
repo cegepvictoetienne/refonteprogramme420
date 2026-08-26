@@ -1,5 +1,5 @@
 code: 420-3A5-VI
-titre: Développement Web 2
+titre: Développement Web II
 programme:
   numero: "420"
   nom: Techniques de l'informatique
@@ -10,7 +10,7 @@ redacteurs:
   - Lagacé, Christiane
 prealables:
   - cours: 420-2A4-VI
-    titre: Développement Web 1
+    titre: Développement Web I
 prealable_a: []
 note_prealable_a_absence: "Ce cours n'est préalable à aucun autre cours."
 note_prealables: >-
