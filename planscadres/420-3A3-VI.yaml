@@ -260,3 +260,5 @@ elements_competence:
       - "5 - Notation claire de l'information relative aux tests et à leurs résultats"
     contenu_essentiel: >-
       Tests fonctionnels
+description_dans_diagramme: >-
+  Python, Linux, Pi, Servos, capteurs

@@ -188,3 +188,5 @@ elements_competence:
       d'automatisation de la sauvegarde et de la restauration; utilisation
       du moniteur système pour gérer les processus (ex.: htop, gestionnaire
       de tâches, chargement de logiciels au démarrage)
+description_dans_diagramme: >-
+  Installation, Linux

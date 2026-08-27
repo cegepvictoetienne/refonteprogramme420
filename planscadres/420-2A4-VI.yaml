@@ -289,3 +289,5 @@ elements_competence:
       - "2 - Notation claire du travail effectué"
     contenu_essentiel: >-
       phpDocumentor; manuel de l'utilisateur; guide des opérations
+description_dans_diagramme: >-
+  PHP vanille, intégration MySQL

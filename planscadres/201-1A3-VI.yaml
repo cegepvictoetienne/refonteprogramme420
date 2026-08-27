@@ -213,3 +213,5 @@ elements_competence:
       des circuits, circuits logiques (portes logiques, opérations
       élémentaires, circuits additionneur et comparateur, fonctions
       logiques bit à bit)
+description_dans_diagramme: >-
+  Nombres, algèbre de bool

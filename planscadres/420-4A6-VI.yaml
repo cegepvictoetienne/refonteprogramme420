@@ -208,3 +208,5 @@ elements_competence:
     contenu_essentiel: >-
       Serveur de versions distant (ex.: GitHub); gestion de conflit;
       utilisation des plateformes collaboratives de programmation
+description_dans_diagramme: >-
+  Algorithmie en C++ ou en Java

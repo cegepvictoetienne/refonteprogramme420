@@ -215,3 +215,5 @@ elements_competence:
     contenu_essentiel: >-
       Sharding et clustering; importation et exportation d'une base de
       données
+description_dans_diagramme: >-
+  NoSQL, Python

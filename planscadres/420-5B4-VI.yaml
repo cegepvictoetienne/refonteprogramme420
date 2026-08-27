@@ -219,3 +219,5 @@ elements_competence:
       - "2 - Notation claire du travail effectué"
     contenu_essentiel: >-
       Générateurs de documentation
+description_dans_diagramme: >-
+  Androïd, iOS ou multi-plateformes

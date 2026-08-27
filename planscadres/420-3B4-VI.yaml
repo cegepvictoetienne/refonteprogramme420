@@ -312,3 +312,5 @@ elements_competence:
       Procédures stockées, paramètres et valeurs de retour; curseurs;
       déclencheurs (BEFORE (INSERT, UPDATE, DELETE), AFTER (INSERT, UPDATE,
       DELETE))
+description_dans_diagramme: >-
+  Modélisation, Procédures stoquées, déclencheurs
