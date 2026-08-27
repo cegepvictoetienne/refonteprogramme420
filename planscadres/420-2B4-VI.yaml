@@ -182,3 +182,5 @@ elements_competence:
     contenu_essentiel: >-
       Clause de sauvegarde de la base de données (BACKUP DATABASE);
       automatisation de la sauvegarde; gestion des fichiers de sauvegarde
+description_dans_diagramme: >-
+  MySQL, jointure, procédures stockées, déclencheur

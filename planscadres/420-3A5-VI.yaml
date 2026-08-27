@@ -278,3 +278,5 @@ elements_competence:
     contenu_essentiel: >-
       Générateur de documentation automatique (ex : phpDocumentor); manuel
       de l'utilisateur; guide des opérations
+description_dans_diagramme: >-
+  WordPress

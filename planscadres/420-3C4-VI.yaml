@@ -158,3 +158,5 @@ elements_competence:
     contenu_essentiel: >-
       Les serveurs Web; les applications Web; les injections SQL; les
       objets connectés; les types d'attaques logicielles
+description_dans_diagramme: >-
+  Sécurité prog., BD, réseau, encryption, firewall, antivirus

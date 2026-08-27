@@ -219,3 +219,5 @@ elements_competence:
       - "3 - Gestion judicieuse des branches et des conflits"
     contenu_essentiel: >-
       Branche maître; commandes Git (add, commit, push, pull, clone, etc.)
+description_dans_diagramme: >-
+  Programmation objet, MonoGame

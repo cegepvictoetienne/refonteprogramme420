@@ -211,3 +211,5 @@ elements_competence:
       - "2 - Notation claire du travail effectué"
     contenu_essentiel: >-
       Générateurs de documentation dans l'environnement choisi
+description_dans_diagramme: >-
+  API, AJAX

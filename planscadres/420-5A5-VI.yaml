@@ -253,3 +253,5 @@ elements_competence:
     contenu_essentiel: >-
       Outils de déploiement de tests (ex: Heroku); particularités de la
       mise en ligne; configuration du site
+description_dans_diagramme: >-
+  Les tendances du moment Node, PWA, angular

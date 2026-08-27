@@ -206,3 +206,5 @@ elements_competence:
       Documentation des fonctions dans le code; commentaires dans le code;
       commentaires sur les commits de Git (ex : git commit -F avec un
       fichier)
+description_dans_diagramme: >-
+  Web client (HTML, CSS, Bootstrap, Javascript)
