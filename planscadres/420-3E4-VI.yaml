@@ -1,4 +1,4 @@
-code: 420-3D4-VI
+code: 420-3E4-VI
 titre: Analyse et modélisation
 NEJ:
   - theorie: 30
@@ -14,8 +14,9 @@ departement_responsable: Informatique
 redacteurs:
   - Rivard, Étienne
   - Fréchette, Mathieu
-prealables: []
-note_prealables_absence: "Ce cours n'a aucun préalable."
+prealables: 
+  - cours: 420-2B4-VI
+    titre: Bases de données I
 prealable_a: 
   - cours: 420-4B4-VI
     titre: Architectures logicielles et assurance qualité
