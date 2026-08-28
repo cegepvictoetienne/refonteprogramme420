@@ -28,7 +28,7 @@ note_prealables: >-
   spécial.
 duree_heures: 45
 ponderation: "1-2-2"
-unites: 1 2/3
+unites: 1
 dates:
   analyse_equipe_programme: 2020-02-19
   adoption_departement: 2020-04-02
@@ -48,7 +48,7 @@ cible_formation: >-
   classes et de concevoir et exploiter une base de données.
 
 notes_preliminaires: >-
-  Le cours 420-3B4-VI : Bases de données 2 fait partie de la formation
+  Le cours 420-3B4-VI : Bases de données II fait partie de la formation
   menant au diplôme d'études collégiales (DEC) dans le programme 420.B0 :
   Techniques de l'informatique.
 
@@ -60,11 +60,11 @@ notes_preliminaires: >-
   est vue partiellement.
 
 
-  Son acquisition a débuté dans le cours 420-2B4-VI : Bases de données 1 à
+  Son acquisition a débuté dans le cours 420-2B4-VI : Bases de données I à
   la 2e session.
 
 
-  Son acquisition sera complétée dans le cours 420-4C4-VI : Mégadonnées à
+  Son acquisition sera complétée dans le cours 420-4C4-VI : Bases de données non-relationelles à
   la 4e session.
 
 epreuve_finale:
@@ -136,7 +136,7 @@ elements_competence:
       - "2 - Analyse juste des spécifications du système de gestion de base de données"
       - "3 - Formulation appropriée des instructions de création de la base de données"
     contenu_essentiel: >-
-      CREATE TABLE; INDEX; VIEW
+      CREATE TABLE; INDEX;
   - code: 00Q7-2
     titre: "Formuler des requêtes de lecture, d'insertion, de modification et de suppression de données"
     duree_heures: 20
@@ -167,9 +167,8 @@ elements_competence:
       - "3 - Cryptage approprié des données"
       - "4 - Utilisation appropriée des contraintes d'intégrité référentielle, des déclencheurs ou des transactions"
     contenu_essentiel: >-
-      Gestion des utilisateurs et des autorisations;
       contraintes d'intégrité référentielle; transactions; encryption
-      complète avec clé
+      complète avec clé; déclencheurs
   - code: 00Q7-4
     titre: "Programmer des traitements de données automatisés"
     duree_heures: 15
@@ -190,4 +189,4 @@ elements_competence:
       JSON_TABLE()
       Planification de tâches automatisées
 description_dans_diagramme: >-
-  Modélisation, Procédures stoquées, déclencheurs
+  Modélisation, Procédures stockées, déclencheurs
