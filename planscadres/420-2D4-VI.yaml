@@ -21,7 +21,7 @@ note_prealable_a_absence: "Ce cours n'est préalable à aucun autre cours."
 note_prealables: >-
   Ce cours pourrait être préalable aux cours qui ont un préalable spécial.
 duree_heures: 60
-ponderation: "2-2-1"
+ponderation: "2-2-0"
 unites: 1.67
 dates:
   analyse_equipe_programme: 2019-10-09
