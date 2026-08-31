@@ -1,5 +1,11 @@
 code: 201-4A4-VI
 titre: Géométrie et statistiques
+NEJ:
+  - theorie: 36
+  - lab: 36
+  - theorie-lab: 36
+  - raison_pedagogique: >-
+     
 programme:
   numero: "420"
   nom: Techniques de l'informatique

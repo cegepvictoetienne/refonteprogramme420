@@ -1,5 +1,11 @@
 code: 420-1D6-VI
 titre: Programmation I
+NEJ:
+  - theorie: 32
+  - lab: 32
+  - theorie-lab: 32
+  - raison_pedagogique: >-
+     Besoin accru d'accompagnement individuel durant les cours
 programme:
   numero: "420"
   nom: Techniques de l'informatique

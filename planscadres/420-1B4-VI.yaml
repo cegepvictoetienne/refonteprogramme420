@@ -1,5 +1,11 @@
 code: 420-1B4-VI
 titre: Systèmes d'exploitation
+NEJ:
+  - theorie: 24
+  - lab: 24
+  - theorie-lab: 24
+  - raison_pedagogique: >-
+     Petit local, équipement limité (ordinateurs)
 programme:
   numero: "420"
   nom: Techniques de l'informatique

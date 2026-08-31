@@ -1,5 +1,11 @@
 code: 420-4C4-VI
 titre: Bases de données non-relationelles
+NEJ:
+  - theorie: 36
+  - lab: 36
+  - theorie-lab: 36
+  - raison_pedagogique: >-
+     
 programme:
   numero: "420"
   nom: Techniques de l'informatique
