@@ -1,5 +1,11 @@
 code: 420-3A3-VI
 titre: Systèmes embarqués
+NEJ:
+  - theorie: 24
+  - lab: 24
+  - theorie-lab: 24
+  - raison_pedagogique: >-
+     Espace requis pour tout le matériel utilisé en classe par les élèves
 programme:
   numero: "420"
   nom: Techniques de l'informatique

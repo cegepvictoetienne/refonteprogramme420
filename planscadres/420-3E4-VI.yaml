@@ -1,5 +1,11 @@
 code: 420-3D4-VI
 titre: Analyse et modélisation
+NEJ:
+  - theorie: 36
+  - lab: 36
+  - theorie-lab: 36
+  - raison_pedagogique: >-
+     
 programme:
   numero: "420"
   nom: Techniques de l'informatique

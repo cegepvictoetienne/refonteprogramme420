@@ -1,5 +1,11 @@
 code: 420-5A5-VI
 titre: Développement Web III
+NEJ:
+  - theorie: 36
+  - lab: 36
+  - theorie-lab: 36
+  - raison_pedagogique: >-
+     
 programme:
   numero: "420"
   nom: Techniques de l'informatique

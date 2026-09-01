@@ -1,5 +1,11 @@
 code: 420-6C3-VI
 titre: Projet individuel
+NEJ:
+  - theorie: 36
+  - lab: 36
+  - theorie-lab: 36
+  - raison_pedagogique: >-
+     
 programme:
   numero: "420"
   nom: Techniques de l'informatique

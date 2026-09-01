@@ -1,5 +1,11 @@
 code: 420-1E6-VI
 titre: Initiation à la programmation Web
+NEJ:
+  - theorie: 36
+  - lab: 36
+  - theorie-lab: 36
+  - raison_pedagogique: >-
+     
 programme:
   numero: "420"
   nom: Techniques de l'informatique
