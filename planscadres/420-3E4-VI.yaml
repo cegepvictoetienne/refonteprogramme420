@@ -30,3 +30,126 @@ dates:
   analyse_equipe_programme: 
   adoption_departement: 
   approbation_service_etudes: 
+
+competences:
+  - code: 00SY
+    titre: "Collaborer à la conception d'applications"
+    elements:
+      - "1 - Participer à l'élaboration du cahier des charges fonctionnel"
+      - "2 - Participer à la conception générale des applications"
+      - "3 - Effectuer la conception détaillée"
+      - "4 - Produire des documents de conception"
+
+cible_formation: >-
+  
+
+notes_preliminaires: >-
+  
+
+epreuve_finale:
+  ponderation: "45 %"
+  performance_finale_exigee: >-
+    
+  contexte_realisation: >-
+    
+  criteres_evaluation:
+    
+
+demarche_pedagogique_suggeree: >-
+  
+
+mediagraphie:
+ 
+materiel_requis: >-
+  Un ordinateur portable.
+
+elements_competence:
+  - code: 00SY-1
+    titre: "Participer à l'élaboration du cahier des charges fonctionnel"
+    duree_heures: 6
+    habiletes:
+      - "Analyser la demande et les exigences de la cliente ou du client"
+      - "Analyser les caractéristiques de l'équipement informatique et des applications utilisés par la cliente ou le client"
+      - "Évaluer la pertinence des avis sur la nature des besoins"
+      - "Évaluer la pertinence des avis sur les normes, les méthodes et les bonnes pratiques à utiliser en matière de développement d'applications"
+    criteres_performance:
+      - "1 - Analyse juste de la demande et des exigences de la cliente ou du client"
+      - "2 - Analyse juste des caractéristiques de l'équipement informatique et des applications utilisés par la cliente ou le client"
+      - "3 - Pertinence des avis sur la nature des besoins"
+      - "4 - Pertinence des avis sur les normes, les méthodes et les bonnes pratiques à utiliser en matière de développement d'applications"
+    contenu_essentiel: >-
+      Vocabulaire d'analyse; méthodes d'analyse; théorie sur les
+      entrevues; utilisation des 'user-stories' pour produire le cahier de
+      charge (ceux-ci seront utilisés plus tard dans le diagramme de
+      séquences du dossier de conception)
+  - code: 00SY-2
+    titre: "Participer à la conception générale des applications"
+    duree_heures: 10
+    habiletes:
+      - "Évaluer les composantes logiciels et matériels à utiliser"
+      - "Vérifier la pertinence des mesures de sécurité à mettre en place"
+      - "Vérifier la pertinence des avis sur les stratégies de tests à utiliser"
+      - "Vérifier la pertinence des avis sur la faisabilité de la solution informatique"
+    criteres_performance:
+      - "2 - Évaluation juste des composants logiciels et matériels à utiliser"
+      - "3 - Pertinence des avis sur les mesures de sécurité à mettre en place"
+      - "4 - Pertinence des avis sur les stratégies de tests à utiliser"
+      - "5 - Pertinence des avis sur la faisabilité de la solution informatique"
+    contenu_essentiel: >-
+      Relation entre les user-stories du cahier de charge et les besoins
+      techniques; définition de contraintes (délai, budget, équipement,
+      …); conception de tableau des besoins techniques; dessin d'une ou
+      deux maquettes de l'interface principale
+  - code: 00SY-3
+    titre: "Effectuer la conception détaillée"
+    duree_heures: 34
+    habiletes:
+      - "Modéliser une base de données conforme au besoin"
+      - "Déterminer les données initiales d'une base de données"
+      - "Décrire la logique de l'application et de l'interface à générer ou à programmer"
+      - "Modéliser en orienté objet conformément aux principes d'encapsulation, d'héritage, de composition ou de polymorphisme"
+      - "Produire les algorithmes"
+      - "Respecter les règles de nomenclature"
+    criteres_performance:
+      - "1 - Modélisation d'une base de données conforme au besoin"
+      - "2 - Détermination claire des données initiales d'une base de données"
+      - "3 - Description claire de la logique applicative et de l'interface à générer ou à programmer"
+      - "4 - Modélisation orientée objet conforme aux principes d'encapsulation, d'héritage, de composition ou de polymorphisme"
+      - "5 - Choix ou production judicieux des algorithmes"
+      - "6 - Respect des règles de nomenclature"
+    contenu_essentiel: >-
+      Analyse des données pour concevoir le diagramme de classe; les
+      différentes formes de normalisation; relation entre les différentes
+      classes; usage d'outils tels que Draw.io, MySQL WorkBench,
+      PhpMyAdmin; production des gabarits contenant des cas d'utilisation
+      ainsi que des diagrammes; interfaces utilisateurs (maquettage,
+      utilisabilité); conception orientée objet (UML, principes SOLID,
+      KISS, YAGNI, introduction à GRASP); validation des différentes
+      interfaces (prototypes) selon le modèle de données.
+  - code: 00SY-4
+    titre: "Produire des documents de conception"
+    duree_heures: 10
+    habiletes:
+      - "Représenter les différents modèles (prototypes)"
+      - "Rédiger des plans de tests unitaires, d'intégration, fonctionnels ou d'acceptation"
+      - "Participer à la revue de conception"
+      - "Utiliser du vocabulaire spécifique"
+      - "Respecter les normes, les méthodes et les bonnes pratiques en matière de développement d'applications"
+    criteres_performance:
+      - "1 - Représentation graphique correcte des différents modèles"
+      - "2 - Rédaction correcte des plans de tests unitaires, d'intégration, fonctionnels ou d'acceptation"
+      - "3 - Participation active à la revue de conception"
+      - "4 - Utilisation du vocabulaire approprié"
+      - "5 - Respect des normes, des méthodes et des bonnes pratiques en matière de développement d'applications"
+    contenu_essentiel: >-
+      Établissement du lien entre le diagramme des classes et les cas
+      d'utilisation; description et explication des cas d'utilisation;
+      tests d'intégration, tests fonctionnels et tests d'acceptation en
+      fonction des éléments présents dans les gabarits; compréhension des
+      points importants du dossier et des règles de mise en page pour la
+      production des rapports (la production du rapport est régie par un
+      protocole); le gabarit est appuyé par quelques images de l'interface
+      graphique utilisateur, images produites par des outils tels que
+      Draw.io
+description_dans_diagramme: >-
+  Analyse, Agile, interfaces projets fictifs
