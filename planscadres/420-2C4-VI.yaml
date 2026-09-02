@@ -5,7 +5,7 @@ NEJ:
   - lab: 27
   - theorie-lab: 27
   - raison_pedagogique: >-
-     
+     Le local C205, obligatoire pour ce cours, ne peut contenir que 32 personnes.
 programme:
   numero: "420"
   nom: Techniques de l'informatique
@@ -122,7 +122,7 @@ demarche_pedagogique_suggeree: >-
   apprentissage par l'élève.
 
 mediagraphie:
-  - "Le cours utilisera une partie des notes de la certification CCNA de l'académie Cisco : https://netacad.com"
+  - Site Web de notes de cours
 
 materiel_requis: >-
   Ordinateur portable
@@ -207,9 +207,8 @@ elements_competence:
       - "2 - Configuration correcte des services"
       - "3 - Notation claire des configurations effectuées"
     contenu_essentiel: >-
-      Services : DHCP, DNS, HTTP, SMTP, POP, IMAP, SMB, (S)FTP, SSH, etc.;
-      serveur de partage multimédia (Plex, Kodi, etc); objets connectés
-      (caméras, assistants intelligents, etc)
+      Services : DHCP, DNS, HTTP, IMAP, NTP, SMB, (S)FTP, SSH, etc.;
+      
   - code: 00Q5-5
     titre: "Mettre en service le réseau local"
     duree_heures: 10
