@@ -73,10 +73,12 @@ notes_preliminaires: >-
   technique à la 2e session.
 
 
-  Ce cours vise l'atteinte complète de la compétence 00Q5 : Effectuer le
-  déploiement d'un réseau informatique local.
+  La compétence 00Q5 : Effectuer le déploiement d'un réseau informatique local est 
+  vue partiellement. 
 
-
+  Son acquisition sera complétée dans le cours 420-3D4-VI : Réseautique II 
+  à la 3e session.
+  
   Le cours doit être dans le local de réseautique C-205.
 
 epreuve_finale:
@@ -120,7 +122,7 @@ demarche_pedagogique_suggeree: >-
   apprentissage par l'élève.
 
 mediagraphie:
-  - "Le cours utilisera une partie des notes de la certification CCNA de l'académie Cisco : https://netacad.com"
+  - Site Web de notes de cours
 
 materiel_requis: >-
   Ordinateur portable
@@ -205,9 +207,8 @@ elements_competence:
       - "2 - Configuration correcte des services"
       - "3 - Notation claire des configurations effectuées"
     contenu_essentiel: >-
-      Services : DHCP, DNS, HTTP, SMTP, POP, IMAP, SMB, (S)FTP, SSH, etc.;
-      serveur de partage multimédia (Plex, Kodi, etc); objets connectés
-      (caméras, assistants intelligents, etc)
+      Services : DHCP, DNS, HTTP, IMAP, NTP, SMB, (S)FTP, SSH, etc.;
+      
   - code: 00Q5-5
     titre: "Mettre en service le réseau local"
     duree_heures: 10

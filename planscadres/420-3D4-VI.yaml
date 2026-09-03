@@ -22,9 +22,127 @@ note_prealable_a_absence: "Ce cours n'est préalable à aucun autre cours."
 note_prealables: >-
   Ce cours pourrait être préalable aux cours qui ont un préalable spécial.
 duree_heures: 60
-ponderation: "2-2-2"
+ponderation: "2-2-1"
 unites: 2
 dates:
   analyse_equipe_programme: 
   adoption_departement: 
   approbation_service_etudes: 
+
+competences:
+  - code: 00Q4
+    titre: "Exploiter des logiciels de bureautique"
+    elements:
+      - "3 - Produire des diagrammes ou des plans"
+  - code: 00Q5
+    titre: "Effectuer le déploiement d'un réseau informatique local"
+    elements:
+      - "4 - Installer des services de partage de ressources"
+      - "5 - Mettre en service le réseau local"
+
+
+cible_formation: >-
+  À la fin du cours, l'élève sera capable de déployer un réseau
+  informatique et des services infonuagiques.
+
+notes_preliminaires: >-
+  Le cours 420-3D4-VI : Réseautique II fait partie de la formation menant au
+  diplôme d'études collégiales (DEC) dans le programme 420.B0 : Techniques
+  de l'informatique.
+
+  Il est offert en 3e session.
+
+  Plusieurs compétences sont touchées par ce cours.
+
+  La compétence 00Q4 : Exploiter des logiciels de bureautique est vue
+  partiellement.
+
+  L'atteinte de la compétence 00Q5 : Effectuer le déploiement d'un réseau informatique 
+  local est complétée dans ce cours.
+
+  Son acquisition a débuté dans le cours 420-2C4-VI : Réseautique I
+  à la 2e session.
+
+  Le cours doit être dans le local de réseautique C-205.
+
+epreuve_finale:
+  ponderation: "40 %"
+  performance_finale_exigee: >-
+    À partir d'une mise en situation, l'élève aura à planifier et à implanter un réseau et des services infonuagiques.
+  contexte_realisation: >-
+    L'épreuve finale sera un examen individuel d'une durée de 2 heures qui
+    se déroulera dans une classe de portables avec le portable de
+    l'étudiant à la semaine 15. L'étudiant utilisera un compte Azure  
+    pour implanter un réseau et des services infonuagiques. 
+    Les notes de cours fournies par l'enseignant.e ainsi que les notes prises 
+    par l'étudiant.e seront permises. L'accès complet à internet est permis.
+  criteres_evaluation:
+    - "Compétence 00Q5 : Effectuer le déploiement d'un réseau informatique local"
+    - Interprétation juste de la demande
+    - Détermination correcte des services à installer
+    - Choix approprié des ressources de réseau à installer
+    - Configuration correcte des services infonuagiques dans Azure
+
+demarche_pedagogique_suggeree: >-
+  Les étudiants travailleront sur un environnement Azure.
+  Courtes périodes d'enseignement théorique suivies
+  d'application au fur et à mesure à l'aide d'exercices formatifs. Des
+  références de sites Web seront fournies par le professeur. L'élève devra
+  enrichir ces sources d'information par ses propres recherches. Des
+  activités seront proposées pour favoriser la coopération entre les
+  élèves, l'échange des connaissances et la prise en charge de son
+  apprentissage par l'élève.
+
+mediagraphie:
+  - Site Web de notes de cours
+
+materiel_requis: >-
+  Ordinateur portable
+
+elements_competence:
+  - code: 00Q4-3
+    titre: "Produire des diagrammes ou des plans"
+    duree_heures: 5
+    habiletes:
+      - "Personnaliser l'interface du logiciel de dessin."
+      - "Choisir l'échelle du format."
+      - "Représenter les éléments géométriques."
+      - "Utiliser une banque de symboles."
+      - "Rédiger les annotations."
+      - "Respecter les normes de présentation."
+    criteres_performance:
+      - "1 - Personnalisation correcte de l'interface du logiciel de dessin"
+      - "2 - Choix de l'échelle et du format en fonction des exigences de représentation"
+      - "3 - Représentation correcte d'éléments géométriques"
+      - "4 - Utilisation d'une banque de symboles en fonction des exigences de représentation"
+      - "5 - Rédaction correcte et claire des annotations et du cartouche"
+      - "6 - Respect des normes de présentation"
+    contenu_essentiel: >-
+      Diagrammes de réseau; symboles et structures schématiques de l'industrie.
+  - code: 00Q5-4
+    titre: "Installer des services de partage de ressources"
+    duree_heures: 40
+    habiletes:
+      - "Appliquer la procédure d'installation de services"
+      - "Configurer les services"
+      - "Journaliser les configurations"
+    criteres_performance:
+      - "1 - Application rigoureuse de la procédure d'installation des services"
+      - "2 - Configuration correcte des services"
+      - "3 - Notation claire des configurations effectuées"
+    contenu_essentiel: >-
+      Services : Active Directory,  Microsoft Entra ID, Azure Backup;
+      Gestion de VM Azure pour déploiement de services divers 
+  - code: 00Q5-5
+    titre: "Mettre en service le réseau local"
+    duree_heures: 15
+    habiletes:
+      - "Appliquer des plans de tests"
+      - "Effectuer des correctifs"
+      - "Optimiser le fonctionnement du réseau"
+    criteres_performance:
+      - "1 - Application rigoureuse des plans de tests"
+      - "2 - Pertinence des correctifs"
+      - "3 - Fonctionnement optimal du réseau"
+    contenu_essentiel: >-
+      Azure Networking; 
