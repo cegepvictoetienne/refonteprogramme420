@@ -1,9 +1,11 @@
 code: 420-3D4-VI
 titre: Réseautique II
 NEJ:
+  - theorie: 27
   - lab: 27
+  - theorie-lab: 27
   - raison_pedagogique: >-
-     Le local C205, obligatoire pour ce cours, ne peut contenir que 32 personnes.
+     
 programme:
   numero: "420"
   nom: Techniques de l'informatique
