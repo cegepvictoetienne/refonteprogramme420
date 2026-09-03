@@ -49,7 +49,7 @@ cible_formation: >-
   prévention en matière de sécurité de l'information.
 
 notes_preliminaires: >-
-  Le cours 420-3C4-VI : Piratage éthique fait partie de la formation
+  Le cours 420-3C4-VI : Sécurité informatique fait partie de la formation
   menant au diplôme d'études collégiales (DEC) dans le programme 420.B0 :
   Techniques de l'informatique.
 
@@ -60,10 +60,6 @@ notes_preliminaires: >-
   Ce cours vise l'atteinte complète de la compétence 00Q8 : Effectuer des
   opérations de prévention en matière de sécurité de l'information.
 
-
-  Le contenu du cours de piratage éthique se base essentiellement sur la
-  certification mondialement renommée Certified Ethical Hacker (CEH)
-  https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/
 
 epreuve_finale:
   ponderation: "40 %"
@@ -93,7 +89,9 @@ epreuve_finale:
     - Utilisation appropriée de mécanismes d'authentification et d'autorisation sécuritaires
 
 demarche_pedagogique_suggeree: >-
-  Pour simuler le comportement d'un pirate, l'élève aura à travailler sur
+  Protéger des actifs informationnels, un expert en sécurité doit connaître
+  les menaces potentielles et les méthodes de protection. 
+  Pour comprendre les outils utilisés par les pirates, l'élève aura à travailler sur
   un système d'exploitation Linux qui démarre dans une machine virtuelle.
   Courtes périodes d'enseignement théorique suivies d'application au fur
   et à mesure à l'aide d'exercices formatifs. Des références de sites Web
@@ -106,10 +104,10 @@ demarche_pedagogique_suggeree: >-
   l'épreuve finale.
 
 mediagraphie:
-  - "Le contenu du cours est inspiré du site : https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/"
+  - Le site de notes de cours 
 
 materiel_requis: >-
-  Clé USB 16Go et plus; ordinateur portable
+  ordinateur portable
 
 elements_competence:
   - code: 00Q8-1
@@ -144,10 +142,10 @@ elements_competence:
       - "4 - Reconnaissance de logiciels antivirus."
       - "5 - Utilisation appropriée des utilitaires de cryptographie"
     contenu_essentiel: >-
-      Les antivirus; les coupe-feu; les VPN; les systèmes de prévention et
-      de détection d'intrusions; les pare-feu physiques nouvelle génération
-      (ex: Cisco ASA); les menaces réseau; les types d'attaques réseau; les
-      tests de pénétration
+      Les antivirus; les coupe-feu; les systèmes de prévention et
+      de détection d'intrusions; les coupe-feu physiques nouvelle génération;
+      les menaces réseau; les types d'attaques réseau; les
+      tests de pénétration; droits d'accès; architecture de confiance zéro;
   - code: 00Q8-3
     titre: "Appliquer des mesures de sécurité reconnues pour protéger une application"
     duree_heures: 20
@@ -163,6 +161,7 @@ elements_competence:
       - "4 - Utilisation appropriée des bibliothèques de cryptographie"
     contenu_essentiel: >-
       Les serveurs Web; les applications Web; les injections SQL; les
-      objets connectés; les types d'attaques logicielles
+      objets connectés; les types d'attaques logicielles; outil de gestion 
+      d'utilisateurs et de rôles infonuagiques;
 description_dans_diagramme: >-
-  Sécurité prog., BD, réseau, encryption, firewall, antivirus
+  Sécurité prog., réseau, cryptographie, coupe-feu, antivirus
