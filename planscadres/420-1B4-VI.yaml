@@ -1,9 +1,9 @@
 code: 420-1B4-VI
 titre: Systèmes d'exploitation
 NEJ:
-  - theorie: 24
-  - lab: 24
-  - theorie-lab: 24
+  - theorie: 27
+  - lab: 27
+  - theorie-lab: 27
   - raison_pedagogique: >-
      Petit local, équipement limité (ordinateurs)
 programme:

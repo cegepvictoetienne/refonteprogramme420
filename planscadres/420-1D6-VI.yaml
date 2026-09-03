@@ -1,9 +1,9 @@
 code: 420-1D6-VI
 titre: Programmation I
 NEJ:
-  - theorie: 32
-  - lab: 32
-  - theorie-lab: 32
+  - theorie: 30
+  - lab: 30
+  - theorie-lab: 30
   - raison_pedagogique: >-
      Besoin accru d'accompagnement individuel durant les cours
 programme:
