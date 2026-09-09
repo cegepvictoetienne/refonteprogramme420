@@ -15,8 +15,9 @@ redacteurs:
   - Croteau, Carine
   - Ouellet, Alexandre
   - Tousignant, Simon
-prealables: []
-note_prealables_absence: "Ce cours n'a aucun préalable."
+prealables: 
+  - cours: 420-5B5-VI
+    titre: Projet intégrateur I
 prealables_speciaux: >-
   L'élève doit avoir réussi 25 des 27 cours de formation spécifique des
   sessions 1 à 5 dont 420-5B5-VI ainsi que 8 cours de formation générale

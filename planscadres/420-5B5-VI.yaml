@@ -14,8 +14,11 @@ departement_responsable: Informatique
 redacteurs:
   - Croteau, Carine
   - Ouellet, Alexandre
-prealables: []
-note_prealables_absence: "Ce cours n'a aucun préalable."
+prealables: 
+  - cours: 420-4B4-VI
+    titre: Architectures logicielles et assurance qualité
+  - cours: 420-4A6-VI
+    titre: Programmation III
 prealables_speciaux: >-
   L'élève doit avoir réussi 21 des 22 cours de formation spécifique des
   sessions 1 à 4 dont 420-4B4-VI et 420-4A6-VI ainsi que 6 cours de
