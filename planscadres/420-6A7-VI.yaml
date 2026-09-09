@@ -1,11 +1,11 @@
 code: 420-6A7-VI
 titre: Projet intégrateur II
 NEJ:
-  - theorie: 30
-  - lab: 30
-  - theorie-lab: 30
+  - theorie: 26
+  - lab: 26
+  - theorie-lab: 26
   - raison_pedagogique: >-
-     
+     Suivi soutenu par l'enseignant impossible si le groupe est plus grand
 programme:
   numero: "420"
   nom: Techniques de l'informatique
