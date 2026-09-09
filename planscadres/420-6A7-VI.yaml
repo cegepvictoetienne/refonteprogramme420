@@ -1,11 +1,11 @@
 code: 420-6A7-VI
 titre: Projet intégrateur II
 NEJ:
-  - theorie: 30
-  - lab: 30
-  - theorie-lab: 30
+  - theorie: 26
+  - lab: 26
+  - theorie-lab: 26
   - raison_pedagogique: >-
-     
+     Suivi soutenu par l'enseignant impossible si le groupe est plus grand
 programme:
   numero: "420"
   nom: Techniques de l'informatique
@@ -15,8 +15,9 @@ redacteurs:
   - Croteau, Carine
   - Ouellet, Alexandre
   - Tousignant, Simon
-prealables: []
-note_prealables_absence: "Ce cours n'a aucun préalable."
+prealables: 
+  - cours: 420-5B5-VI
+    titre: Projet intégrateur I
 prealables_speciaux: >-
   L'élève doit avoir réussi 25 des 27 cours de formation spécifique des
   sessions 1 à 5 dont 420-5B5-VI ainsi que 8 cours de formation générale

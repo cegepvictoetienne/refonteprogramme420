@@ -1,11 +1,11 @@
 code: 420-6A3-VI
 titre: Objets connectés
 NEJ:
-  - theorie: 30
-  - lab: 30
-  - theorie-lab: 30
+  - theorie: 24
+  - lab: 24
+  - theorie-lab: 24
   - raison_pedagogique: >-
-     
+     Espace requis pour tout le matériel utilisé en classe par les élèves (3 élèves par table)
 programme:
   numero: "420"
   nom: Techniques de l'informatique
