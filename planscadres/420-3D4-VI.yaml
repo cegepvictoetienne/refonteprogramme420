@@ -94,7 +94,9 @@ demarche_pedagogique_suggeree: >-
   apprentissage par l'élève.
 
 mediagraphie:
-  - Site Web de notes de cours
+  - https://learn.microsoft.com/fr-ca/entra/
+    https://docs.kernel.org/networking
+    https://learningnetwork.cisco.com/
 
 materiel_requis: >-
   Ordinateur portable
