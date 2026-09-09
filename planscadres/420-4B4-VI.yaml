@@ -18,6 +18,8 @@ redacteurs:
 prealables:
   - cours: 420-3B4-VI
     titre: Bases de données II
+  - cours: 420-3E4-VI
+    titre: Analyse et modélisation
   - cours: 420-2A6-VI
     titre: Programmation II
 prealable_a: []
