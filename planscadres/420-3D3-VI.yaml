@@ -1,5 +1,5 @@
-code: 420-4B4-VI
-titre: Architectures logicielles et assurance qualité
+code: 420-3D3-VI
+titre: Analyse et modélisation
 NEJ:
   - theorie: 30
   - lab: 30
@@ -12,25 +12,24 @@ programme:
 profil: "B0 : Profil par défaut"
 departement_responsable: Informatique
 redacteurs:
+  - Rivard, Étienne
   - Fréchette, Mathieu
-  - Ouellet, Alexandre
-  - Tousignant, Simon
-prealables:
-  - cours: 420-3B4-VI
-    titre: Bases de données 2
-  - cours: 420-3E4-VI
-    titre: Analyse et modélisation
-prealable_a: []
-note_prealable_a_absence: "Ce cours n'est préalable à aucun autre cours."
+prealables: 
+  - cours: 420-2B4-VI
+    titre: Bases de données I
+prealable_a: 
+  - cours: 420-4B4-VI
+    titre: Architectures logicielles et assurance qualité
+note_prealable_a_absence: 
 note_prealables: >-
   Ce cours pourrait être préalable aux cours qui ont un préalable spécial.
 duree_heures: 60
 ponderation: "2-2-2"
-unites: 2
+unites: 1.67
 dates:
-  analyse_equipe_programme: 2023-11-09
-  adoption_departement: 2023-12-18
-  approbation_service_etudes: 2026-02-10
+  analyse_equipe_programme: 
+  adoption_departement: 
+  approbation_service_etudes: 
 
 competences:
   - code: 00SY
@@ -42,79 +41,25 @@ competences:
       - "4 - Produire des documents de conception"
 
 cible_formation: >-
-  À la fin du cours, l'élève sera capable de collaborer à la conception
-  d'applications consistant à l'intégration des éléments des deux dossiers
-  (analyse des besoins & conception d'applications).
+  
 
 notes_preliminaires: >-
-  Le cours 420-4B4-VI : Conception de systèmes fait partie de la formation
-  menant au diplôme d'études collégiales (DEC) dans le programme 420.B0 :
-  Techniques de l'informatique.
-
-
-  Il est offert en 4e session.
-
-
-  La compétence 00SY : Collaborer à la conception d'applications est vue
-  partiellement.
-
-
-  Son atteinte sera complétée dans les cours suivants : 420-5B5-VI :
-  Projet intégrateur 1 à la 5e session (profil B0 : Profil par défaut);
-  420-6A7-VI : Projet intégrateur 2 à la 6e session (profil B0 : Profil par
-  défaut).
+  
 
 epreuve_finale:
   ponderation: "45 %"
   performance_finale_exigee: >-
-    Production des principales parties des deux (2) dossiers d'analyse :
-    1) Analyse des besoins aussi appelé dossier d'analyse. 2) Dossier de
-    conception, aussi appelé dossier fonctionnel.
+    
   contexte_realisation: >-
-    Individuellement, en classe, avec l'ordinateur portable. En deux
-    étapes, à partir d'une mise en situation : (1) Analyse des besoins,
-    semaine 15, temps alloué de 2h. (2) Dossier de conception, semaine 16,
-    temps alloué de 3h. Cette épreuve se déroulera en 2 étapes (1) et (2)
-    définies précédemment. Pour la première étape, il s'agira de produire
-    un rapport d'analyse des besoins (aussi appelé dossier d'analyse ou
-    encore analyse préliminaire) à partir des données fournies pour une
-    situation précise. Pour la seconde étape, il s'agira de produire un
-    rapport de conception (aussi appelé dossier fonctionnel, analyse
-    fonctionnelle, ou encore dossier de conception) à partir des données
-    fournies d'une situation provenant de l'analyse des besoins. Le cas
-    développé dans cette seconde partie (le dossier de conception) n'est
-    pas nécessairement le même cas étudié dans le dossier d'analyse (de
-    sorte à dissuader toute sorte de plagiat ou de communication avant
-    l'examen). Toutefois, les données seront fournies pour le dossier de
-    conception de sorte que l'élève n'ait pas à craindre d'avoir manqué la
-    première partie : tout le monde démarre le dossier de conception sur
-    la même base fournie par l'enseignant (les documents clés de l'analyse
-    des besoins seront fournis pour la production du dossier fonctionnel /
-    dossier de conception).
+    
   criteres_evaluation:
-    - Analyse juste de la demande et des exigences de la cliente ou du client
-    - Pertinence des avis sur les mesures de sécurité à mettre en place
-    - Modélisation d'une base de données conforme au besoin
-    - Modélisation adéquate du système proposé
-    - Détermination claire des données initiales d'une base de données
-    - Description claire de la logique applicative et de l'interface à générer ou à programmer
+    
 
 demarche_pedagogique_suggeree: >-
-  Les méthodes pédagogiques à privilégier : études de cas, mises en
-  situation, approche par problèmes, utilisation du tableau interactif
-  pour diverses démonstrations ou explications de la théorie, utilisation
-  de sites Internet pour la recherche, utilisation des outils d'aide
-  intégrés au logiciel. Le contexte dans lequel seront réalisées les
-  activités d'apprentissage sera en classe par des exercices variés, des
-  présentations et des mises en situation. La plupart des travaux pourront
-  se faire en équipe. Tenter de garder au moins une rencontre avec un
-  client réel lors de l'analyse des besoins.
+  
 
 mediagraphie:
-  - "Techniques de développement de systèmes, Notes de cours"
-  - "LEFEBVRE, Michel. L'analyse objet avec UML par l'exemple et la pratique, Éd. Michel Lefebvre, 2008"
-  - "LONCHAMP, Jacques. Analyse des besoins pour le développement logiciel, Recueil et spécifications, démarches itératives et agiles, Éd. DUNOD, 2015"
-
+ 
 materiel_requis: >-
   Un ordinateur portable.
 
