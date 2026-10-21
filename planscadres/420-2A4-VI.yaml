@@ -16,17 +16,17 @@ redacteurs:
   - Lagacé, Christiane
 prealables:
   - cours: 420-1D6-VI
-    titre: Programmation I
-  - cours: 420-1E6-VI
-    titre: Initiation à la programmation Web
+    titre: Programmation 1
+  - cours: 420-1F6-VI
+    titre: Initiation au développement Web
 prealable_a:
   - cours: 420-2B4-VI
-    titre: Bases de données I
+    titre: Bases de données 1
   - cours: 420-3A5-VI
-    titre: Développement Web II
-  - cours: 420-3C4-VI
+    titre: Développement Web 2
+  - cours: 420-3F4-VI
     titre: Sécurité informatique
-  - cours: 420-4A4-VI
+  - cours: 420-4E4-VI
     titre: Développement de services Web
 note_prealables: >-
   Ce cours pourrait également être préalable aux cours qui ont un préalable

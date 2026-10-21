@@ -16,11 +16,11 @@ redacteurs:
   - Taleb, Frédérik
 prealables:
   - cours: 420-2A6-VI
-    titre: Programmation II
+    titre: Programmation 2
   - cours: 201-4A4-VI
     titre: Géométrie et statistiques
 prealable_a:
-  - cours: 420-6B3-VI
+  - cours: 420-6F3-VI
     titre: Simulations et jeux immersifs
 note_prealables: >-
   Ce cours pourrait également être préalable aux cours qui ont un préalable

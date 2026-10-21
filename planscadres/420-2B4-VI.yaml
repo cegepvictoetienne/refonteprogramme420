@@ -16,15 +16,15 @@ redacteurs:
   - Taleb, Frédérik
 prealables:
   - cours: 420-1D6-VI
-    titre: Programmation I
+    titre: Programmation 1
   - cours: 420-2A4-VI
-    titre: Développement Web I
+    titre: Développement Web 1
     type: Corequis
 prealable_a:
-  - cours: 420-3B4-VI
-    titre: Bases de données II
-  - cours: 420-3C4-VI
-    titre: Piratage éthique
+  - cours: 420-3D4-VI
+    titre: Bases de données 2
+  - cours: 420-3F4-VI
+    titre: Sécurité informatique
 note_prealables: >-
   Ce cours pourrait également être préalable aux cours qui ont un préalable
   spécial.

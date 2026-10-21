@@ -15,7 +15,7 @@ redacteurs:
   - Croteau, Carine
   - Taleb, Frédérik
 prealables:
-  - cours: 420-3B4-VI
+  - cours: 420-3D4-VI
     titre: Bases de données 2
 prealable_a:
   - cours: 420-5A5-VI

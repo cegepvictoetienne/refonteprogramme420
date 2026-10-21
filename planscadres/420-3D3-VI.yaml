@@ -16,10 +16,10 @@ redacteurs:
   - Fréchette, Mathieu
 prealables: 
   - cours: 420-2B4-VI
-    titre: Bases de données I
+    titre: Bases de données 1
 prealable_a: 
-  - cours: 420-4B4-VI
-    titre: Architectures logicielles et assurance qualité
+  - cours: 420-4F4-VI
+    titre: Architecture logicielle et assurance qualité
 note_prealable_a_absence: 
 note_prealables: >-
   Ce cours pourrait être préalable aux cours qui ont un préalable spécial.

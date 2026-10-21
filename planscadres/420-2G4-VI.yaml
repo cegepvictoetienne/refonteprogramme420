@@ -18,7 +18,7 @@ prealables:
   - cours: 201-1A3-VI
     titre: Mathématiques de l'ordinateur
 prealable_a:
-  - cours: 420-3C4-VI
+  - cours: 420-3F4-VI
     titre: Sécurité informatique
 note_prealables: >-
   Ce cours pourrait également être préalable aux cours qui ont un préalable
