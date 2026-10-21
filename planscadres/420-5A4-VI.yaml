@@ -17,6 +17,8 @@ redacteurs:
 prealables:
   - cours: 420-2A6-VI
     titre: Programmation II
+  - cours: 201-4A4-VI
+    titre: Géométrie et statistiques
 prealable_a:
   - cours: 420-6B3-VI
     titre: Simulations et jeux immersifs
