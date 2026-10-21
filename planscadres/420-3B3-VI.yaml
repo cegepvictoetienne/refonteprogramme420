@@ -120,8 +120,8 @@ elements_competence:
     contenu_essentiel: >-
       Analyse des données pour concevoir le diagramme de classe; les
       différentes formes de normalisation; relation entre les différentes
-      classes; usage d'outils tels que Draw.io, MySQL WorkBench,
-      PhpMyAdmin; production des gabarits contenant des cas d'utilisation
+      classes; usage d'outils tels que Draw.io, MySQL WorkBench;
+      production des gabarits contenant des cas d'utilisation
       ainsi que des diagrammes; interfaces utilisateurs (maquettage,
       utilisabilité); conception orientée objet (UML, principes SOLID,
       KISS, YAGNI, introduction à GRASP); validation des différentes

@@ -116,8 +116,7 @@ mediagraphie:
   - "Les notes seront disponibles en ligne sur la plateforme du cours."
 
 materiel_requis: >-
-  Ordinateur portable; environnement de développement intégré (ex :
-  PHPStorm)
+  Ordinateur portable; environnement de développement intégré 
 
 elements_competence:
   - code: 00Q2-1

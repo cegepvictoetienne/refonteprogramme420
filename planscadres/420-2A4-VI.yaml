@@ -125,7 +125,7 @@ demarche_pedagogique_suggeree: >-
   absolument les compléter afin d'être prêts pour l'épreuve finale.
 
 mediagraphie:
-  - "Documentation officielle PHP : https://www.php.net/"
+  - "Documentation officielle Python : https://docs.python.org/3/"
   - "Documentation officielle MySQL : https://dev.mysql.com/"
 
 materiel_requis: >-
@@ -221,12 +221,12 @@ elements_competence:
       - "4 - Programmation correcte de la transformation des données en information"
       - "5 - Application rigoureuse des techniques de programmation sécurisée"
     contenu_essentiel: >-
-      Comprendre les interactions entre client et serveur; PHP : syntaxe,
+      Comprendre les interactions entre client et serveur; Python : syntaxe,
       fonctions, etc.; un monde sans état (utilisation de cookies, GET,
       POST, sessions); interactions avec la base de données (ex : mysqli ou
       PDO); sécurité HTTPS; importance de la validation côté serveur;
       injections SQL (requêtes paramétrées); attaques XSS
-      (htmlspecialchars()); empêcher PHP d'afficher des erreurs en mode
+      (html.escape()); empêcher Python d'afficher des erreurs en mode
       production; fichiers de journalisation (.log); etc.
   - code: 00SU-6
     titre: "Programmer la logique applicative du côté client"
@@ -281,7 +281,7 @@ elements_competence:
       - "5 - Respect des exigences de référencement"
     contenu_essentiel: >-
       Notion de sous-domaine (ex : developpement.mondomaine.com); versions
-      de bibliothèques chez l'hébergeur (ex : PHP 5.6 vs 7.X); déploiement
+      de bibliothèques chez l'hébergeur; déploiement
       d'une base de données chez l'hébergeur; ajustement d'une base de
       données en production (ex : changer la structure d'une table
       existante); référencement organique et payant
@@ -294,6 +294,6 @@ elements_competence:
       - "1 - Détermination correcte de l'information à rédiger"
       - "2 - Notation claire du travail effectué"
     contenu_essentiel: >-
-      phpDocumentor; manuel de l'utilisateur; guide des opérations
+      pydoc; manuel de l'utilisateur; guide des opérations
 description_dans_diagramme: >-
-  PHP vanille, intégration MySQL
+  Python, intégration MySQL

@@ -126,7 +126,7 @@ elements_competence:
       - "2 - Configuration appropriée du système de gestion de versions"
     contenu_essentiel: >-
       Console Git Bash; Git local; environnement de développement (ex :
-      PhpStorm); création d'extraits de code; création de gabarits de
+      Storm); création d'extraits de code; création de gabarits de
       départ; importation des librairies (ex : Bootstrap, jQuery); CDN vs
       installation locale
   - code: 00ST-4

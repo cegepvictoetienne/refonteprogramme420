@@ -113,7 +113,7 @@ elements_competence:
     contenu_essentiel: >-
       Avantages et inconvénients des services Web REST et SOAP; côté
       serveur : avantages et inconvénients de développer un service Web
-      avec différentes technologies (ex : PHP vanille, Laravel ou
+      avec différentes technologies (ex : Python, Laravel ou
       Node.js); côté client : intégration dans un site Web « régulier » vs
       utilisation d'un cadre d'application; avantages et inconvénients des
       principaux cadres d'application côté client (ex : Angular, Vue,
