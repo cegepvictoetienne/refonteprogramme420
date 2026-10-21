@@ -64,8 +64,8 @@ notes_preliminaires: >-
 
 
   Son atteinte sera complétée dans les cours suivants : 420-3B4-VI : Bases
-  de données 2 à la 3e session (profil B0 : Profil par défaut); 420-4C4-VI
-  : Mégadonnées à la 4e session (profil B0 : Profil par défaut).
+  de données II à la 3e session (profil B0 : Profil par défaut); 420-4C4-VI
+  : Bases de données non-relationelles à la 4e session (profil B0 : Profil par défaut).
 
 
   Le système de gestion de base de données ciblé pour ce cours est MySQL
@@ -77,8 +77,8 @@ epreuve_finale:
   ponderation: "50 %"
   performance_finale_exigee: >-
     À partir d'une mise en situation et du modèle fourni, l'élève aura à
-    produire : le script de création des déclencheurs; le script de
-    création des procédures stockées; les requêtes de vérification et
+    produire : le script de création des vues; le script de
+    création des utilisateurs et des rôles; les requêtes de vérification et
     implanter sa solution dans un système de gestion de base de données.
   contexte_realisation: >-
     L'épreuve finale sera un examen individuel d'une durée de 2 heures en
@@ -88,11 +88,10 @@ epreuve_finale:
     Les notes de cours fournies par l'enseignant.e seront permises.
   criteres_evaluation:
     - Analyse juste des spécifications du système de gestion de base de données
-    - Utilisation appropriée des contraintes d'intégrité référentielle, des déclencheurs
+    - Utilisation appropriée des contraintes d'intégrité référentielle, des vues
     - Détermination judicieuse des types de requêtes à formuler
     - Utilisation appropriée des clauses, des opérateurs, des commandes ou des paramètres
     - Fonctionnement correct des requêtes
-    - Création appropriée de procédures stockées ou de scripts
     - Notation claire de la documentation d'aide à la programmation
 
 demarche_pedagogique_suggeree: >-
@@ -109,7 +108,7 @@ materiel_requis: >-
 elements_competence:
   - code: 00Q7-1
     titre: "Créer la base de données"
-    duree_heures: 8
+    duree_heures: 12
     habiletes:
       - "Formuler les instructions de création de la base de données"
     criteres_performance:
@@ -122,7 +121,7 @@ elements_competence:
       (AUTO INCREMENT)
   - code: 00Q7-2
     titre: "Formuler des requêtes de lecture, d'insertion, de modification et de suppression de données"
-    duree_heures: 16
+    duree_heures: 24
     habiletes:
       - "Déterminer les types de requêtes à formuler"
       - "Utiliser les clauses, les opérateurs, les commandes ou les paramètres"
@@ -139,10 +138,10 @@ elements_competence:
       opérateurs de filtrage (BETWEEN, IN); opérateur de comparaison avec un
       modèle ou expression régulière (LIKE, REGEXP); fonctions statistiques
       (MIN, MAX, AVG, COUNT, SUM); clause d'agrégation (GROUP BY); opérateur
-      de filtrage pour agrégat (HAVING)
+      de filtrage pour agrégat (HAVING); Vues
   - code: 00Q7-3
     titre: "Assurer la confidentialité et la cohérence des données"
-    duree_heures: 12
+    duree_heures: 16
     habiletes:
       - "Déterminer les techniques à utiliser"
       - "Gérer les autorisations"
@@ -158,25 +157,10 @@ elements_competence:
       modification des droits d'accès, …); gestion des accès aux tables
       (lecture, écriture, modification des droits d'accès, …); types de
       cryptage; contraintes d'intégrité (FOREIGN KEY, UNIQUE, CHECK,
-      DEFAULT); déclencheur (TRIGGER); transaction (COMMIT, ROLLBACK, …)
-  - code: 00Q7-4
-    titre: "Programmer des traitements de données automatisés"
-    duree_heures: 20
-    habiletes:
-      - "Déterminer les traitements de données à automatiser"
-      - "Créer les procédures stockées ou les scripts"
-      - "Annoter la documentation d'aide à la programmation"
-    criteres_performance:
-      - "1 - Détermination judicieuse des traitements de données à automatiser"
-      - "2 - Création appropriée de procédures stockées ou de scripts"
-      - "3 - Notation claire de la documentation d'aide à la programmation"
-    contenu_essentiel: >-
-      Fonctions intégrées au système de gestion de base de données (DATE,
-      TIME, IF, …); création de procédures (CREATE PROCEDURE); création de
-      fonctions (CREATE FONCTION); produire le script annoté
+      DEFAULT); 
   - code: 00Q7-5
     titre: "Sauvegarder et restaurer la base de données"
-    duree_heures: 4
+    duree_heures: 8
     habiletes:
       - "Choisir les techniques de sauvegarde et de restauration à utiliser"
       - "Utiliser les techniques de sauvegarde et de restauration de la base de données"
@@ -187,6 +171,7 @@ elements_competence:
       - "3 - Respect de la procédure et de la fréquence de sauvegarde"
     contenu_essentiel: >-
       Clause de sauvegarde de la base de données (BACKUP DATABASE);
-      automatisation de la sauvegarde; gestion des fichiers de sauvegarde
+      automatisation de la sauvegarde; gestion des fichiers de sauvegarde; Validation de sauvegarde;
+      Restauration de la base de données;
 description_dans_diagramme: >-
   MySQL, jointure, procédures stockées, déclencheur
