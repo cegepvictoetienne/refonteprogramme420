@@ -213,4 +213,4 @@ elements_competence:
       commentaires sur les commits de Git (ex : git commit -F avec un
       fichier)
 description_dans_diagramme: >-
-  Web client (HTML, CSS, Bootstrap, Javascript)
+  HTML, CSS, Javascript
