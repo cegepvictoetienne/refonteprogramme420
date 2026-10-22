@@ -15,9 +15,6 @@ redacteurs:
   - Carle, Shany
   - Tousignant, Simon
 prealables:
-  - cours: 201-1A3-VI
-    titre: Mathématiques de l'ordinateur
-    type: Relatif
   - cours: 420-2A6-VI
     titre: Programmation 2
 prealable_a:

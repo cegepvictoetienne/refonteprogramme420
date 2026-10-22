@@ -15,8 +15,7 @@ redacteurs:
   - Carle, Shany
   - Tousignant, Simon
 prealables:
-  - cours: 201-1A3-VI
-    titre: Mathématiques de l'ordinateur
+
 prealable_a:
   - cours: 420-3F4-VI
     titre: Sécurité informatique
