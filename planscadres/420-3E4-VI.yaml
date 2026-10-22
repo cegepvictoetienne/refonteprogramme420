@@ -148,3 +148,5 @@ elements_competence:
       - "3 - Fonctionnement optimal du réseau"
     contenu_essentiel: >-
       Azure Networking; 
+description_dans_diagramme: >-
+  Adressage IPv6, Active Directory, Entra ID, Configurations avancées

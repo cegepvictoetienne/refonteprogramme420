@@ -221,3 +221,5 @@ elements_competence:
       - "3 - Fonctionnement optimal du réseau"
     contenu_essentiel: >-
       Jeux de tests; journalisation des périphériques
+description_dans_diagramme: >-
+  Adressage IPv4, Équipements, Protocoles et services, Routage, VLan

@@ -172,4 +172,4 @@ elements_competence:
       automatisation de la sauvegarde; gestion des fichiers de sauvegarde; Validation de sauvegarde;
       Restauration de la base de données;
 description_dans_diagramme: >-
-  MySQL, jointure, procédures stockées, déclencheur
+  MySQL, jointure, vues, CRUD
