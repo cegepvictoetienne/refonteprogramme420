@@ -218,4 +218,4 @@ elements_competence:
     contenu_essentiel: >-
       Générateurs de documentation dans l'environnement choisi
 description_dans_diagramme: >-
-  API, AJAX
+  API REST
