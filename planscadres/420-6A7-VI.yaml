@@ -18,6 +18,9 @@ redacteurs:
 prealables: 
   - cours: 420-5B5-VI
     titre: Projet intégrateur 1
+  - cours: 350-6A3-VI
+    titre: Interrelations professionnelles
+    type: Corequis
 prealables_speciaux: >-
   L'élève doit avoir réussi 25 des 27 cours de formation spécifique des
   sessions 1 à 5 dont 420-5B5-VI ainsi que 8 cours de formation générale
