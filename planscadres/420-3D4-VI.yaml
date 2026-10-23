@@ -39,7 +39,6 @@ competences:
     titre: "Exploiter un système de gestion de base de données"
     elements:
       - "1 - Créer la base de données"
-      - "2 - Formuler des requêtes de lecture, d'insertion, de modification et de suppression de données"
       - "3 - Assurer la confidentialité et la cohérence des données"
       - "4 - Programmer des traitements de données automatisés"
 
@@ -70,18 +69,15 @@ notes_preliminaires: >-
 epreuve_finale:
   ponderation: "50 %"
   performance_finale_exigee: >-
-    Partie 1 : Modélisation et création de la base de données : modèle
-    avec relations et table pivot, au moins un déclencheur, création d'un
-    utilisateur et de ses autorisations. L'élève aura à produire : le
-    modèle de la base de données; le script de création de la base de
-    données; le script de création des déclencheurs; le script de création
-    d'un utilisateur et de modifications de ses autorisations.
+    Partie 1 : Modélisation de la base de données : modèle
+    avec relations et table pivot, au moins un déclencheur 
+    L'élève aura à produire : le modèle de la base de données.
 
 
     Partie 2 : Exploitation de la base de données : transaction, procédure
-    stockée, jointures et encryption à partir d'une base de données fournie
+    stockée et fonction à partir d'une base de données fournie
     et d'un modèle complexe. L'élève aura à produire : le script de
-    création des procédures stockées; les requêtes de vérification;
+    création des procédures stockées et fonctions; les requêtes de vérification;
     l'implémentation des scénarios exigés pour exploiter la base de
     données.
   contexte_realisation: >-
@@ -92,14 +88,9 @@ epreuve_finale:
   criteres_evaluation:
     - Conception juste du modèle de données
     - Analyse juste des spécifications du système de gestion de base de données
-    - Formulation appropriée des instructions de création de la base de données
-    - Utilisation appropriée des contraintes d'intégrité référentielle, des déclencheurs
     - Détermination judicieuse des types de requêtes à formuler
     - Utilisation appropriée des clauses, des opérateurs, des commandes ou des paramètres
-    - Utilisation appropriée des expressions régulières
-    - Fonctionnement correct des requêtes
-    - Création appropriée de procédures stockées ou de scripts
-    - Choix approprié des instructions, des types de données élémentaires et des structures de données
+    - Création appropriée de procédures stockées ou de fonctions
     - Organisation logique des instructions
     - Respect de la syntaxe du langage
     - Respect des règles de codage
@@ -118,7 +109,7 @@ demarche_pedagogique_suggeree: >-
   absolument les compléter afin d'être prêts pour l'épreuve finale.
 
 mediagraphie:
-  - "Notes de cours fournies en format numérique"
+  - "Documentation MySQL : https://dev.mysql.com/doc"
 
 materiel_requis: >-
   Un ordinateur portable
@@ -126,7 +117,7 @@ materiel_requis: >-
 elements_competence:
   - code: 00Q7-1
     titre: "Créer la base de données"
-    duree_heures: 6
+    duree_heures: 15
     habiletes:
       - "Analyser le modèle de données"
       - "Analyser les spécifications du système de gestion de base de données"
@@ -136,26 +127,10 @@ elements_competence:
       - "2 - Analyse juste des spécifications du système de gestion de base de données"
       - "3 - Formulation appropriée des instructions de création de la base de données"
     contenu_essentiel: >-
-      CREATE TABLE; INDEX;
-  - code: 00Q7-2
-    titre: "Formuler des requêtes de lecture, d'insertion, de modification et de suppression de données"
-    duree_heures: 20
-    habiletes:
-      - "Déterminer les types de requêtes à formuler"
-      - "Utiliser des clauses, des opérateurs, des commandes ou des paramètres"
-      - "Utiliser les expressions régulières"
-    criteres_performance:
-      - "1 - Détermination judicieuse des types de requêtes à formuler"
-      - "2 - Utilisation appropriée des clauses, des opérateurs, des commandes ou des paramètres"
-      - "3 - Utilisation appropriée des expressions régulières"
-      - "4 - Fonctionnement correct des requêtes"
-    contenu_essentiel: >-
-      Commandes SQL avancées; INSERT INTO SELECT; UPDATE avec champ de
-      référence; GROUP BY avec HAVING; REGEX; IFNULL(); EXISTS(); jointures
-      (INNER JOIN, LEFT JOIN, RIGHT JOIN, UNION)
+      Schéma conceptuel, schéma relationnel;
   - code: 00Q7-3
     titre: "Assurer la confidentialité et la cohérence des données"
-    duree_heures: 4
+    duree_heures: 15
     habiletes:
       - "Déterminer les techniques à utiliser"
       - "Gérer les autorisations"
@@ -167,11 +142,13 @@ elements_competence:
       - "3 - Cryptage approprié des données"
       - "4 - Utilisation appropriée des contraintes d'intégrité référentielle, des déclencheurs ou des transactions"
     contenu_essentiel: >-
-      contraintes d'intégrité référentielle; transactions; encryption
-      complète avec clé; déclencheurs
+      transactions; encryption
+      complète avec clé;
+      déclencheurs (BEFORE (INSERT, UPDATE, DELETE), AFTER (INSERT, UPDATE,
+      DELETE))
   - code: 00Q7-4
     titre: "Programmer des traitements de données automatisés"
-    duree_heures: 15
+    duree_heures: 20
     habiletes:
       - "Déterminer les traitements de données à automatiser"
       - "Créer des procédures stockées"
@@ -184,9 +161,6 @@ elements_competence:
       - "3 - Notation claire de la documentation d'aide à la programmation"
     contenu_essentiel: >-
       Procédures stockées, paramètres et valeurs de retour; curseurs;
-      déclencheurs (BEFORE (INSERT, UPDATE, DELETE), AFTER (INSERT, UPDATE,
-      DELETE))
-      JSON_TABLE()
-      Planification de tâches automatisées
+      Fonctions
 description_dans_diagramme: >-
   Modélisation, Procédures stockées, déclencheurs
