@@ -47,7 +47,7 @@ cible_formation: >-
   classes et de concevoir et exploiter une base de données.
 
 notes_preliminaires: >-
-  Le cours 420-3B4-VI : Bases de données II fait partie de la formation
+  Le cours 420-3D4-VI : Bases de données 2 fait partie de la formation
   menant au diplôme d'études collégiales (DEC) dans le programme 420.B0 :
   Techniques de l'informatique.
 
@@ -59,7 +59,7 @@ notes_preliminaires: >-
   est vue partiellement.
 
 
-  Son acquisition a débuté dans le cours 420-2B4-VI : Bases de données I à
+  Son acquisition a débuté dans le cours 420-2B4-VI : Bases de données 1 à
   la 2e session.
 
 
@@ -70,14 +70,14 @@ epreuve_finale:
   ponderation: "50 %"
   performance_finale_exigee: >-
     Partie 1 : Modélisation de la base de données : modèle
-    avec relations et table pivot, au moins un déclencheur 
+    avec relations et table pivot
     L'élève aura à produire : le modèle de la base de données.
 
 
     Partie 2 : Exploitation de la base de données : transaction, procédure
-    stockée et fonction à partir d'une base de données fournie
+    stockée, un déclencheur et fonction à partir d'une base de données fournie
     et d'un modèle complexe. L'élève aura à produire : le script de
-    création des procédures stockées et fonctions; les requêtes de vérification;
+    création des procédures stockées, déclencheur et fonctions; les requêtes de vérification;
     l'implémentation des scénarios exigés pour exploiter la base de
     données.
   contexte_realisation: >-
@@ -87,14 +87,12 @@ epreuve_finale:
     cours de l'élève et site web du cours.
   criteres_evaluation:
     - Conception juste du modèle de données
-    - Analyse juste des spécifications du système de gestion de base de données
     - Détermination judicieuse des types de requêtes à formuler
     - Utilisation appropriée des clauses, des opérateurs, des commandes ou des paramètres
     - Création appropriée de procédures stockées ou de fonctions
     - Organisation logique des instructions
     - Respect de la syntaxe du langage
     - Respect des règles de codage
-    - Notation claire de la documentation d'aide à la programmation
 
 demarche_pedagogique_suggeree: >-
   Courtes périodes d'enseignement théorique suivies d'application au fur et
@@ -130,7 +128,7 @@ elements_competence:
       Schéma conceptuel, schéma relationnel;
   - code: 00Q7-3
     titre: "Assurer la confidentialité et la cohérence des données"
-    duree_heures: 15
+    duree_heures: 10
     habiletes:
       - "Déterminer les techniques à utiliser"
       - "Gérer les autorisations"

@@ -60,8 +60,8 @@ notes_preliminaires: >-
   est vue partiellement.
 
 
-  Son atteinte sera complétée dans les cours suivants : 420-3B4-VI : Bases
-  de données II à la 3e session (profil B0 : Profil par défaut); 420-4C4-VI
+  Son atteinte sera complétée dans les cours suivants : 420-3D4-VI : Bases
+  de données 2 à la 3e session (profil B0 : Profil par défaut); 420-4C4-VI
   : Bases de données non-relationelles à la 4e session (profil B0 : Profil par défaut).
 
 
@@ -84,12 +84,10 @@ epreuve_finale:
     bases de données pour produire ses scripts et implanter sa solution.
     Les notes de cours fournies par l'enseignant.e seront permises.
   criteres_evaluation:
-    - Analyse juste des spécifications du système de gestion de base de données
     - Utilisation appropriée des contraintes d'intégrité référentielle, des vues
     - Détermination judicieuse des types de requêtes à formuler
     - Utilisation appropriée des clauses, des opérateurs, des commandes ou des paramètres
     - Fonctionnement correct des requêtes
-    - Notation claire de la documentation d'aide à la programmation
 
 demarche_pedagogique_suggeree: >-
   Théorie, démonstrations, et auto-apprentissage, informations complétées à
